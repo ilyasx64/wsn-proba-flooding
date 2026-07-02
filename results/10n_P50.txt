@@ -1,0 +1,2233 @@
+Random seed: 123456
+0.359 ID:8 [INFO: Main      ] Starting Contiki-NG-5a3af06
+0.362 ID:8 [INFO: Main      ] - Routing: nullrouting
+0.365 ID:8 [INFO: Main      ] - Net: nullnet
+0.367 ID:8 [INFO: Main      ] - MAC: CSMA
+0.370 ID:8 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
+0.374 ID:8 [INFO: Main      ] - 802.15.4 Default channel: 26
+0.376 ID:8 [INFO: Main      ] Node ID: 8
+0.381 ID:8 [INFO: Main      ] Link-layer address: 0808.0800.0874.1200
+0.385 ID:8 [INFO: Sky       ] CC2420 CCA threshold -45
+0.388 ID:8 [INFO: Flood     ] Role=SOURCE id=8 P=50%
+0.523 ID:2 [INFO: Main      ] Starting Contiki-NG-5a3af06
+0.526 ID:2 [INFO: Main      ] - Routing: nullrouting
+0.528 ID:2 [INFO: Main      ] - Net: nullnet
+0.530 ID:2 [INFO: Main      ] - MAC: CSMA
+0.533 ID:2 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
+0.537 ID:2 [INFO: Main      ] - 802.15.4 Default channel: 26
+0.537 ID:6 [INFO: Main      ] Starting Contiki-NG-5a3af06
+0.539 ID:2 [INFO: Main      ] Node ID: 2
+0.540 ID:6 [INFO: Main      ] - Routing: nullrouting
+0.542 ID:6 [INFO: Main      ] - Net: nullnet
+0.545 ID:2 [INFO: Main      ] Link-layer address: 0202.0200.0274.1200
+0.545 ID:6 [INFO: Main      ] - MAC: CSMA
+0.548 ID:2 [INFO: Sky       ] CC2420 CCA threshold -45
+0.548 ID:6 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
+0.551 ID:2 [INFO: Flood     ] Role=SOURCE id=2 P=50%
+0.552 ID:6 [INFO: Main      ] - 802.15.4 Default channel: 26
+0.554 ID:6 [INFO: Main      ] Node ID: 6
+0.559 ID:6 [INFO: Main      ] Link-layer address: 0606.0600.0674.1200
+0.562 ID:6 [INFO: Sky       ] CC2420 CCA threshold -45
+0.566 ID:6 [INFO: Flood     ] Role=SOURCE id=6 P=50%
+0.635 ID:4 [INFO: Main      ] Starting Contiki-NG-5a3af06
+0.638 ID:4 [INFO: Main      ] - Routing: nullrouting
+0.640 ID:4 [INFO: Main      ] - Net: nullnet
+0.642 ID:4 [INFO: Main      ] - MAC: CSMA
+0.646 ID:4 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
+0.649 ID:4 [INFO: Main      ] - 802.15.4 Default channel: 26
+0.651 ID:4 [INFO: Main      ] Node ID: 4
+0.657 ID:4 [INFO: Main      ] Link-layer address: 0404.0400.0474.1200
+0.660 ID:4 [INFO: Sky       ] CC2420 CCA threshold -45
+0.664 ID:4 [INFO: Flood     ] Role=SOURCE id=4 P=50%
+0.669 ID:1 [INFO: Main      ] Starting Contiki-NG-5a3af06
+0.672 ID:1 [INFO: Main      ] - Routing: nullrouting
+0.674 ID:1 [INFO: Main      ] - Net: nullnet
+0.676 ID:1 [INFO: Main      ] - MAC: CSMA
+0.680 ID:1 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
+0.683 ID:1 [INFO: Main      ] - 802.15.4 Default channel: 26
+0.685 ID:1 [INFO: Main      ] Node ID: 1
+0.688 ID:7 [INFO: Main      ] Starting Contiki-NG-5a3af06
+0.691 ID:1 [INFO: Main      ] Link-layer address: 0101.0100.0174.1200
+0.691 ID:7 [INFO: Main      ] - Routing: nullrouting
+0.694 ID:7 [INFO: Main      ] - Net: nullnet
+0.694 ID:1 [INFO: Sky       ] CC2420 CCA threshold -45
+0.696 ID:7 [INFO: Main      ] - MAC: CSMA
+0.698 ID:1 [INFO: Flood     ] Role=PUITS id=1 (destination unique)
+0.699 ID:7 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
+0.703 ID:7 [INFO: Main      ] - 802.15.4 Default channel: 26
+0.705 ID:7 [INFO: Main      ] Node ID: 7
+0.710 ID:7 [INFO: Main      ] Link-layer address: 0707.0700.0774.1200
+0.714 ID:7 [INFO: Sky       ] CC2420 CCA threshold -45
+0.717 ID:7 [INFO: Flood     ] Role=SOURCE id=7 P=50%
+0.843 ID:10 [INFO: Main      ] Starting Contiki-NG-5a3af06
+0.846 ID:10 [INFO: Main      ] - Routing: nullrouting
+0.848 ID:10 [INFO: Main      ] - Net: nullnet
+0.850 ID:10 [INFO: Main      ] - MAC: CSMA
+0.854 ID:10 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
+0.857 ID:10 [INFO: Main      ] - 802.15.4 Default channel: 26
+0.860 ID:10 [INFO: Main      ] Node ID: 10
+0.865 ID:10 [INFO: Main      ] Link-layer address: 0a0a.0a00.0a74.1200
+0.868 ID:10 [INFO: Sky       ] CC2420 CCA threshold -45
+0.872 ID:10 [INFO: Flood     ] Role=SOURCE id=10 P=50%
+0.995 ID:9 [INFO: Main      ] Starting Contiki-NG-5a3af06
+0.998 ID:9 [INFO: Main      ] - Routing: nullrouting
+1.000 ID:9 [INFO: Main      ] - Net: nullnet
+1.002 ID:5 [INFO: Main      ] Starting Contiki-NG-5a3af06
+1.002 ID:9 [INFO: Main      ] - MAC: CSMA
+1.005 ID:5 [INFO: Main      ] - Routing: nullrouting
+1.006 ID:9 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
+1.007 ID:5 [INFO: Main      ] - Net: nullnet
+1.009 ID:5 [INFO: Main      ] - MAC: CSMA
+1.009 ID:9 [INFO: Main      ] - 802.15.4 Default channel: 26
+1.011 ID:9 [INFO: Main      ] Node ID: 9
+1.012 ID:5 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
+1.016 ID:5 [INFO: Main      ] - 802.15.4 Default channel: 26
+1.017 ID:9 [INFO: Main      ] Link-layer address: 0909.0900.0974.1200
+1.018 ID:5 [INFO: Main      ] Node ID: 5
+1.020 ID:9 [INFO: Sky       ] CC2420 CCA threshold -45
+1.024 ID:5 [INFO: Main      ] Link-layer address: 0505.0500.0574.1200
+1.024 ID:9 [INFO: Flood     ] Role=SOURCE id=9 P=50%
+1.027 ID:5 [INFO: Sky       ] CC2420 CCA threshold -45
+1.030 ID:5 [INFO: Flood     ] Role=SOURCE id=5 P=50%
+1.186 ID:3 [INFO: Main      ] Starting Contiki-NG-5a3af06
+1.189 ID:3 [INFO: Main      ] - Routing: nullrouting
+1.191 ID:3 [INFO: Main      ] - Net: nullnet
+1.193 ID:3 [INFO: Main      ] - MAC: CSMA
+1.197 ID:3 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
+1.200 ID:3 [INFO: Main      ] - 802.15.4 Default channel: 26
+1.202 ID:3 [INFO: Main      ] Node ID: 3
+1.208 ID:3 [INFO: Main      ] Link-layer address: 0303.0300.0374.1200
+1.211 ID:3 [INFO: Sky       ] CC2420 CCA threshold -45
+1.215 ID:3 [INFO: Flood     ] Role=SOURCE id=3 P=50%
+1.693 ID:2 [INFO: Flood     ] SOURCE origin=2 seq=0
+1.698 ID:2 [INFO: Flood     ] TX origin=2 seq=0 hops=0 total_tx=1
+1.745 ID:3 [INFO: Flood     ] DROP origin=2 seq=0 (proba)
+1.745 ID:7 [INFO: Flood     ] DROP origin=2 seq=0 (proba)
+1.745 ID:1 [INFO: Flood     ] SINK_RECV origin=2 seq=0 hops=0
+3.907 ID:4 [INFO: Flood     ] SOURCE origin=4 seq=0
+3.912 ID:4 [INFO: Flood     ] TX origin=4 seq=0 hops=0 total_tx=1
+3.959 ID:9 [INFO: Flood     ] DROP origin=4 seq=0 (proba)
+3.961 ID:5 [INFO: Flood     ] TX origin=4 seq=0 hops=1 total_tx=1
+3.961 ID:3 [INFO: Flood     ] TX origin=4 seq=0 hops=1 total_tx=1
+3.969 ID:10 [INFO: Flood     ] DROP origin=4 seq=0 (proba)
+3.971 ID:8 [INFO: Flood     ] DROP origin=4 seq=0 (proba)
+3.971 ID:2 [INFO: Flood     ] DROP origin=4 seq=0 (proba)
+4.056 ID:9 [INFO: Flood     ] SOURCE origin=9 seq=0
+4.061 ID:9 [INFO: Flood     ] TX origin=9 seq=0 hops=0 total_tx=1
+4.092 ID:8 [INFO: Flood     ] DROP origin=9 seq=0 (proba)
+4.094 ID:4 [INFO: Flood     ] TX origin=9 seq=0 hops=1 total_tx=2
+4.094 ID:10 [INFO: Flood     ] TX origin=9 seq=0 hops=1 total_tx=1
+4.103 ID:5 [INFO: Flood     ] DROP origin=9 seq=0 (proba)
+4.123 ID:3 [INFO: Flood     ] TX origin=9 seq=0 hops=2 total_tx=2
+4.135 ID:2 [INFO: Flood     ] TX origin=9 seq=0 hops=3 total_tx=2
+4.158 ID:7 [INFO: Flood     ] DROP origin=9 seq=0 (proba)
+4.158 ID:1 [INFO: Flood     ] SINK_RECV origin=9 seq=0 hops=3
+4.364 ID:6 [INFO: Flood     ] SOURCE origin=6 seq=0
+4.369 ID:6 [INFO: Flood     ] TX origin=6 seq=0 hops=0 total_tx=1
+4.416 ID:1 [INFO: Flood     ] SINK_RECV origin=6 seq=0 hops=0
+4.418 ID:7 [INFO: Flood     ] TX origin=6 seq=0 hops=1 total_tx=1
+4.434 ID:2 [INFO: Flood     ] DROP origin=6 seq=0 (proba)
+4.436 ID:8 [INFO: Flood     ] TX origin=6 seq=0 hops=2 total_tx=1
+4.480 ID:9 [INFO: Flood     ] DROP origin=6 seq=0 (proba)
+4.480 ID:3 [INFO: Flood     ] DROP origin=6 seq=0 (proba)
+5.405 ID:7 [INFO: Flood     ] SOURCE origin=7 seq=0
+5.410 ID:7 [INFO: Flood     ] TX origin=7 seq=0 hops=0 total_tx=2
+5.427 ID:2 [INFO: Flood     ] TX origin=7 seq=0 hops=1 total_tx=3
+5.427 ID:8 [INFO: Flood     ] TX origin=7 seq=0 hops=1 total_tx=2
+5.427 ID:6 [INFO: Flood     ] TX origin=7 seq=0 hops=1 total_tx=2
+5.448 ID:9 [INFO: Flood     ] DROP origin=7 seq=0 (proba)
+5.450 ID:3 [INFO: Flood     ] TX origin=7 seq=0 hops=2 total_tx=3
+5.464 ID:4 [INFO: Flood     ] TX origin=7 seq=0 hops=3 total_tx=3
+5.470 ID:1 [INFO: Flood     ] SINK_RECV origin=7 seq=0 hops=1
+5.507 ID:5 [INFO: Flood     ] TX origin=7 seq=0 hops=4 total_tx=2
+5.537 ID:10 [INFO: Flood     ] TX origin=7 seq=0 hops=5 total_tx=2
+6.555 ID:5 [INFO: Flood     ] SOURCE origin=5 seq=0
+6.560 ID:5 [INFO: Flood     ] TX origin=5 seq=0 hops=0 total_tx=3
+6.590 ID:10 [INFO: Flood     ] DROP origin=5 seq=0 (proba)
+6.592 ID:4 [INFO: Flood     ] TX origin=5 seq=0 hops=1 total_tx=4
+6.637 ID:9 [INFO: Flood     ] DROP origin=5 seq=0 (proba)
+6.639 ID:3 [INFO: Flood     ] TX origin=5 seq=0 hops=2 total_tx=4
+6.690 ID:8 [INFO: Flood     ] TX origin=5 seq=0 hops=3 total_tx=3
+6.690 ID:2 [INFO: Flood     ] TX origin=5 seq=0 hops=3 total_tx=4
+6.721 ID:1 [INFO: Flood     ] SINK_RECV origin=5 seq=0 hops=3
+6.723 ID:7 [INFO: Flood     ] TX origin=5 seq=0 hops=4 total_tx=3
+6.748 ID:6 [INFO: Flood     ] TX origin=5 seq=0 hops=5 total_tx=3
+8.123 ID:8 [INFO: Flood     ] SOURCE origin=8 seq=0
+8.128 ID:8 [INFO: Flood     ] TX origin=8 seq=0 hops=0 total_tx=4
+8.138 ID:9 [INFO: Flood     ] TX origin=8 seq=0 hops=1 total_tx=2
+8.138 ID:3 [INFO: Flood     ] TX origin=8 seq=0 hops=1 total_tx=5
+8.138 ID:7 [INFO: Flood     ] TX origin=8 seq=0 hops=1 total_tx=4
+8.156 ID:10 [INFO: Flood     ] TX origin=8 seq=0 hops=2 total_tx=3
+8.156 ID:4 [INFO: Flood     ] TX origin=8 seq=0 hops=2 total_tx=5
+8.161 ID:2 [INFO: Flood     ] TX origin=8 seq=0 hops=2 total_tx=5
+8.161 ID:6 [INFO: Flood     ] TX origin=8 seq=0 hops=2 total_tx=4
+8.169 ID:1 [INFO: Flood     ] SINK_RECV origin=8 seq=0 hops=2
+8.171 ID:5 [INFO: Flood     ] TX origin=8 seq=0 hops=3 total_tx=4
+9.334 ID:10 [INFO: Flood     ] SOURCE origin=10 seq=0
+9.339 ID:10 [INFO: Flood     ] TX origin=10 seq=0 hops=0 total_tx=4
+9.361 ID:9 [INFO: Flood     ] DROP origin=10 seq=0 (proba)
+9.363 ID:5 [INFO: Flood     ] TX origin=10 seq=0 hops=1 total_tx=5
+9.395 ID:4 [INFO: Flood     ] DROP origin=10 seq=0 (proba)
+9.950 ID:3 [INFO: Flood     ] SOURCE origin=3 seq=0
+9.955 ID:3 [INFO: Flood     ] TX origin=3 seq=0 hops=0 total_tx=6
+9.963 ID:4 [INFO: Flood     ] DROP origin=3 seq=0 (proba)
+9.964 ID:8 [INFO: Flood     ] TX origin=3 seq=0 hops=1 total_tx=5
+9.964 ID:2 [INFO: Flood     ] TX origin=3 seq=0 hops=1 total_tx=6
+9.981 ID:7 [INFO: Flood     ] TX origin=3 seq=0 hops=2 total_tx=5
+9.981 ID:9 [INFO: Flood     ] TX origin=3 seq=0 hops=2 total_tx=3
+9.988 ID:10 [INFO: Flood     ] DROP origin=3 seq=0 (proba)
+9.997 ID:6 [INFO: Flood     ] TX origin=3 seq=0 hops=3 total_tx=5
+10.010 ID:1 [INFO: Flood     ] SINK_RECV origin=3 seq=0 hops=1
+12.701 ID:2 [INFO: Flood     ] SOURCE origin=2 seq=1
+12.706 ID:2 [INFO: Flood     ] TX origin=2 seq=1 hops=0 total_tx=7
+12.714 ID:3 [INFO: Flood     ] DROP origin=2 seq=1 (proba)
+12.714 ID:7 [INFO: Flood     ] DROP origin=2 seq=1 (proba)
+12.714 ID:1 [INFO: Flood     ] SINK_RECV origin=2 seq=1 hops=0
+13.681 ID:9 [INFO: Flood     ] SOURCE origin=9 seq=1
+13.686 ID:9 [INFO: Flood     ] TX origin=9 seq=1 hops=0 total_tx=4
+13.732 ID:10 [INFO: Flood     ] DROP origin=9 seq=1 (proba)
+13.732 ID:4 [INFO: Flood     ] DROP origin=9 seq=1 (proba)
+13.732 ID:8 [INFO: Flood     ] DROP origin=9 seq=1 (proba)
+14.477 ID:4 [INFO: Flood     ] SOURCE origin=4 seq=1
+14.482 ID:4 [INFO: Flood     ] TX origin=4 seq=1 hops=0 total_tx=6
+14.521 ID:5 [INFO: Flood     ] DROP origin=4 seq=1 (proba)
+14.521 ID:3 [INFO: Flood     ] DROP origin=4 seq=1 (proba)
+14.523 ID:9 [INFO: Flood     ] TX origin=4 seq=1 hops=1 total_tx=5
+14.554 ID:8 [INFO: Flood     ] TX origin=4 seq=1 hops=2 total_tx=6
+14.554 ID:10 [INFO: Flood     ] TX origin=4 seq=1 hops=2 total_tx=5
+14.581 ID:7 [INFO: Flood     ] DROP origin=4 seq=1 (proba)
+15.410 ID:6 [INFO: Flood     ] SOURCE origin=6 seq=1
+15.416 ID:6 [INFO: Flood     ] TX origin=6 seq=1 hops=0 total_tx=6
+15.446 ID:1 [INFO: Flood     ] SINK_RECV origin=6 seq=1 hops=0
+15.448 ID:7 [INFO: Flood     ] TX origin=6 seq=1 hops=1 total_tx=6
+15.456 ID:2 [INFO: Flood     ] DROP origin=6 seq=1 (proba)
+15.458 ID:8 [INFO: Flood     ] TX origin=6 seq=1 hops=2 total_tx=7
+15.487 ID:9 [INFO: Flood     ] DROP origin=6 seq=1 (proba)
+15.488 ID:3 [INFO: Flood     ] TX origin=6 seq=1 hops=3 total_tx=7
+15.527 ID:4 [INFO: Flood     ] TX origin=6 seq=1 hops=4 total_tx=7
+15.534 ID:5 [INFO: Flood     ] DROP origin=6 seq=1 (proba)
+16.233 ID:7 [INFO: Flood     ] SOURCE origin=7 seq=1
+16.239 ID:7 [INFO: Flood     ] TX origin=7 seq=1 hops=0 total_tx=7
+16.277 ID:8 [INFO: Flood     ] DROP origin=7 seq=1 (proba)
+16.279 ID:6 [INFO: Flood     ] TX origin=7 seq=1 hops=1 total_tx=7
+16.279 ID:2 [INFO: Flood     ] TX origin=7 seq=1 hops=1 total_tx=8
+16.287 ID:1 [INFO: Flood     ] SINK_RECV origin=7 seq=1 hops=1
+16.316 ID:3 [INFO: Flood     ] TX origin=7 seq=1 hops=2 total_tx=8
+16.324 ID:4 [INFO: Flood     ] DROP origin=7 seq=1 (proba)
+17.076 ID:8 [INFO: Flood     ] SOURCE origin=8 seq=1
+17.082 ID:8 [INFO: Flood     ] TX origin=8 seq=1 hops=0 total_tx=8
+17.114 ID:9 [INFO: Flood     ] TX origin=8 seq=1 hops=1 total_tx=6
+17.114 ID:3 [INFO: Flood     ] TX origin=8 seq=1 hops=1 total_tx=9
+17.114 ID:7 [INFO: Flood     ] TX origin=8 seq=1 hops=1 total_tx=8
+17.121 ID:4 [INFO: Flood     ] DROP origin=8 seq=1 (proba)
+17.123 ID:2 [INFO: Flood     ] TX origin=8 seq=1 hops=2 total_tx=9
+17.158 ID:1 [INFO: Flood     ] SINK_RECV origin=8 seq=1 hops=2
+17.159 ID:6 [INFO: Flood     ] DROP origin=8 seq=1 (proba)
+17.162 ID:10 [INFO: Flood     ] DROP origin=8 seq=1 (proba)
+17.781 ID:5 [INFO: Flood     ] SOURCE origin=5 seq=1
+17.786 ID:5 [INFO: Flood     ] TX origin=5 seq=1 hops=0 total_tx=6
+17.794 ID:10 [INFO: Flood     ] DROP origin=5 seq=1 (proba)
+17.794 ID:4 [INFO: Flood     ] DROP origin=5 seq=1 (proba)
+19.631 ID:10 [INFO: Flood     ] SOURCE origin=10 seq=1
+19.636 ID:10 [INFO: Flood     ] TX origin=10 seq=1 hops=0 total_tx=6
+19.650 ID:5 [INFO: Flood     ] DROP origin=10 seq=1 (proba)
+19.650 ID:9 [INFO: Flood     ] DROP origin=10 seq=1 (proba)
+19.903 ID:3 [INFO: Flood     ] SOURCE origin=3 seq=1
+19.908 ID:3 [INFO: Flood     ] TX origin=3 seq=1 hops=0 total_tx=10
+19.954 ID:2 [INFO: Flood     ] DROP origin=3 seq=1 (proba)
+19.954 ID:8 [INFO: Flood     ] DROP origin=3 seq=1 (proba)
+19.954 ID:4 [INFO: Flood     ] DROP origin=3 seq=1 (proba)
+21.560 ID:2 [INFO: Flood     ] SOURCE origin=2 seq=2
+21.566 ID:2 [INFO: Flood     ] TX origin=2 seq=2 hops=0 total_tx=10
+21.574 ID:1 [INFO: Flood     ] SINK_RECV origin=2 seq=2 hops=0
+21.575 ID:7 [INFO: Flood     ] TX origin=2 seq=2 hops=1 total_tx=9
+21.576 ID:3 [INFO: Flood     ] TX origin=2 seq=2 hops=1 total_tx=11
+21.583 ID:4 [INFO: Flood     ] DROP origin=2 seq=2 (proba)
+21.585 ID:8 [INFO: Flood     ] TX origin=2 seq=2 hops=2 total_tx=9
+21.612 ID:6 [INFO: Flood     ] DROP origin=2 seq=2 (proba)
+21.622 ID:9 [INFO: Flood     ] TX origin=2 seq=2 hops=3 total_tx=7
+21.632 ID:10 [INFO: Flood     ] TX origin=2 seq=2 hops=4 total_tx=7
+21.640 ID:5 [INFO: Flood     ] DROP origin=2 seq=2 (proba)
+23.884 ID:9 [INFO: Flood     ] SOURCE origin=9 seq=2
+23.889 ID:9 [INFO: Flood     ] TX origin=9 seq=2 hops=0 total_tx=8
+23.935 ID:4 [INFO: Flood     ] DROP origin=9 seq=2 (proba)
+23.935 ID:10 [INFO: Flood     ] DROP origin=9 seq=2 (proba)
+23.937 ID:8 [INFO: Flood     ] TX origin=9 seq=2 hops=1 total_tx=10
+23.987 ID:7 [INFO: Flood     ] DROP origin=9 seq=2 (proba)
+23.989 ID:3 [INFO: Flood     ] TX origin=9 seq=2 hops=2 total_tx=12
+23.998 ID:2 [INFO: Flood     ] TX origin=9 seq=2 hops=3 total_tx=11
+24.010 ID:1 [INFO: Flood     ] SINK_RECV origin=9 seq=2 hops=3
+25.070 ID:7 [INFO: Flood     ] SOURCE origin=7 seq=2
+25.075 ID:7 [INFO: Flood     ] TX origin=7 seq=2 hops=0 total_tx=10
+25.097 ID:6 [INFO: Flood     ] DROP origin=7 seq=2 (proba)
+25.097 ID:2 [INFO: Flood     ] DROP origin=7 seq=2 (proba)
+25.099 ID:8 [INFO: Flood     ] TX origin=7 seq=2 hops=1 total_tx=11
+25.114 ID:9 [INFO: Flood     ] TX origin=7 seq=2 hops=2 total_tx=9
+25.114 ID:3 [INFO: Flood     ] TX origin=7 seq=2 hops=2 total_tx=13
+25.121 ID:4 [INFO: Flood     ] DROP origin=7 seq=2 (proba)
+25.140 ID:10 [INFO: Flood     ] TX origin=7 seq=2 hops=3 total_tx=8
+25.168 ID:5 [INFO: Flood     ] TX origin=7 seq=2 hops=4 total_tx=7
+25.317 ID:6 [INFO: Flood     ] SOURCE origin=6 seq=2
+25.322 ID:6 [INFO: Flood     ] TX origin=6 seq=2 hops=0 total_tx=8
+25.336 ID:4 [INFO: Flood     ] SOURCE origin=4 seq=2
+25.341 ID:4 [INFO: Flood     ] TX origin=4 seq=2 hops=0 total_tx=8
+25.349 ID:5 [INFO: Flood     ] DROP origin=4 seq=2 (proba)
+25.349 ID:3 [INFO: Flood     ] DROP origin=4 seq=2 (proba)
+25.351 ID:9 [INFO: Flood     ] TX origin=4 seq=2 hops=1 total_tx=10
+25.368 ID:7 [INFO: Flood     ] DROP origin=6 seq=2 (proba)
+25.368 ID:1 [INFO: Flood     ] SINK_RECV origin=6 seq=2 hops=0
+25.381 ID:8 [INFO: Flood     ] DROP origin=4 seq=2 (proba)
+25.381 ID:10 [INFO: Flood     ] DROP origin=4 seq=2 (proba)
+27.389 ID:8 [INFO: Flood     ] SOURCE origin=8 seq=2
+27.394 ID:8 [INFO: Flood     ] TX origin=8 seq=2 hops=0 total_tx=12
+27.402 ID:7 [INFO: Flood     ] DROP origin=8 seq=2 (proba)
+27.402 ID:9 [INFO: Flood     ] DROP origin=8 seq=2 (proba)
+27.404 ID:3 [INFO: Flood     ] TX origin=8 seq=2 hops=1 total_tx=14
+27.414 ID:4 [INFO: Flood     ] TX origin=8 seq=2 hops=2 total_tx=9
+27.414 ID:2 [INFO: Flood     ] TX origin=8 seq=2 hops=2 total_tx=12
+27.432 ID:1 [INFO: Flood     ] SINK_RECV origin=8 seq=2 hops=2
+27.434 ID:5 [INFO: Flood     ] DROP origin=8 seq=2 (proba)
+27.562 ID:5 [INFO: Flood     ] SOURCE origin=5 seq=2
+27.568 ID:5 [INFO: Flood     ] TX origin=5 seq=2 hops=0 total_tx=8
+27.575 ID:4 [INFO: Flood     ] DROP origin=5 seq=2 (proba)
+27.577 ID:10 [INFO: Flood     ] TX origin=5 seq=2 hops=1 total_tx=9
+27.619 ID:9 [INFO: Flood     ] DROP origin=5 seq=2 (proba)
+29.459 ID:10 [INFO: Flood     ] SOURCE origin=10 seq=2
+29.465 ID:10 [INFO: Flood     ] TX origin=10 seq=2 hops=0 total_tx=10
+29.478 ID:9 [INFO: Flood     ] DROP origin=10 seq=2 (proba)
+29.479 ID:5 [INFO: Flood     ] DROP origin=10 seq=2 (proba)
+29.715 ID:3 [INFO: Flood     ] SOURCE origin=3 seq=2
+29.721 ID:3 [INFO: Flood     ] TX origin=3 seq=2 hops=0 total_tx=15
+29.759 ID:8 [INFO: Flood     ] DROP origin=3 seq=2 (proba)
+29.759 ID:4 [INFO: Flood     ] DROP origin=3 seq=2 (proba)
+29.761 ID:2 [INFO: Flood     ] TX origin=3 seq=2 hops=1 total_tx=13
+29.768 ID:7 [INFO: Flood     ] DROP origin=3 seq=2 (proba)
+29.769 ID:1 [INFO: Flood     ] SINK_RECV origin=3 seq=2 hops=1
+30.389 ID:8 [INFO: Flood     ] ENERGEST cpu=48797 lpm=936310 tx=288 rx=983459
+30.552 ID:2 [INFO: Flood     ] ENERGEST cpu=48362 lpm=936745 tx=312 rx=983433
+30.567 ID:6 [INFO: Flood     ] ENERGEST cpu=45978 lpm=939129 tx=192 rx=983562
+30.664 ID:4 [INFO: Flood     ] ENERGEST cpu=48403 lpm=936704 tx=215 rx=983537
+30.697 ID:1 [INFO: Flood     ] ENERGEST cpu=43682 lpm=941422 tx=0 rx=983767
+30.718 ID:7 [INFO: Flood     ] ENERGEST cpu=48266 lpm=936841 tx=241 rx=983511
+30.872 ID:10 [INFO: Flood     ] ENERGEST cpu=47525 lpm=937582 tx=244 rx=983508
+31.024 ID:9 [INFO: Flood     ] ENERGEST cpu=48440 lpm=936667 tx=240 rx=983510
+31.031 ID:5 [INFO: Flood     ] ENERGEST cpu=46961 lpm=938146 tx=193 rx=983561
+31.215 ID:3 [INFO: Flood     ] ENERGEST cpu=49328 lpm=935779 tx=360 rx=983381
+31.927 ID:2 [INFO: Flood     ] SOURCE origin=2 seq=3
+31.933 ID:2 [INFO: Flood     ] TX origin=2 seq=3 hops=0 total_tx=14
+31.978 ID:1 [INFO: Flood     ] SINK_RECV origin=2 seq=3 hops=0
+31.980 ID:3 [INFO: Flood     ] TX origin=2 seq=3 hops=1 total_tx=16
+31.980 ID:7 [INFO: Flood     ] TX origin=2 seq=3 hops=1 total_tx=11
+31.993 ID:4 [INFO: Flood     ] DROP origin=2 seq=3 (proba)
+31.995 ID:8 [INFO: Flood     ] TX origin=2 seq=3 hops=2 total_tx=13
+32.020 ID:9 [INFO: Flood     ] TX origin=2 seq=3 hops=3 total_tx=11
+32.022 ID:6 [INFO: Flood     ] DROP origin=2 seq=3 (proba)
+32.047 ID:10 [INFO: Flood     ] TX origin=2 seq=3 hops=4 total_tx=11
+32.095 ID:5 [INFO: Flood     ] DROP origin=2 seq=3 (proba)
+32.814 ID:9 [INFO: Flood     ] SOURCE origin=9 seq=3
+32.820 ID:9 [INFO: Flood     ] TX origin=9 seq=3 hops=0 total_tx=12
+32.849 ID:4 [INFO: Flood     ] DROP origin=9 seq=3 (proba)
+32.849 ID:10 [INFO: Flood     ] DROP origin=9 seq=3 (proba)
+32.849 ID:8 [INFO: Flood     ] DROP origin=9 seq=3 (proba)
+34.829 ID:4 [INFO: Flood     ] SOURCE origin=4 seq=3
+34.834 ID:4 [INFO: Flood     ] TX origin=4 seq=3 hops=0 total_tx=10
+34.848 ID:9 [INFO: Flood     ] DROP origin=4 seq=3 (proba)
+34.850 ID:5 [INFO: Flood     ] TX origin=4 seq=3 hops=1 total_tx=9
+34.851 ID:3 [INFO: Flood     ] TX origin=4 seq=3 hops=1 total_tx=17
+34.858 ID:10 [INFO: Flood     ] DROP origin=4 seq=3 (proba)
+34.876 ID:8 [INFO: Flood     ] DROP origin=4 seq=3 (proba)
+34.878 ID:2 [INFO: Flood     ] TX origin=4 seq=3 hops=2 total_tx=15
+34.908 ID:7 [INFO: Flood     ] DROP origin=4 seq=3 (proba)
+34.908 ID:1 [INFO: Flood     ] SINK_RECV origin=4 seq=3 hops=2
+35.140 ID:7 [INFO: Flood     ] SOURCE origin=7 seq=3
+35.145 ID:6 [INFO: Flood     ] SOURCE origin=6 seq=3
+35.145 ID:7 [INFO: Flood     ] TX origin=7 seq=3 hops=0 total_tx=12
+35.150 ID:6 [INFO: Flood     ] TX origin=6 seq=3 hops=0 total_tx=9
+35.165 ID:1 [INFO: Flood     ] SINK_RECV origin=6 seq=3 hops=0
+35.167 ID:7 [INFO: Flood     ] TX origin=6 seq=3 hops=1 total_tx=13
+35.183 ID:2 [INFO: Flood     ] DROP origin=7 seq=3 (proba)
+35.186 ID:6 [INFO: Flood     ] TX origin=7 seq=3 hops=1 total_tx=10
+35.186 ID:8 [INFO: Flood     ] TX origin=7 seq=3 hops=1 total_tx=14
+35.188 ID:2 [INFO: Flood     ] DROP origin=6 seq=3 (proba)
+35.191 ID:8 [INFO: Flood     ] DROP origin=6 seq=3 (proba)
+35.206 ID:9 [INFO: Flood     ] DROP origin=7 seq=3 (proba)
+35.208 ID:3 [INFO: Flood     ] TX origin=7 seq=3 hops=2 total_tx=18
+35.212 ID:1 [INFO: Flood     ] SINK_RECV origin=7 seq=3 hops=1
+35.237 ID:4 [INFO: Flood     ] TX origin=7 seq=3 hops=3 total_tx=11
+35.264 ID:5 [INFO: Flood     ] TX origin=7 seq=3 hops=4 total_tx=10
+35.272 ID:10 [INFO: Flood     ] DROP origin=7 seq=3 (proba)
+37.071 ID:5 [INFO: Flood     ] SOURCE origin=5 seq=3
+37.076 ID:5 [INFO: Flood     ] TX origin=5 seq=3 hops=0 total_tx=11
+37.086 ID:4 [INFO: Flood     ] TX origin=5 seq=3 hops=1 total_tx=12
+37.086 ID:10 [INFO: Flood     ] TX origin=5 seq=3 hops=1 total_tx=12
+37.093 ID:3 [INFO: Flood     ] DROP origin=5 seq=3 (proba)
+37.095 ID:9 [INFO: Flood     ] TX origin=5 seq=3 hops=2 total_tx=13
+37.131 ID:8 [INFO: Flood     ] DROP origin=5 seq=3 (proba)
+37.889 ID:8 [INFO: Flood     ] SOURCE origin=8 seq=3
+37.894 ID:8 [INFO: Flood     ] TX origin=8 seq=3 hops=0 total_tx=15
+37.909 ID:3 [INFO: Flood     ] DROP origin=8 seq=3 (proba)
+37.911 ID:7 [INFO: Flood     ] TX origin=8 seq=3 hops=1 total_tx=14
+37.911 ID:9 [INFO: Flood     ] TX origin=8 seq=3 hops=1 total_tx=14
+37.935 ID:10 [INFO: Flood     ] DROP origin=8 seq=3 (proba)
+37.937 ID:4 [INFO: Flood     ] TX origin=8 seq=3 hops=2 total_tx=13
+37.947 ID:5 [INFO: Flood     ] TX origin=8 seq=3 hops=3 total_tx=12
+37.949 ID:6 [INFO: Flood     ] DROP origin=8 seq=3 (proba)
+37.949 ID:2 [INFO: Flood     ] DROP origin=8 seq=3 (proba)
+38.474 ID:3 [INFO: Flood     ] SOURCE origin=3 seq=3
+38.479 ID:3 [INFO: Flood     ] TX origin=3 seq=3 hops=0 total_tx=19
+38.501 ID:4 [INFO: Flood     ] DROP origin=3 seq=3 (proba)
+38.503 ID:2 [INFO: Flood     ] TX origin=3 seq=3 hops=1 total_tx=16
+38.503 ID:8 [INFO: Flood     ] TX origin=3 seq=3 hops=1 total_tx=16
+38.534 ID:1 [INFO: Flood     ] SINK_RECV origin=3 seq=3 hops=1
+38.536 ID:9 [INFO: Flood     ] TX origin=3 seq=3 hops=2 total_tx=15
+38.560 ID:10 [INFO: Flood     ] DROP origin=3 seq=3 (proba)
+40.490 ID:10 [INFO: Flood     ] SOURCE origin=10 seq=3
+40.496 ID:10 [INFO: Flood     ] TX origin=10 seq=3 hops=0 total_tx=13
+40.526 ID:9 [INFO: Flood     ] DROP origin=10 seq=3 (proba)
+40.528 ID:5 [INFO: Flood     ] TX origin=10 seq=3 hops=1 total_tx=13
+40.538 ID:4 [INFO: Flood     ] TX origin=10 seq=3 hops=2 total_tx=14
+40.577 ID:3 [INFO: Flood     ] TX origin=10 seq=3 hops=3 total_tx=20
+40.612 ID:2 [INFO: Flood     ] TX origin=10 seq=3 hops=4 total_tx=17
+40.613 ID:8 [INFO: Flood     ] TX origin=10 seq=3 hops=4 total_tx=17
+40.627 ID:1 [INFO: Flood     ] SINK_RECV origin=10 seq=3 hops=4
+40.629 ID:7 [INFO: Flood     ] TX origin=10 seq=3 hops=5 total_tx=15
+40.670 ID:6 [INFO: Flood     ] TX origin=10 seq=3 hops=6 total_tx=11
+42.173 ID:9 [INFO: Flood     ] SOURCE origin=9 seq=4
+42.179 ID:9 [INFO: Flood     ] TX origin=9 seq=4 hops=0 total_tx=16
+42.187 ID:4 [INFO: Flood     ] DROP origin=9 seq=4 (proba)
+42.189 ID:10 [INFO: Flood     ] TX origin=9 seq=4 hops=1 total_tx=14
+42.189 ID:8 [INFO: Flood     ] TX origin=9 seq=4 hops=1 total_tx=18
+42.207 ID:5 [INFO: Flood     ] TX origin=9 seq=4 hops=2 total_tx=14
+42.229 ID:3 [INFO: Flood     ] DROP origin=9 seq=4 (proba)
+42.232 ID:7 [INFO: Flood     ] TX origin=9 seq=4 hops=2 total_tx=16
+42.253 ID:6 [INFO: Flood     ] DROP origin=9 seq=4 (proba)
+42.255 ID:2 [INFO: Flood     ] TX origin=9 seq=4 hops=3 total_tx=18
+42.291 ID:1 [INFO: Flood     ] SINK_RECV origin=9 seq=4 hops=3
+43.068 ID:2 [INFO: Flood     ] SOURCE origin=2 seq=4
+43.073 ID:2 [INFO: Flood     ] TX origin=2 seq=4 hops=0 total_tx=19
+43.096 ID:7 [INFO: Flood     ] DROP origin=2 seq=4 (proba)
+43.096 ID:3 [INFO: Flood     ] DROP origin=2 seq=4 (proba)
+43.096 ID:1 [INFO: Flood     ] SINK_RECV origin=2 seq=4 hops=0
+45.231 ID:6 [INFO: Flood     ] SOURCE origin=6 seq=4
+45.237 ID:6 [INFO: Flood     ] TX origin=6 seq=4 hops=0 total_tx=12
+45.282 ID:7 [INFO: Flood     ] DROP origin=6 seq=4 (proba)
+45.282 ID:1 [INFO: Flood     ] SINK_RECV origin=6 seq=4 hops=0
+45.383 ID:4 [INFO: Flood     ] SOURCE origin=4 seq=4
+45.389 ID:4 [INFO: Flood     ] TX origin=4 seq=4 hops=0 total_tx=15
+45.434 ID:5 [INFO: Flood     ] DROP origin=4 seq=4 (proba)
+45.434 ID:3 [INFO: Flood     ] DROP origin=4 seq=4 (proba)
+45.437 ID:9 [INFO: Flood     ] TX origin=4 seq=4 hops=1 total_tx=17
+45.474 ID:8 [INFO: Flood     ] DROP origin=4 seq=4 (proba)
+45.477 ID:10 [INFO: Flood     ] TX origin=4 seq=4 hops=2 total_tx=15
+46.296 ID:7 [INFO: Flood     ] SOURCE origin=7 seq=4
+46.301 ID:7 [INFO: Flood     ] TX origin=7 seq=4 hops=0 total_tx=17
+46.316 ID:6 [INFO: Flood     ] DROP origin=7 seq=4 (proba)
+46.316 ID:8 [INFO: Flood     ] DROP origin=7 seq=4 (proba)
+46.318 ID:2 [INFO: Flood     ] TX origin=7 seq=4 hops=1 total_tx=20
+46.325 ID:3 [INFO: Flood     ] DROP origin=7 seq=4 (proba)
+46.326 ID:1 [INFO: Flood     ] SINK_RECV origin=7 seq=4 hops=1
+46.437 ID:5 [INFO: Flood     ] SOURCE origin=5 seq=4
+46.443 ID:5 [INFO: Flood     ] TX origin=5 seq=4 hops=0 total_tx=15
+46.491 ID:10 [INFO: Flood     ] TX origin=5 seq=4 hops=1 total_tx=16
+46.491 ID:4 [INFO: Flood     ] TX origin=5 seq=4 hops=1 total_tx=16
+46.500 ID:3 [INFO: Flood     ] TX origin=5 seq=4 hops=2 total_tx=21
+46.500 ID:9 [INFO: Flood     ] TX origin=5 seq=4 hops=2 total_tx=18
+46.509 ID:8 [INFO: Flood     ] DROP origin=5 seq=4 (proba)
+46.511 ID:2 [INFO: Flood     ] TX origin=5 seq=4 hops=3 total_tx=21
+46.541 ID:1 [INFO: Flood     ] SINK_RECV origin=5 seq=4 hops=3
+46.543 ID:7 [INFO: Flood     ] TX origin=5 seq=4 hops=4 total_tx=18
+46.576 ID:6 [INFO: Flood     ] TX origin=5 seq=4 hops=5 total_tx=13
+48.053 ID:8 [INFO: Flood     ] SOURCE origin=8 seq=4
+48.059 ID:8 [INFO: Flood     ] TX origin=8 seq=4 hops=0 total_tx=19
+48.066 ID:9 [INFO: Flood     ] DROP origin=8 seq=4 (proba)
+48.069 ID:7 [INFO: Flood     ] TX origin=8 seq=4 hops=1 total_tx=19
+48.069 ID:3 [INFO: Flood     ] TX origin=8 seq=4 hops=1 total_tx=22
+48.087 ID:2 [INFO: Flood     ] DROP origin=8 seq=4 (proba)
+48.087 ID:4 [INFO: Flood     ] DROP origin=8 seq=4 (proba)
+48.099 ID:6 [INFO: Flood     ] TX origin=8 seq=4 hops=2 total_tx=14
+48.126 ID:1 [INFO: Flood     ] SINK_RECV origin=8 seq=4 hops=2
+49.497 ID:3 [INFO: Flood     ] SOURCE origin=3 seq=4
+49.502 ID:3 [INFO: Flood     ] TX origin=3 seq=4 hops=0 total_tx=23
+49.510 ID:2 [INFO: Flood     ] DROP origin=3 seq=4 (proba)
+49.512 ID:4 [INFO: Flood     ] TX origin=3 seq=4 hops=1 total_tx=17
+49.512 ID:8 [INFO: Flood     ] TX origin=3 seq=4 hops=1 total_tx=20
+49.544 ID:9 [INFO: Flood     ] TX origin=3 seq=4 hops=2 total_tx=19
+49.544 ID:7 [INFO: Flood     ] TX origin=3 seq=4 hops=2 total_tx=20
+49.554 ID:10 [INFO: Flood     ] TX origin=3 seq=4 hops=3 total_tx=17
+49.588 ID:5 [INFO: Flood     ] DROP origin=3 seq=4 (proba)
+49.592 ID:6 [INFO: Flood     ] TX origin=3 seq=4 hops=3 total_tx=15
+49.599 ID:1 [INFO: Flood     ] SINK_RECV origin=3 seq=4 hops=3
+50.646 ID:10 [INFO: Flood     ] SOURCE origin=10 seq=4
+50.652 ID:10 [INFO: Flood     ] TX origin=10 seq=4 hops=0 total_tx=18
+50.674 ID:5 [INFO: Flood     ] DROP origin=10 seq=4 (proba)
+50.674 ID:9 [INFO: Flood     ] DROP origin=10 seq=4 (proba)
+51.658 ID:9 [INFO: Flood     ] SOURCE origin=9 seq=5
+51.663 ID:9 [INFO: Flood     ] TX origin=9 seq=5 hops=0 total_tx=20
+51.693 ID:4 [INFO: Flood     ] DROP origin=9 seq=5 (proba)
+51.695 ID:10 [INFO: Flood     ] TX origin=9 seq=5 hops=1 total_tx=19
+51.695 ID:8 [INFO: Flood     ] TX origin=9 seq=5 hops=1 total_tx=21
+51.705 ID:5 [INFO: Flood     ] DROP origin=9 seq=5 (proba)
+51.729 ID:7 [INFO: Flood     ] DROP origin=9 seq=5 (proba)
+51.729 ID:3 [INFO: Flood     ] DROP origin=9 seq=5 (proba)
+52.435 ID:2 [INFO: Flood     ] SOURCE origin=2 seq=5
+52.441 ID:2 [INFO: Flood     ] TX origin=2 seq=5 hops=0 total_tx=22
+52.487 ID:7 [INFO: Flood     ] DROP origin=2 seq=5 (proba)
+52.487 ID:1 [INFO: Flood     ] SINK_RECV origin=2 seq=5 hops=0
+52.489 ID:3 [INFO: Flood     ] TX origin=2 seq=5 hops=1 total_tx=24
+52.532 ID:4 [INFO: Flood     ] DROP origin=2 seq=5 (proba)
+52.534 ID:8 [INFO: Flood     ] TX origin=2 seq=5 hops=2 total_tx=22
+52.581 ID:9 [INFO: Flood     ] DROP origin=2 seq=5 (proba)
+54.469 ID:4 [INFO: Flood     ] SOURCE origin=4 seq=5
+54.475 ID:4 [INFO: Flood     ] TX origin=4 seq=5 hops=0 total_tx=18
+54.483 ID:9 [INFO: Flood     ] DROP origin=4 seq=5 (proba)
+54.483 ID:3 [INFO: Flood     ] DROP origin=4 seq=5 (proba)
+54.485 ID:5 [INFO: Flood     ] TX origin=4 seq=5 hops=1 total_tx=16
+54.494 ID:10 [INFO: Flood     ] TX origin=4 seq=5 hops=2 total_tx=20
+54.973 ID:6 [INFO: Flood     ] SOURCE origin=6 seq=5
+54.979 ID:6 [INFO: Flood     ] TX origin=6 seq=5 hops=0 total_tx=16
+54.986 ID:1 [INFO: Flood     ] SINK_RECV origin=6 seq=5 hops=0
+54.989 ID:7 [INFO: Flood     ] TX origin=6 seq=5 hops=1 total_tx=21
+55.014 ID:2 [INFO: Flood     ] TX origin=6 seq=5 hops=2 total_tx=23
+55.014 ID:8 [INFO: Flood     ] TX origin=6 seq=5 hops=2 total_tx=23
+55.023 ID:9 [INFO: Flood     ] TX origin=6 seq=5 hops=3 total_tx=21
+55.047 ID:10 [INFO: Flood     ] TX origin=6 seq=5 hops=4 total_tx=21
+55.047 ID:4 [INFO: Flood     ] TX origin=6 seq=5 hops=4 total_tx=19
+55.054 ID:3 [INFO: Flood     ] DROP origin=6 seq=5 (proba)
+55.054 ID:5 [INFO: Flood     ] DROP origin=6 seq=5 (proba)
+55.788 ID:7 [INFO: Flood     ] SOURCE origin=7 seq=5
+55.794 ID:7 [INFO: Flood     ] TX origin=7 seq=5 hops=0 total_tx=22
+55.824 ID:2 [INFO: Flood     ] DROP origin=7 seq=5 (proba)
+55.824 ID:8 [INFO: Flood     ] DROP origin=7 seq=5 (proba)
+55.826 ID:6 [INFO: Flood     ] TX origin=7 seq=5 hops=1 total_tx=17
+55.861 ID:1 [INFO: Flood     ] SINK_RECV origin=7 seq=5 hops=1
+56.383 ID:5 [INFO: Flood     ] SOURCE origin=5 seq=5
+56.389 ID:5 [INFO: Flood     ] TX origin=5 seq=5 hops=0 total_tx=17
+56.413 ID:10 [INFO: Flood     ] TX origin=5 seq=5 hops=1 total_tx=22
+56.413 ID:4 [INFO: Flood     ] TX origin=5 seq=5 hops=1 total_tx=20
+56.422 ID:3 [INFO: Flood     ] TX origin=5 seq=5 hops=2 total_tx=25
+56.472 ID:2 [INFO: Flood     ] TX origin=5 seq=5 hops=3 total_tx=24
+56.472 ID:8 [INFO: Flood     ] TX origin=5 seq=5 hops=3 total_tx=24
+56.479 ID:9 [INFO: Flood     ] DROP origin=5 seq=5 (proba)
+56.482 ID:7 [INFO: Flood     ] TX origin=5 seq=5 hops=4 total_tx=23
+56.494 ID:1 [INFO: Flood     ] SINK_RECV origin=5 seq=5 hops=3
+56.519 ID:6 [INFO: Flood     ] DROP origin=5 seq=5 (proba)
+57.514 ID:8 [INFO: Flood     ] SOURCE origin=8 seq=5
+57.519 ID:8 [INFO: Flood     ] TX origin=8 seq=5 hops=0 total_tx=25
+57.534 ID:7 [INFO: Flood     ] DROP origin=8 seq=5 (proba)
+57.534 ID:3 [INFO: Flood     ] DROP origin=8 seq=5 (proba)
+57.536 ID:9 [INFO: Flood     ] TX origin=8 seq=5 hops=1 total_tx=22
+57.570 ID:10 [INFO: Flood     ] TX origin=8 seq=5 hops=2 total_tx=23
+57.570 ID:4 [INFO: Flood     ] TX origin=8 seq=5 hops=2 total_tx=21
+57.590 ID:5 [INFO: Flood     ] TX origin=8 seq=5 hops=3 total_tx=18
+58.880 ID:3 [INFO: Flood     ] SOURCE origin=3 seq=5
+58.885 ID:3 [INFO: Flood     ] TX origin=3 seq=5 hops=0 total_tx=26
+58.931 ID:2 [INFO: Flood     ] DROP origin=3 seq=5 (proba)
+58.931 ID:4 [INFO: Flood     ] DROP origin=3 seq=5 (proba)
+58.933 ID:8 [INFO: Flood     ] TX origin=3 seq=5 hops=1 total_tx=26
+58.950 ID:7 [INFO: Flood     ] TX origin=3 seq=5 hops=2 total_tx=24
+58.950 ID:9 [INFO: Flood     ] TX origin=3 seq=5 hops=2 total_tx=23
+58.959 ID:6 [INFO: Flood     ] TX origin=3 seq=5 hops=3 total_tx=18
+58.984 ID:10 [INFO: Flood     ] TX origin=3 seq=5 hops=3 total_tx=24
+58.993 ID:1 [INFO: Flood     ] SINK_RECV origin=3 seq=5 hops=3
+59.028 ID:5 [INFO: Flood     ] TX origin=3 seq=5 hops=4 total_tx=19
+60.389 ID:8 [INFO: Flood     ] ENERGEST cpu=96462 lpm=1871685 tx=624 rx=1966135
+60.553 ID:2 [INFO: Flood     ] ENERGEST cpu=94356 lpm=1873791 tx=576 rx=1966187
+60.567 ID:6 [INFO: Flood     ] ENERGEST cpu=90901 lpm=1877246 tx=432 rx=1966342
+60.584 ID:10 [INFO: Flood     ] SOURCE origin=10 seq=5
+60.590 ID:10 [INFO: Flood     ] TX origin=10 seq=5 hops=0 total_tx=25
+60.604 ID:5 [INFO: Flood     ] DROP origin=10 seq=5 (proba)
+60.606 ID:9 [INFO: Flood     ] TX origin=10 seq=5 hops=1 total_tx=24
+60.649 ID:8 [INFO: Flood     ] TX origin=10 seq=5 hops=2 total_tx=27
+60.649 ID:4 [INFO: Flood     ] TX origin=10 seq=5 hops=2 total_tx=22
+60.663 ID:3 [INFO: Flood     ] TX origin=10 seq=5 hops=3 total_tx=27
+60.668 ID:4 [INFO: Flood     ] ENERGEST cpu=95745 lpm=1872490 tx=529 rx=1966327
+60.683 ID:2 [INFO: Flood     ] TX origin=10 seq=5 hops=4 total_tx=25
+60.694 ID:7 [INFO: Flood     ] TX origin=10 seq=5 hops=3 total_tx=25
+60.698 ID:1 [INFO: Flood     ] ENERGEST cpu=85469 lpm=1882675 tx=0 rx=1966807
+60.718 ID:7 [INFO: Flood     ] ENERGEST cpu=95647 lpm=1872503 tx=577 rx=1966190
+60.729 ID:1 [INFO: Flood     ] SINK_RECV origin=10 seq=5 hops=4
+60.740 ID:6 [INFO: Flood     ] TX origin=10 seq=5 hops=4 total_tx=19
+60.873 ID:10 [INFO: Flood     ] ENERGEST cpu=94463 lpm=1873684 tx=606 rx=1966159
+61.025 ID:9 [INFO: Flood     ] ENERGEST cpu=96259 lpm=1871888 tx=576 rx=1966186
+61.032 ID:5 [INFO: Flood     ] ENERGEST cpu=93002 lpm=1875145 tx=457 rx=1966315
+61.216 ID:3 [INFO: Flood     ] ENERGEST cpu=96570 lpm=1871577 tx=648 rx=1966109
+61.295 ID:2 [INFO: Flood     ] SOURCE origin=2 seq=6
+61.300 ID:2 [INFO: Flood     ] TX origin=2 seq=6 hops=0 total_tx=26
+61.330 ID:1 [INFO: Flood     ] SINK_RECV origin=2 seq=6 hops=0
+61.332 ID:3 [INFO: Flood     ] TX origin=2 seq=6 hops=1 total_tx=28
+61.333 ID:7 [INFO: Flood     ] TX origin=2 seq=6 hops=1 total_tx=26
+61.340 ID:4 [INFO: Flood     ] DROP origin=2 seq=6 (proba)
+61.340 ID:8 [INFO: Flood     ] DROP origin=2 seq=6 (proba)
+61.355 ID:6 [INFO: Flood     ] DROP origin=2 seq=6 (proba)
+61.376 ID:9 [INFO: Flood     ] SOURCE origin=9 seq=6
+61.382 ID:9 [INFO: Flood     ] TX origin=9 seq=6 hops=0 total_tx=25
+61.404 ID:8 [INFO: Flood     ] DROP origin=9 seq=6 (proba)
+61.406 ID:10 [INFO: Flood     ] TX origin=9 seq=6 hops=1 total_tx=26
+61.406 ID:4 [INFO: Flood     ] TX origin=9 seq=6 hops=1 total_tx=23
+61.427 ID:5 [INFO: Flood     ] DROP origin=9 seq=6 (proba)
+61.427 ID:3 [INFO: Flood     ] DROP origin=9 seq=6 (proba)
+63.957 ID:6 [INFO: Flood     ] SOURCE origin=6 seq=6
+63.963 ID:6 [INFO: Flood     ] TX origin=6 seq=6 hops=0 total_tx=20
+63.977 ID:1 [INFO: Flood     ] SINK_RECV origin=6 seq=6 hops=0
+63.979 ID:7 [INFO: Flood     ] TX origin=6 seq=6 hops=1 total_tx=27
+63.987 ID:2 [INFO: Flood     ] DROP origin=6 seq=6 (proba)
+63.987 ID:8 [INFO: Flood     ] DROP origin=6 seq=6 (proba)
+64.336 ID:4 [INFO: Flood     ] SOURCE origin=4 seq=6
+64.342 ID:4 [INFO: Flood     ] TX origin=4 seq=6 hops=0 total_tx=24
+64.372 ID:3 [INFO: Flood     ] DROP origin=4 seq=6 (proba)
+64.374 ID:5 [INFO: Flood     ] TX origin=4 seq=6 hops=1 total_tx=20
+64.374 ID:9 [INFO: Flood     ] TX origin=4 seq=6 hops=1 total_tx=26
+64.382 ID:8 [INFO: Flood     ] DROP origin=4 seq=6 (proba)
+64.384 ID:10 [INFO: Flood     ] TX origin=4 seq=6 hops=2 total_tx=27
+65.516 ID:5 [INFO: Flood     ] SOURCE origin=5 seq=6
+65.521 ID:5 [INFO: Flood     ] TX origin=5 seq=6 hops=0 total_tx=21
+65.567 ID:4 [INFO: Flood     ] DROP origin=5 seq=6 (proba)
+65.569 ID:10 [INFO: Flood     ] TX origin=5 seq=6 hops=1 total_tx=28
+65.578 ID:9 [INFO: Flood     ] TX origin=5 seq=6 hops=2 total_tx=27
+65.607 ID:8 [INFO: Flood     ] DROP origin=5 seq=6 (proba)
+65.804 ID:7 [INFO: Flood     ] SOURCE origin=7 seq=6
+65.810 ID:7 [INFO: Flood     ] TX origin=7 seq=6 hops=0 total_tx=28
+65.834 ID:2 [INFO: Flood     ] TX origin=7 seq=6 hops=1 total_tx=27
+65.834 ID:6 [INFO: Flood     ] TX origin=7 seq=6 hops=1 total_tx=21
+65.834 ID:8 [INFO: Flood     ] TX origin=7 seq=6 hops=1 total_tx=28
+65.843 ID:9 [INFO: Flood     ] TX origin=7 seq=6 hops=2 total_tx=28
+65.843 ID:3 [INFO: Flood     ] TX origin=7 seq=6 hops=2 total_tx=29
+65.851 ID:4 [INFO: Flood     ] DROP origin=7 seq=6 (proba)
+65.853 ID:10 [INFO: Flood     ] TX origin=7 seq=6 hops=3 total_tx=29
+65.869 ID:1 [INFO: Flood     ] SINK_RECV origin=7 seq=6 hops=1
+65.885 ID:5 [INFO: Flood     ] DROP origin=7 seq=6 (proba)
+67.997 ID:3 [INFO: Flood     ] SOURCE origin=3 seq=6
+68.002 ID:3 [INFO: Flood     ] TX origin=3 seq=6 hops=0 total_tx=30
+68.010 ID:4 [INFO: Flood     ] DROP origin=3 seq=6 (proba)
+68.012 ID:2 [INFO: Flood     ] TX origin=3 seq=6 hops=1 total_tx=28
+68.012 ID:8 [INFO: Flood     ] TX origin=3 seq=6 hops=1 total_tx=29
+68.049 ID:7 [INFO: Flood     ] DROP origin=3 seq=6 (proba)
+68.049 ID:1 [INFO: Flood     ] SINK_RECV origin=3 seq=6 hops=1
+68.057 ID:9 [INFO: Flood     ] DROP origin=3 seq=6 (proba)
+68.076 ID:8 [INFO: Flood     ] SOURCE origin=8 seq=6
+68.082 ID:8 [INFO: Flood     ] TX origin=8 seq=6 hops=0 total_tx=30
+68.089 ID:3 [INFO: Flood     ] DROP origin=8 seq=6 (proba)
+68.092 ID:7 [INFO: Flood     ] TX origin=8 seq=6 hops=1 total_tx=29
+68.092 ID:9 [INFO: Flood     ] TX origin=8 seq=6 hops=1 total_tx=29
+68.099 ID:6 [INFO: Flood     ] DROP origin=8 seq=6 (proba)
+68.099 ID:2 [INFO: Flood     ] DROP origin=8 seq=6 (proba)
+68.140 ID:10 [INFO: Flood     ] TX origin=8 seq=6 hops=2 total_tx=30
+68.140 ID:4 [INFO: Flood     ] TX origin=8 seq=6 hops=2 total_tx=25
+68.150 ID:5 [INFO: Flood     ] DROP origin=8 seq=6 (proba)
+69.795 ID:10 [INFO: Flood     ] SOURCE origin=10 seq=6
+69.800 ID:10 [INFO: Flood     ] TX origin=10 seq=6 hops=0 total_tx=31
+69.808 ID:9 [INFO: Flood     ] DROP origin=10 seq=6 (proba)
+69.810 ID:5 [INFO: Flood     ] TX origin=10 seq=6 hops=1 total_tx=22
+69.850 ID:4 [INFO: Flood     ] TX origin=10 seq=6 hops=2 total_tx=26
+69.890 ID:3 [INFO: Flood     ] TX origin=10 seq=6 hops=3 total_tx=31
+69.923 ID:2 [INFO: Flood     ] DROP origin=10 seq=6 (proba)
+69.925 ID:8 [INFO: Flood     ] TX origin=10 seq=6 hops=4 total_tx=31
+69.933 ID:7 [INFO: Flood     ] DROP origin=10 seq=6 (proba)
+70.099 ID:2 [INFO: Flood     ] SOURCE origin=2 seq=7
+70.105 ID:2 [INFO: Flood     ] TX origin=2 seq=7 hops=0 total_tx=29
+70.135 ID:7 [INFO: Flood     ] DROP origin=2 seq=7 (proba)
+70.135 ID:1 [INFO: Flood     ] SINK_RECV origin=2 seq=7 hops=0
+70.137 ID:3 [INFO: Flood     ] TX origin=2 seq=7 hops=1 total_tx=32
+70.144 ID:4 [INFO: Flood     ] DROP origin=2 seq=7 (proba)
+70.144 ID:8 [INFO: Flood     ] DROP origin=2 seq=7 (proba)
+72.423 ID:9 [INFO: Flood     ] SOURCE origin=9 seq=7
+72.429 ID:9 [INFO: Flood     ] TX origin=9 seq=7 hops=0 total_tx=30
+72.437 ID:10 [INFO: Flood     ] DROP origin=9 seq=7 (proba)
+72.437 ID:8 [INFO: Flood     ] DROP origin=9 seq=7 (proba)
+72.439 ID:4 [INFO: Flood     ] TX origin=9 seq=7 hops=1 total_tx=27
+72.458 ID:5 [INFO: Flood     ] DROP origin=9 seq=7 (proba)
+72.460 ID:3 [INFO: Flood     ] TX origin=9 seq=7 hops=2 total_tx=33
+72.493 ID:2 [INFO: Flood     ] DROP origin=9 seq=7 (proba)
+72.778 ID:6 [INFO: Flood     ] SOURCE origin=6 seq=7
+72.784 ID:6 [INFO: Flood     ] TX origin=6 seq=7 hops=0 total_tx=22
+72.829 ID:7 [INFO: Flood     ] DROP origin=6 seq=7 (proba)
+72.829 ID:1 [INFO: Flood     ] SINK_RECV origin=6 seq=7 hops=0
+74.876 ID:4 [INFO: Flood     ] SOURCE origin=4 seq=7
+74.881 ID:4 [INFO: Flood     ] TX origin=4 seq=7 hops=0 total_tx=28
+74.927 ID:9 [INFO: Flood     ] DROP origin=4 seq=7 (proba)
+74.927 ID:3 [INFO: Flood     ] DROP origin=4 seq=7 (proba)
+74.929 ID:5 [INFO: Flood     ] TX origin=4 seq=7 hops=1 total_tx=23
+74.957 ID:10 [INFO: Flood     ] DROP origin=4 seq=7 (proba)
+76.071 ID:5 [INFO: Flood     ] SOURCE origin=5 seq=7
+76.076 ID:5 [INFO: Flood     ] TX origin=5 seq=7 hops=0 total_tx=24
+76.084 ID:4 [INFO: Flood     ] DROP origin=5 seq=7 (proba)
+76.086 ID:10 [INFO: Flood     ] TX origin=5 seq=7 hops=1 total_tx=32
+76.119 ID:9 [INFO: Flood     ] DROP origin=5 seq=7 (proba)
+76.210 ID:7 [INFO: Flood     ] SOURCE origin=7 seq=7
+76.216 ID:7 [INFO: Flood     ] TX origin=7 seq=7 hops=0 total_tx=30
+76.238 ID:2 [INFO: Flood     ] DROP origin=7 seq=7 (proba)
+76.238 ID:8 [INFO: Flood     ] DROP origin=7 seq=7 (proba)
+76.240 ID:6 [INFO: Flood     ] TX origin=7 seq=7 hops=1 total_tx=23
+76.274 ID:1 [INFO: Flood     ] SINK_RECV origin=7 seq=7 hops=1
+77.794 ID:3 [INFO: Flood     ] SOURCE origin=3 seq=7
+77.799 ID:3 [INFO: Flood     ] TX origin=3 seq=7 hops=0 total_tx=34
+77.822 ID:8 [INFO: Flood     ] DROP origin=3 seq=7 (proba)
+77.824 ID:2 [INFO: Flood     ] TX origin=3 seq=7 hops=1 total_tx=30
+77.824 ID:4 [INFO: Flood     ] TX origin=3 seq=7 hops=1 total_tx=29
+77.867 ID:5 [INFO: Flood     ] TX origin=3 seq=7 hops=2 total_tx=25
+77.867 ID:9 [INFO: Flood     ] TX origin=3 seq=7 hops=2 total_tx=31
+77.869 ID:7 [INFO: Flood     ] DROP origin=3 seq=7 (proba)
+77.869 ID:1 [INFO: Flood     ] SINK_RECV origin=3 seq=7 hops=1
+77.904 ID:10 [INFO: Flood     ] DROP origin=3 seq=7 (proba)
+79.272 ID:8 [INFO: Flood     ] SOURCE origin=8 seq=7
+79.278 ID:8 [INFO: Flood     ] TX origin=8 seq=7 hops=0 total_tx=32
+79.285 ID:7 [INFO: Flood     ] DROP origin=8 seq=7 (proba)
+79.285 ID:9 [INFO: Flood     ] DROP origin=8 seq=7 (proba)
+79.288 ID:3 [INFO: Flood     ] TX origin=8 seq=7 hops=1 total_tx=35
+79.329 ID:2 [INFO: Flood     ] DROP origin=8 seq=7 (proba)
+79.331 ID:4 [INFO: Flood     ] TX origin=8 seq=7 hops=2 total_tx=30
+79.343 ID:5 [INFO: Flood     ] TX origin=8 seq=7 hops=3 total_tx=26
+79.350 ID:10 [INFO: Flood     ] DROP origin=8 seq=7 (proba)
+80.021 ID:2 [INFO: Flood     ] SOURCE origin=2 seq=8
+80.026 ID:2 [INFO: Flood     ] TX origin=2 seq=8 hops=0 total_tx=31
+80.041 ID:3 [INFO: Flood     ] DROP origin=2 seq=8 (proba)
+80.041 ID:1 [INFO: Flood     ] SINK_RECV origin=2 seq=8 hops=0
+80.043 ID:7 [INFO: Flood     ] TX origin=2 seq=8 hops=1 total_tx=31
+80.066 ID:6 [INFO: Flood     ] DROP origin=2 seq=8 (proba)
+80.068 ID:8 [INFO: Flood     ] TX origin=2 seq=8 hops=2 total_tx=33
+80.104 ID:9 [INFO: Flood     ] DROP origin=2 seq=8 (proba)
+80.584 ID:10 [INFO: Flood     ] SOURCE origin=10 seq=7
+80.590 ID:10 [INFO: Flood     ] TX origin=10 seq=7 hops=0 total_tx=33
+80.600 ID:5 [INFO: Flood     ] TX origin=10 seq=7 hops=1 total_tx=27
+80.600 ID:9 [INFO: Flood     ] TX origin=10 seq=7 hops=1 total_tx=32
+80.616 ID:4 [INFO: Flood     ] TX origin=10 seq=7 hops=2 total_tx=31
+80.633 ID:8 [INFO: Flood     ] TX origin=10 seq=7 hops=2 total_tx=34
+80.646 ID:3 [INFO: Flood     ] DROP origin=10 seq=7 (proba)
+80.692 ID:7 [INFO: Flood     ] DROP origin=10 seq=7 (proba)
+82.028 ID:6 [INFO: Flood     ] SOURCE origin=6 seq=8
+82.034 ID:6 [INFO: Flood     ] TX origin=6 seq=8 hops=0 total_tx=24
+82.064 ID:7 [INFO: Flood     ] DROP origin=6 seq=8 (proba)
+82.064 ID:1 [INFO: Flood     ] SINK_RECV origin=6 seq=8 hops=0
+82.376 ID:9 [INFO: Flood     ] SOURCE origin=9 seq=8
+82.382 ID:9 [INFO: Flood     ] TX origin=9 seq=8 hops=0 total_tx=33
+82.390 ID:10 [INFO: Flood     ] DROP origin=9 seq=8 (proba)
+82.392 ID:8 [INFO: Flood     ] TX origin=9 seq=8 hops=1 total_tx=35
+82.392 ID:4 [INFO: Flood     ] TX origin=9 seq=8 hops=1 total_tx=32
+82.419 ID:5 [INFO: Flood     ] DROP origin=9 seq=8 (proba)
+82.421 ID:3 [INFO: Flood     ] TX origin=9 seq=8 hops=2 total_tx=36
+82.435 ID:7 [INFO: Flood     ] TX origin=9 seq=8 hops=2 total_tx=32
+82.456 ID:2 [INFO: Flood     ] DROP origin=9 seq=8 (proba)
+82.459 ID:6 [INFO: Flood     ] TX origin=9 seq=8 hops=3 total_tx=25
+82.486 ID:1 [INFO: Flood     ] SINK_RECV origin=9 seq=8 hops=3
+85.086 ID:4 [INFO: Flood     ] SOURCE origin=4 seq=8
+85.092 ID:4 [INFO: Flood     ] TX origin=4 seq=8 hops=0 total_tx=33
+85.099 ID:5 [INFO: Flood     ] DROP origin=4 seq=8 (proba)
+85.102 ID:9 [INFO: Flood     ] TX origin=4 seq=8 hops=1 total_tx=34
+85.102 ID:3 [INFO: Flood     ] TX origin=4 seq=8 hops=1 total_tx=37
+85.110 ID:8 [INFO: Flood     ] DROP origin=4 seq=8 (proba)
+85.112 ID:2 [INFO: Flood     ] TX origin=4 seq=8 hops=2 total_tx=32
+85.138 ID:10 [INFO: Flood     ] DROP origin=4 seq=8 (proba)
+85.150 ID:7 [INFO: Flood     ] DROP origin=4 seq=8 (proba)
+85.150 ID:1 [INFO: Flood     ] SINK_RECV origin=4 seq=8 hops=2
+86.288 ID:7 [INFO: Flood     ] SOURCE origin=7 seq=8
+86.294 ID:7 [INFO: Flood     ] TX origin=7 seq=8 hops=0 total_tx=33
+86.302 ID:6 [INFO: Flood     ] DROP origin=7 seq=8 (proba)
+86.302 ID:2 [INFO: Flood     ] DROP origin=7 seq=8 (proba)
+86.302 ID:8 [INFO: Flood     ] DROP origin=7 seq=8 (proba)
+86.552 ID:3 [INFO: Flood     ] SOURCE origin=3 seq=8
+86.557 ID:3 [INFO: Flood     ] TX origin=3 seq=8 hops=0 total_tx=38
+86.579 ID:2 [INFO: Flood     ] DROP origin=3 seq=8 (proba)
+86.581 ID:4 [INFO: Flood     ] TX origin=3 seq=8 hops=1 total_tx=34
+86.581 ID:8 [INFO: Flood     ] TX origin=3 seq=8 hops=1 total_tx=36
+86.591 ID:9 [INFO: Flood     ] TX origin=3 seq=8 hops=2 total_tx=35
+86.591 ID:7 [INFO: Flood     ] TX origin=3 seq=8 hops=2 total_tx=34
+86.601 ID:5 [INFO: Flood     ] TX origin=3 seq=8 hops=2 total_tx=28
+86.613 ID:6 [INFO: Flood     ] DROP origin=3 seq=8 (proba)
+86.629 ID:10 [INFO: Flood     ] DROP origin=3 seq=8 (proba)
+87.102 ID:5 [INFO: Flood     ] SOURCE origin=5 seq=8
+87.107 ID:5 [INFO: Flood     ] TX origin=5 seq=8 hops=0 total_tx=29
+87.121 ID:10 [INFO: Flood     ] DROP origin=5 seq=8 (proba)
+87.121 ID:4 [INFO: Flood     ] DROP origin=5 seq=8 (proba)
+88.170 ID:8 [INFO: Flood     ] SOURCE origin=8 seq=8
+88.176 ID:8 [INFO: Flood     ] TX origin=8 seq=8 hops=0 total_tx=37
+88.206 ID:7 [INFO: Flood     ] DROP origin=8 seq=8 (proba)
+88.208 ID:3 [INFO: Flood     ] TX origin=8 seq=8 hops=1 total_tx=39
+88.208 ID:9 [INFO: Flood     ] TX origin=8 seq=8 hops=1 total_tx=36
+88.215 ID:4 [INFO: Flood     ] DROP origin=8 seq=8 (proba)
+88.218 ID:10 [INFO: Flood     ] TX origin=8 seq=8 hops=2 total_tx=34
+88.243 ID:2 [INFO: Flood     ] DROP origin=8 seq=8 (proba)
+88.247 ID:5 [INFO: Flood     ] TX origin=8 seq=8 hops=3 total_tx=30
+88.849 ID:2 [INFO: Flood     ] SOURCE origin=2 seq=9
+88.855 ID:2 [INFO: Flood     ] TX origin=2 seq=9 hops=0 total_tx=33
+88.862 ID:7 [INFO: Flood     ] DROP origin=2 seq=9 (proba)
+88.862 ID:3 [INFO: Flood     ] DROP origin=2 seq=9 (proba)
+88.862 ID:1 [INFO: Flood     ] SINK_RECV origin=2 seq=9 hops=0
+90.390 ID:8 [INFO: Flood     ] ENERGEST cpu=143563 lpm=2807624 tx=888 rx=2948889
+90.553 ID:2 [INFO: Flood     ] ENERGEST cpu=140245 lpm=2810942 tx=792 rx=2948993
+90.568 ID:6 [INFO: Flood     ] ENERGEST cpu=134871 lpm=2816316 tx=600 rx=2949200
+90.665 ID:4 [INFO: Flood     ] ENERGEST cpu=142812 lpm=2808375 tx=817 rx=2948967
+90.698 ID:1 [INFO: Flood     ] ENERGEST cpu=126593 lpm=2824591 tx=0 rx=2949847
+90.719 ID:7 [INFO: Flood     ] ENERGEST cpu=141791 lpm=2809396 tx=817 rx=2948967
+90.873 ID:10 [INFO: Flood     ] ENERGEST cpu=139849 lpm=2811338 tx=823 rx=2948964
+91.025 ID:9 [INFO: Flood     ] ENERGEST cpu=142923 lpm=2808264 tx=864 rx=2948914
+91.032 ID:5 [INFO: Flood     ] ENERGEST cpu=138740 lpm=2812447 tx=722 rx=2949069
+91.209 ID:10 [INFO: Flood     ] SOURCE origin=10 seq=8
+91.215 ID:10 [INFO: Flood     ] TX origin=10 seq=8 hops=0 total_tx=35
+91.216 ID:3 [INFO: Flood     ] ENERGEST cpu=143237 lpm=2807950 tx=936 rx=2948837
+91.222 ID:9 [INFO: Flood     ] DROP origin=10 seq=8 (proba)
+91.225 ID:5 [INFO: Flood     ] TX origin=10 seq=8 hops=1 total_tx=31
+91.262 ID:4 [INFO: Flood     ] DROP origin=10 seq=8 (proba)
+91.283 ID:9 [INFO: Flood     ] SOURCE origin=9 seq=9
+91.288 ID:9 [INFO: Flood     ] TX origin=9 seq=9 hops=0 total_tx=37
+91.296 ID:4 [INFO: Flood     ] DROP origin=9 seq=9 (proba)
+91.298 ID:10 [INFO: Flood     ] TX origin=9 seq=9 hops=1 total_tx=36
+91.298 ID:8 [INFO: Flood     ] TX origin=9 seq=9 hops=1 total_tx=38
+91.309 ID:5 [INFO: Flood     ] TX origin=9 seq=9 hops=2 total_tx=32
+91.331 ID:7 [INFO: Flood     ] DROP origin=9 seq=9 (proba)
+91.331 ID:3 [INFO: Flood     ] DROP origin=9 seq=9 (proba)
+92.254 ID:6 [INFO: Flood     ] SOURCE origin=6 seq=9
+92.260 ID:6 [INFO: Flood     ] TX origin=6 seq=9 hops=0 total_tx=26
+92.274 ID:1 [INFO: Flood     ] SINK_RECV origin=6 seq=9 hops=0
+92.276 ID:7 [INFO: Flood     ] TX origin=6 seq=9 hops=1 total_tx=35
+92.300 ID:8 [INFO: Flood     ] DROP origin=6 seq=9 (proba)
+92.302 ID:2 [INFO: Flood     ] TX origin=6 seq=9 hops=2 total_tx=34
+92.317 ID:3 [INFO: Flood     ] TX origin=6 seq=9 hops=3 total_tx=40
+92.355 ID:4 [INFO: Flood     ] TX origin=6 seq=9 hops=4 total_tx=35
+92.396 ID:9 [INFO: Flood     ] DROP origin=6 seq=9 (proba)
+92.398 ID:5 [INFO: Flood     ] TX origin=6 seq=9 hops=5 total_tx=33
+92.407 ID:10 [INFO: Flood     ] TX origin=6 seq=9 hops=6 total_tx=37
+95.054 ID:7 [INFO: Flood     ] SOURCE origin=7 seq=9
+95.060 ID:7 [INFO: Flood     ] TX origin=7 seq=9 hops=0 total_tx=36
+95.074 ID:8 [INFO: Flood     ] DROP origin=7 seq=9 (proba)
+95.076 ID:6 [INFO: Flood     ] TX origin=7 seq=9 hops=1 total_tx=27
+95.076 ID:2 [INFO: Flood     ] TX origin=7 seq=9 hops=1 total_tx=35
+95.112 ID:3 [INFO: Flood     ] DROP origin=7 seq=9 (proba)
+95.112 ID:1 [INFO: Flood     ] SINK_RECV origin=7 seq=9 hops=1
+95.680 ID:4 [INFO: Flood     ] SOURCE origin=4 seq=9
+95.686 ID:4 [INFO: Flood     ] TX origin=4 seq=9 hops=0 total_tx=36
+95.731 ID:9 [INFO: Flood     ] DROP origin=4 seq=9 (proba)
+95.733 ID:5 [INFO: Flood     ] TX origin=4 seq=9 hops=1 total_tx=34
+95.733 ID:3 [INFO: Flood     ] TX origin=4 seq=9 hops=1 total_tx=41
+95.762 ID:10 [INFO: Flood     ] DROP origin=4 seq=9 (proba)
+95.769 ID:2 [INFO: Flood     ] TX origin=4 seq=9 hops=2 total_tx=36
+95.769 ID:8 [INFO: Flood     ] TX origin=4 seq=9 hops=2 total_tx=39
+95.776 ID:1 [INFO: Flood     ] SINK_RECV origin=4 seq=9 hops=2
+96.802 ID:3 [INFO: Flood     ] SOURCE origin=3 seq=9
+96.807 ID:3 [INFO: Flood     ] TX origin=3 seq=9 hops=0 total_tx=42
+96.829 ID:2 [INFO: Flood     ] DROP origin=3 seq=9 (proba)
+96.829 ID:8 [INFO: Flood     ] DROP origin=3 seq=9 (proba)
+96.829 ID:4 [INFO: Flood     ] DROP origin=3 seq=9 (proba)
+97.891 ID:5 [INFO: Flood     ] SOURCE origin=5 seq=9
+97.896 ID:5 [INFO: Flood     ] TX origin=5 seq=9 hops=0 total_tx=35
+97.904 ID:10 [INFO: Flood     ] DROP origin=5 seq=9 (proba)
+97.904 ID:4 [INFO: Flood     ] DROP origin=5 seq=9 (proba)
+99.052 ID:2 [INFO: Flood     ] SOURCE origin=2 seq=10
+99.058 ID:2 [INFO: Flood     ] TX origin=2 seq=10 hops=0 total_tx=37
+99.081 ID:1 [INFO: Flood     ] SINK_RECV origin=2 seq=10 hops=0
+99.083 ID:3 [INFO: Flood     ] TX origin=2 seq=10 hops=1 total_tx=43
+99.090 ID:4 [INFO: Flood     ] DROP origin=2 seq=10 (proba)
+99.092 ID:8 [INFO: Flood     ] TX origin=2 seq=10 hops=2 total_tx=40
+99.106 ID:9 [INFO: Flood     ] TX origin=2 seq=10 hops=3 total_tx=38
+99.156 ID:10 [INFO: Flood     ] TX origin=2 seq=10 hops=4 total_tx=38
+99.198 ID:5 [INFO: Flood     ] DROP origin=2 seq=10 (proba)
+99.334 ID:8 [INFO: Flood     ] SOURCE origin=8 seq=9
+99.340 ID:8 [INFO: Flood     ] TX origin=8 seq=9 hops=0 total_tx=41
+99.362 ID:3 [INFO: Flood     ] DROP origin=8 seq=9 (proba)
+99.364 ID:9 [INFO: Flood     ] TX origin=8 seq=9 hops=1 total_tx=39
+99.414 ID:4 [INFO: Flood     ] TX origin=8 seq=9 hops=2 total_tx=37
+99.414 ID:10 [INFO: Flood     ] TX origin=8 seq=9 hops=2 total_tx=39
+99.427 ID:5 [INFO: Flood     ] DROP origin=8 seq=9 (proba)
+100.256 ID:10 [INFO: Flood     ] SOURCE origin=10 seq=9
+100.262 ID:10 [INFO: Flood     ] TX origin=10 seq=9 hops=0 total_tx=40
+100.291 ID:9 [INFO: Flood     ] DROP origin=10 seq=9 (proba)
+100.294 ID:5 [INFO: Flood     ] TX origin=10 seq=9 hops=1 total_tx=36
+100.301 ID:4 [INFO: Flood     ] DROP origin=10 seq=9 (proba)
+100.923 ID:9 [INFO: Flood     ] SOURCE origin=9 seq=10
+100.929 ID:9 [INFO: Flood     ] TX origin=9 seq=10 hops=0 total_tx=40
+100.959 ID:8 [INFO: Flood     ] DROP origin=9 seq=10 (proba)
+100.961 ID:4 [INFO: Flood     ] TX origin=9 seq=10 hops=1 total_tx=38
+100.961 ID:10 [INFO: Flood     ] TX origin=9 seq=10 hops=1 total_tx=41
+100.969 ID:5 [INFO: Flood     ] DROP origin=9 seq=10 (proba)
+100.997 ID:3 [INFO: Flood     ] DROP origin=9 seq=10 (proba)
+102.036 ID:6 [INFO: Flood     ] SOURCE origin=6 seq=10
+102.041 ID:6 [INFO: Flood     ] TX origin=6 seq=10 hops=0 total_tx=28
+102.049 ID:1 [INFO: Flood     ] SINK_RECV origin=6 seq=10 hops=0
+104.905 ID:7 [INFO: Flood     ] SOURCE origin=7 seq=10
+104.911 ID:7 [INFO: Flood     ] TX origin=7 seq=10 hops=0 total_tx=37
+104.941 ID:2 [INFO: Flood     ] DROP origin=7 seq=10 (proba)
+104.941 ID:8 [INFO: Flood     ] DROP origin=7 seq=10 (proba)
+104.943 ID:6 [INFO: Flood     ] TX origin=7 seq=10 hops=1 total_tx=29
+104.986 ID:1 [INFO: Flood     ] SINK_RECV origin=7 seq=10 hops=1
+104.993 ID:4 [INFO: Flood     ] SOURCE origin=4 seq=10
+104.998 ID:4 [INFO: Flood     ] TX origin=4 seq=10 hops=0 total_tx=39
+105.036 ID:5 [INFO: Flood     ] DROP origin=4 seq=10 (proba)
+105.039 ID:9 [INFO: Flood     ] TX origin=4 seq=10 hops=1 total_tx=41
+105.039 ID:3 [INFO: Flood     ] TX origin=4 seq=10 hops=1 total_tx=44
+105.046 ID:10 [INFO: Flood     ] DROP origin=4 seq=10 (proba)
+105.046 ID:8 [INFO: Flood     ] DROP origin=4 seq=10 (proba)
+105.064 ID:2 [INFO: Flood     ] DROP origin=4 seq=10 (proba)
+106.771 ID:3 [INFO: Flood     ] SOURCE origin=3 seq=10
+106.776 ID:3 [INFO: Flood     ] TX origin=3 seq=10 hops=0 total_tx=45
+106.790 ID:8 [INFO: Flood     ] DROP origin=3 seq=10 (proba)
+106.792 ID:2 [INFO: Flood     ] TX origin=3 seq=10 hops=1 total_tx=38
+106.792 ID:4 [INFO: Flood     ] TX origin=3 seq=10 hops=1 total_tx=40
+106.800 ID:1 [INFO: Flood     ] SINK_RECV origin=3 seq=10 hops=1
+106.802 ID:7 [INFO: Flood     ] TX origin=3 seq=10 hops=2 total_tx=38
+106.834 ID:6 [INFO: Flood     ] TX origin=3 seq=10 hops=3 total_tx=30
+106.841 ID:9 [INFO: Flood     ] DROP origin=3 seq=10 (proba)
+106.843 ID:5 [INFO: Flood     ] TX origin=3 seq=10 hops=2 total_tx=37
+106.888 ID:10 [INFO: Flood     ] DROP origin=3 seq=10 (proba)
+107.696 ID:5 [INFO: Flood     ] SOURCE origin=5 seq=10
+107.701 ID:5 [INFO: Flood     ] TX origin=5 seq=10 hops=0 total_tx=38
+107.709 ID:10 [INFO: Flood     ] DROP origin=5 seq=10 (proba)
+107.711 ID:4 [INFO: Flood     ] TX origin=5 seq=10 hops=1 total_tx=41
+107.755 ID:3 [INFO: Flood     ] DROP origin=5 seq=10 (proba)
+107.757 ID:9 [INFO: Flood     ] TX origin=5 seq=10 hops=2 total_tx=42
+107.790 ID:8 [INFO: Flood     ] TX origin=5 seq=10 hops=3 total_tx=42
+107.810 ID:7 [INFO: Flood     ] TX origin=5 seq=10 hops=4 total_tx=39
+107.824 ID:6 [INFO: Flood     ] DROP origin=5 seq=10 (proba)
+107.824 ID:2 [INFO: Flood     ] DROP origin=5 seq=10 (proba)
+109.623 ID:2 [INFO: Flood     ] SOURCE origin=2 seq=11
+109.629 ID:2 [INFO: Flood     ] TX origin=2 seq=11 hops=0 total_tx=39
+109.643 ID:7 [INFO: Flood     ] DROP origin=2 seq=11 (proba)
+109.643 ID:3 [INFO: Flood     ] DROP origin=2 seq=11 (proba)
+109.643 ID:1 [INFO: Flood     ] SINK_RECV origin=2 seq=11 hops=0
+110.248 ID:8 [INFO: Flood     ] SOURCE origin=8 seq=10
+110.254 ID:8 [INFO: Flood     ] TX origin=8 seq=10 hops=0 total_tx=43
+110.268 ID:9 [INFO: Flood     ] DROP origin=8 seq=10 (proba)
+110.268 ID:3 [INFO: Flood     ] DROP origin=8 seq=10 (proba)
+110.270 ID:7 [INFO: Flood     ] TX origin=8 seq=10 hops=1 total_tx=40
+110.318 ID:2 [INFO: Flood     ] TX origin=8 seq=10 hops=2 total_tx=40
+110.318 ID:6 [INFO: Flood     ] TX origin=8 seq=10 hops=2 total_tx=31
+110.345 ID:1 [INFO: Flood     ] SINK_RECV origin=8 seq=10 hops=2
+111.075 ID:6 [INFO: Flood     ] SOURCE origin=6 seq=11
+111.081 ID:6 [INFO: Flood     ] TX origin=6 seq=11 hops=0 total_tx=32
+111.103 ID:1 [INFO: Flood     ] SINK_RECV origin=6 seq=11 hops=0
+111.105 ID:7 [INFO: Flood     ] TX origin=6 seq=11 hops=1 total_tx=41
+111.137 ID:2 [INFO: Flood     ] DROP origin=6 seq=11 (proba)
+111.137 ID:8 [INFO: Flood     ] DROP origin=6 seq=11 (proba)
+111.197 ID:9 [INFO: Flood     ] SOURCE origin=9 seq=11
+111.202 ID:9 [INFO: Flood     ] TX origin=9 seq=11 hops=0 total_tx=43
+111.248 ID:4 [INFO: Flood     ] DROP origin=9 seq=11 (proba)
+111.248 ID:10 [INFO: Flood     ] DROP origin=9 seq=11 (proba)
+111.250 ID:8 [INFO: Flood     ] TX origin=9 seq=11 hops=1 total_tx=44
+111.300 ID:7 [INFO: Flood     ] DROP origin=9 seq=11 (proba)
+111.302 ID:3 [INFO: Flood     ] TX origin=9 seq=11 hops=2 total_tx=46
+111.312 ID:2 [INFO: Flood     ] TX origin=9 seq=11 hops=3 total_tx=41
+111.322 ID:1 [INFO: Flood     ] SINK_RECV origin=9 seq=11 hops=3
+111.357 ID:10 [INFO: Flood     ] SOURCE origin=10 seq=10
+111.363 ID:10 [INFO: Flood     ] TX origin=10 seq=10 hops=0 total_tx=42
+111.371 ID:5 [INFO: Flood     ] DROP origin=10 seq=10 (proba)
+111.374 ID:9 [INFO: Flood     ] TX origin=10 seq=10 hops=1 total_tx=44
+111.406 ID:4 [INFO: Flood     ] TX origin=10 seq=10 hops=2 total_tx=42
+111.406 ID:8 [INFO: Flood     ] TX origin=10 seq=10 hops=2 total_tx=45
+111.421 ID:3 [INFO: Flood     ] TX origin=10 seq=10 hops=3 total_tx=47
+111.441 ID:2 [INFO: Flood     ] TX origin=10 seq=10 hops=4 total_tx=42
+111.443 ID:7 [INFO: Flood     ] TX origin=10 seq=10 hops=3 total_tx=42
+111.449 ID:1 [INFO: Flood     ] SINK_RECV origin=10 seq=10 hops=4
+111.465 ID:6 [INFO: Flood     ] DROP origin=10 seq=10 (proba)
+114.312 ID:7 [INFO: Flood     ] SOURCE origin=7 seq=11
+114.317 ID:7 [INFO: Flood     ] TX origin=7 seq=11 hops=0 total_tx=43
+114.325 ID:2 [INFO: Flood     ] DROP origin=7 seq=11 (proba)
+114.327 ID:6 [INFO: Flood     ] TX origin=7 seq=11 hops=1 total_tx=33
+114.327 ID:8 [INFO: Flood     ] TX origin=7 seq=11 hops=1 total_tx=46
+114.339 ID:3 [INFO: Flood     ] DROP origin=7 seq=11 (proba)
+114.341 ID:9 [INFO: Flood     ] TX origin=7 seq=11 hops=2 total_tx=45
+114.345 ID:1 [INFO: Flood     ] SINK_RECV origin=7 seq=11 hops=1
+114.365 ID:4 [INFO: Flood     ] DROP origin=7 seq=11 (proba)
+114.367 ID:10 [INFO: Flood     ] TX origin=7 seq=11 hops=3 total_tx=43
+114.401 ID:5 [INFO: Flood     ] DROP origin=7 seq=11 (proba)
+115.274 ID:4 [INFO: Flood     ] SOURCE origin=4 seq=11
+115.280 ID:4 [INFO: Flood     ] TX origin=4 seq=11 hops=0 total_tx=43
+115.325 ID:5 [INFO: Flood     ] DROP origin=4 seq=11 (proba)
+115.327 ID:3 [INFO: Flood     ] TX origin=4 seq=11 hops=1 total_tx=48
+115.327 ID:9 [INFO: Flood     ] TX origin=4 seq=11 hops=1 total_tx=46
+115.359 ID:10 [INFO: Flood     ] TX origin=4 seq=11 hops=2 total_tx=44
+115.359 ID:8 [INFO: Flood     ] TX origin=4 seq=11 hops=2 total_tx=47
+115.376 ID:2 [INFO: Flood     ] DROP origin=4 seq=11 (proba)
+115.404 ID:7 [INFO: Flood     ] TX origin=4 seq=11 hops=3 total_tx=44
+115.428 ID:6 [INFO: Flood     ] TX origin=4 seq=11 hops=4 total_tx=34
+115.435 ID:1 [INFO: Flood     ] SINK_RECV origin=4 seq=11 hops=4
+115.677 ID:3 [INFO: Flood     ] SOURCE origin=3 seq=11
+115.683 ID:3 [INFO: Flood     ] TX origin=3 seq=11 hops=0 total_tx=49
+115.704 ID:4 [INFO: Flood     ] DROP origin=3 seq=11 (proba)
+115.706 ID:2 [INFO: Flood     ] TX origin=3 seq=11 hops=1 total_tx=43
+115.707 ID:8 [INFO: Flood     ] TX origin=3 seq=11 hops=1 total_tx=48
+115.714 ID:1 [INFO: Flood     ] SINK_RECV origin=3 seq=11 hops=1
+115.716 ID:9 [INFO: Flood     ] TX origin=3 seq=11 hops=2 total_tx=47
+115.766 ID:10 [INFO: Flood     ] TX origin=3 seq=11 hops=3 total_tx=45
+115.799 ID:5 [INFO: Flood     ] DROP origin=3 seq=11 (proba)
+118.649 ID:5 [INFO: Flood     ] SOURCE origin=5 seq=11
+118.655 ID:5 [INFO: Flood     ] TX origin=5 seq=11 hops=0 total_tx=39
+118.692 ID:10 [INFO: Flood     ] DROP origin=5 seq=11 (proba)
+118.692 ID:4 [INFO: Flood     ] DROP origin=5 seq=11 (proba)
+120.335 ID:8 [INFO: Flood     ] SOURCE origin=8 seq=11
+120.340 ID:8 [INFO: Flood     ] TX origin=8 seq=11 hops=0 total_tx=49
+120.370 ID:9 [INFO: Flood     ] DROP origin=8 seq=11 (proba)
+120.390 ID:8 [INFO: Flood     ] ENERGEST cpu=190520 lpm=3743707 tx=1177 rx=3931617
+120.553 ID:2 [INFO: Flood     ] ENERGEST cpu=185743 lpm=3748484 tx=1033 rx=3931773
+120.568 ID:6 [INFO: Flood     ] ENERGEST cpu=179113 lpm=3755114 tx=816 rx=3932006
+120.666 ID:4 [INFO: Flood     ] ENERGEST cpu=189093 lpm=3745134 tx=1033 rx=3931773
+120.698 ID:1 [INFO: Flood     ] ENERGEST cpu=168075 lpm=3766149 tx=0 rx=3932887
+120.719 ID:7 [INFO: Flood     ] ENERGEST cpu=187113 lpm=3747114 tx=1058 rx=3931747
+120.818 ID:2 [INFO: Flood     ] SOURCE origin=2 seq=12
+120.824 ID:2 [INFO: Flood     ] TX origin=2 seq=12 hops=0 total_tx=44
+120.853 ID:9 [INFO: Flood     ] SOURCE origin=9 seq=12
+120.856 ID:6 [INFO: Flood     ] SOURCE origin=6 seq=12
+120.858 ID:9 [INFO: Flood     ] TX origin=9 seq=12 hops=0 total_tx=48
+120.862 ID:6 [INFO: Flood     ] TX origin=6 seq=12 hops=0 total_tx=35
+120.866 ID:8 [INFO: Flood     ] DROP origin=9 seq=12 (proba)
+120.866 ID:4 [INFO: Flood     ] DROP origin=9 seq=12 (proba)
+120.869 ID:10 [INFO: Flood     ] TX origin=9 seq=12 hops=1 total_tx=46
+120.881 ID:10 [INFO: Flood     ] ENERGEST cpu=186035 lpm=3748431 tx=1087 rx=3931956
+120.893 ID:5 [INFO: Flood     ] DROP origin=9 seq=12 (proba)
+121.026 ID:9 [INFO: Flood     ] ENERGEST cpu=189974 lpm=3744253 tx=1152 rx=3931642
+121.032 ID:5 [INFO: Flood     ] ENERGEST cpu=184342 lpm=3749885 tx=940 rx=3931875
+121.194 ID:10 [INFO: Flood     ] SOURCE origin=10 seq=11
+121.199 ID:10 [INFO: Flood     ] TX origin=10 seq=11 hops=0 total_tx=47
+121.217 ID:3 [INFO: Flood     ] ENERGEST cpu=189344 lpm=3744883 tx=1178 rx=3931616
+121.245 ID:5 [INFO: Flood     ] DROP origin=10 seq=11 (proba)
+121.247 ID:9 [INFO: Flood     ] TX origin=10 seq=11 hops=1 total_tx=49
+121.256 ID:8 [INFO: Flood     ] DROP origin=10 seq=11 (proba)
+121.256 ID:4 [INFO: Flood     ] DROP origin=10 seq=11 (proba)
+124.173 ID:4 [INFO: Flood     ] SOURCE origin=4 seq=12
+124.178 ID:4 [INFO: Flood     ] TX origin=4 seq=12 hops=0 total_tx=44
+124.208 ID:9 [INFO: Flood     ] DROP origin=4 seq=12 (proba)
+124.211 ID:5 [INFO: Flood     ] TX origin=4 seq=12 hops=1 total_tx=40
+124.247 ID:10 [INFO: Flood     ] DROP origin=4 seq=12 (proba)
+124.452 ID:7 [INFO: Flood     ] SOURCE origin=7 seq=12
+124.458 ID:7 [INFO: Flood     ] TX origin=7 seq=12 hops=0 total_tx=45
+124.504 ID:2 [INFO: Flood     ] DROP origin=7 seq=12 (proba)
+124.506 ID:6 [INFO: Flood     ] TX origin=7 seq=12 hops=1 total_tx=36
+124.506 ID:8 [INFO: Flood     ] TX origin=7 seq=12 hops=1 total_tx=50
+124.517 ID:1 [INFO: Flood     ] SINK_RECV origin=7 seq=12 hops=1
+124.542 ID:9 [INFO: Flood     ] DROP origin=7 seq=12 (proba)
+126.114 ID:3 [INFO: Flood     ] SOURCE origin=3 seq=12
+126.120 ID:3 [INFO: Flood     ] TX origin=3 seq=12 hops=0 total_tx=50
+126.166 ID:8 [INFO: Flood     ] DROP origin=3 seq=12 (proba)
+126.166 ID:4 [INFO: Flood     ] DROP origin=3 seq=12 (proba)
+126.168 ID:2 [INFO: Flood     ] TX origin=3 seq=12 hops=1 total_tx=45
+126.190 ID:7 [INFO: Flood     ] DROP origin=3 seq=12 (proba)
+126.190 ID:1 [INFO: Flood     ] SINK_RECV origin=3 seq=12 hops=1
+129.625 ID:5 [INFO: Flood     ] SOURCE origin=5 seq=12
+129.631 ID:5 [INFO: Flood     ] TX origin=5 seq=12 hops=0 total_tx=41
+129.639 ID:10 [INFO: Flood     ] DROP origin=5 seq=12 (proba)
+129.641 ID:4 [INFO: Flood     ] TX origin=5 seq=12 hops=1 total_tx=45
+129.662 ID:3 [INFO: Flood     ] DROP origin=5 seq=12 (proba)
+129.664 ID:9 [INFO: Flood     ] TX origin=5 seq=12 hops=2 total_tx=50
+129.685 ID:8 [INFO: Flood     ] DROP origin=5 seq=12 (proba)
+129.817 ID:6 [INFO: Flood     ] SOURCE origin=6 seq=13
+129.823 ID:6 [INFO: Flood     ] TX origin=6 seq=13 hops=0 total_tx=37
+129.853 ID:7 [INFO: Flood     ] DROP origin=6 seq=13 (proba)
+129.853 ID:1 [INFO: Flood     ] SINK_RECV origin=6 seq=13 hops=0
+129.912 ID:2 [INFO: Flood     ] SOURCE origin=2 seq=13
+129.917 ID:2 [INFO: Flood     ] TX origin=2 seq=13 hops=0 total_tx=46
+129.947 ID:3 [INFO: Flood     ] DROP origin=2 seq=13 (proba)
+129.948 ID:1 [INFO: Flood     ] SINK_RECV origin=2 seq=13 hops=0
+129.950 ID:7 [INFO: Flood     ] TX origin=2 seq=13 hops=1 total_tx=46
+129.967 ID:6 [INFO: Flood     ] TX origin=2 seq=13 hops=2 total_tx=38
+129.967 ID:8 [INFO: Flood     ] TX origin=2 seq=13 hops=2 total_tx=51
+129.974 ID:9 [INFO: Flood     ] DROP origin=2 seq=13 (proba)
+130.717 ID:8 [INFO: Flood     ] SOURCE origin=8 seq=12
+130.723 ID:8 [INFO: Flood     ] TX origin=8 seq=12 hops=0 total_tx=52
+130.761 ID:3 [INFO: Flood     ] DROP origin=8 seq=12 (proba)
+130.761 ID:9 [INFO: Flood     ] DROP origin=8 seq=12 (proba)
+130.763 ID:7 [INFO: Flood     ] TX origin=8 seq=12 hops=1 total_tx=47
+130.777 ID:2 [INFO: Flood     ] DROP origin=8 seq=12 (proba)
+130.779 ID:6 [INFO: Flood     ] TX origin=8 seq=12 hops=2 total_tx=39
+130.806 ID:1 [INFO: Flood     ] SINK_RECV origin=8 seq=12 hops=2
+131.147 ID:10 [INFO: Flood     ] SOURCE origin=10 seq=12
+131.152 ID:10 [INFO: Flood     ] TX origin=10 seq=12 hops=0 total_tx=48
+131.174 ID:5 [INFO: Flood     ] DROP origin=10 seq=12 (proba)
+131.174 ID:9 [INFO: Flood     ] DROP origin=10 seq=12 (proba)
+131.540 ID:9 [INFO: Flood     ] SOURCE origin=9 seq=13
+131.546 ID:9 [INFO: Flood     ] TX origin=9 seq=13 hops=0 total_tx=51
+131.554 ID:10 [INFO: Flood     ] DROP origin=9 seq=13 (proba)
+131.554 ID:8 [INFO: Flood     ] DROP origin=9 seq=13 (proba)
+131.556 ID:4 [INFO: Flood     ] TX origin=9 seq=13 hops=1 total_tx=46
+131.583 ID:5 [INFO: Flood     ] DROP origin=9 seq=13 (proba)
+131.586 ID:3 [INFO: Flood     ] TX origin=9 seq=13 hops=2 total_tx=51
+131.626 ID:2 [INFO: Flood     ] DROP origin=9 seq=13 (proba)
+133.821 ID:4 [INFO: Flood     ] SOURCE origin=4 seq=13
+133.826 ID:4 [INFO: Flood     ] TX origin=4 seq=13 hops=0 total_tx=47
+133.837 ID:5 [INFO: Flood     ] TX origin=4 seq=13 hops=1 total_tx=42
+133.837 ID:9 [INFO: Flood     ] TX origin=4 seq=13 hops=1 total_tx=52
+133.837 ID:3 [INFO: Flood     ] TX origin=4 seq=13 hops=1 total_tx=52
+133.844 ID:8 [INFO: Flood     ] DROP origin=4 seq=13 (proba)
+133.847 ID:2 [INFO: Flood     ] TX origin=4 seq=13 hops=2 total_tx=47
+133.848 ID:10 [INFO: Flood     ] DROP origin=4 seq=13 (proba)
+133.893 ID:7 [INFO: Flood     ] DROP origin=4 seq=13 (proba)
+133.893 ID:1 [INFO: Flood     ] SINK_RECV origin=4 seq=13 hops=2
+134.445 ID:7 [INFO: Flood     ] SOURCE origin=7 seq=13
+134.451 ID:7 [INFO: Flood     ] TX origin=7 seq=13 hops=0 total_tx=48
+134.488 ID:6 [INFO: Flood     ] DROP origin=7 seq=13 (proba)
+134.488 ID:2 [INFO: Flood     ] DROP origin=7 seq=13 (proba)
+134.488 ID:8 [INFO: Flood     ] DROP origin=7 seq=13 (proba)
+135.442 ID:3 [INFO: Flood     ] SOURCE origin=3 seq=13
+135.448 ID:3 [INFO: Flood     ] TX origin=3 seq=13 hops=0 total_tx=53
+135.462 ID:2 [INFO: Flood     ] DROP origin=3 seq=13 (proba)
+135.462 ID:4 [INFO: Flood     ] DROP origin=3 seq=13 (proba)
+135.464 ID:8 [INFO: Flood     ] TX origin=3 seq=13 hops=1 total_tx=53
+135.503 ID:9 [INFO: Flood     ] DROP origin=3 seq=13 (proba)
+135.505 ID:7 [INFO: Flood     ] TX origin=3 seq=13 hops=2 total_tx=49
+135.521 ID:6 [INFO: Flood     ] TX origin=3 seq=13 hops=3 total_tx=40
+135.556 ID:1 [INFO: Flood     ] SINK_RECV origin=3 seq=13 hops=3
+138.594 ID:5 [INFO: Flood     ] SOURCE origin=5 seq=13
+138.599 ID:5 [INFO: Flood     ] TX origin=5 seq=13 hops=0 total_tx=43
+138.607 ID:10 [INFO: Flood     ] DROP origin=5 seq=13 (proba)
+138.608 ID:4 [INFO: Flood     ] DROP origin=5 seq=13 (proba)
+138.895 ID:6 [INFO: Flood     ] SOURCE origin=6 seq=14
+138.901 ID:6 [INFO: Flood     ] TX origin=6 seq=14 hops=0 total_tx=41
+138.923 ID:7 [INFO: Flood     ] DROP origin=6 seq=14 (proba)
+138.923 ID:1 [INFO: Flood     ] SINK_RECV origin=6 seq=14 hops=0
+140.330 ID:9 [INFO: Flood     ] SOURCE origin=9 seq=14
+140.335 ID:9 [INFO: Flood     ] TX origin=9 seq=14 hops=0 total_tx=53
+140.352 ID:10 [INFO: Flood     ] TX origin=9 seq=14 hops=1 total_tx=49
+140.352 ID:4 [INFO: Flood     ] TX origin=9 seq=14 hops=1 total_tx=48
+140.359 ID:5 [INFO: Flood     ] DROP origin=9 seq=14 (proba)
+140.362 ID:3 [INFO: Flood     ] TX origin=9 seq=14 hops=2 total_tx=54
+140.365 ID:8 [INFO: Flood     ] TX origin=9 seq=14 hops=1 total_tx=54
+140.375 ID:7 [INFO: Flood     ] TX origin=9 seq=14 hops=2 total_tx=50
+140.400 ID:2 [INFO: Flood     ] DROP origin=9 seq=14 (proba)
+140.412 ID:6 [INFO: Flood     ] TX origin=9 seq=14 hops=3 total_tx=42
+140.435 ID:2 [INFO: Flood     ] SOURCE origin=2 seq=14
+140.441 ID:2 [INFO: Flood     ] TX origin=2 seq=14 hops=0 total_tx=48
+140.446 ID:1 [INFO: Flood     ] SINK_RECV origin=9 seq=14 hops=3
+140.449 ID:3 [INFO: Flood     ] DROP origin=2 seq=14 (proba)
+140.451 ID:7 [INFO: Flood     ] TX origin=2 seq=14 hops=1 total_tx=51
+140.452 ID:1 [INFO: Flood     ] SINK_RECV origin=2 seq=14 hops=0
+140.472 ID:6 [INFO: Flood     ] DROP origin=2 seq=14 (proba)
+140.474 ID:8 [INFO: Flood     ] TX origin=2 seq=14 hops=2 total_tx=55
+140.503 ID:9 [INFO: Flood     ] DROP origin=2 seq=14 (proba)
+140.748 ID:10 [INFO: Flood     ] SOURCE origin=10 seq=13
+140.754 ID:10 [INFO: Flood     ] TX origin=10 seq=13 hops=0 total_tx=50
+140.801 ID:5 [INFO: Flood     ] TX origin=10 seq=13 hops=1 total_tx=44
+140.801 ID:9 [INFO: Flood     ] TX origin=10 seq=13 hops=1 total_tx=54
+140.842 ID:4 [INFO: Flood     ] DROP origin=10 seq=13 (proba)
+140.844 ID:8 [INFO: Flood     ] TX origin=10 seq=13 hops=2 total_tx=56
+140.893 ID:3 [INFO: Flood     ] DROP origin=10 seq=13 (proba)
+140.896 ID:7 [INFO: Flood     ] TX origin=10 seq=13 hops=3 total_tx=52
+140.934 ID:6 [INFO: Flood     ] DROP origin=10 seq=13 (proba)
+140.934 ID:2 [INFO: Flood     ] DROP origin=10 seq=13 (proba)
+141.170 ID:8 [INFO: Flood     ] SOURCE origin=8 seq=13
+141.176 ID:8 [INFO: Flood     ] TX origin=8 seq=13 hops=0 total_tx=57
+141.221 ID:7 [INFO: Flood     ] DROP origin=8 seq=13 (proba)
+141.221 ID:3 [INFO: Flood     ] DROP origin=8 seq=13 (proba)
+141.224 ID:9 [INFO: Flood     ] TX origin=8 seq=13 hops=1 total_tx=55
+141.272 ID:4 [INFO: Flood     ] DROP origin=8 seq=13 (proba)
+141.274 ID:10 [INFO: Flood     ] TX origin=8 seq=13 hops=2 total_tx=51
+141.325 ID:5 [INFO: Flood     ] TX origin=8 seq=13 hops=3 total_tx=45
+143.359 ID:7 [INFO: Flood     ] SOURCE origin=7 seq=14
+143.364 ID:7 [INFO: Flood     ] TX origin=7 seq=14 hops=0 total_tx=53
+143.372 ID:2 [INFO: Flood     ] DROP origin=7 seq=14 (proba)
+143.374 ID:6 [INFO: Flood     ] TX origin=7 seq=14 hops=1 total_tx=43
+143.375 ID:8 [INFO: Flood     ] TX origin=7 seq=14 hops=1 total_tx=58
+143.382 ID:9 [INFO: Flood     ] DROP origin=7 seq=14 (proba)
+143.384 ID:3 [INFO: Flood     ] TX origin=7 seq=14 hops=2 total_tx=55
+143.392 ID:4 [INFO: Flood     ] DROP origin=7 seq=14 (proba)
+143.415 ID:1 [INFO: Flood     ] SINK_RECV origin=7 seq=14 hops=1
+143.688 ID:4 [INFO: Flood     ] SOURCE origin=4 seq=14
+143.694 ID:4 [INFO: Flood     ] TX origin=4 seq=14 hops=0 total_tx=49
+143.702 ID:9 [INFO: Flood     ] DROP origin=4 seq=14 (proba)
+143.704 ID:5 [INFO: Flood     ] TX origin=4 seq=14 hops=1 total_tx=46
+143.704 ID:3 [INFO: Flood     ] TX origin=4 seq=14 hops=1 total_tx=56
+143.712 ID:10 [INFO: Flood     ] DROP origin=4 seq=14 (proba)
+143.720 ID:2 [INFO: Flood     ] DROP origin=4 seq=14 (proba)
+143.722 ID:8 [INFO: Flood     ] TX origin=4 seq=14 hops=2 total_tx=59
+143.745 ID:7 [INFO: Flood     ] DROP origin=4 seq=14 (proba)
+145.403 ID:3 [INFO: Flood     ] SOURCE origin=3 seq=14
+145.409 ID:3 [INFO: Flood     ] TX origin=3 seq=14 hops=0 total_tx=57
+145.454 ID:2 [INFO: Flood     ] DROP origin=3 seq=14 (proba)
+145.454 ID:4 [INFO: Flood     ] DROP origin=3 seq=14 (proba)
+145.457 ID:8 [INFO: Flood     ] TX origin=3 seq=14 hops=1 total_tx=60
+145.464 ID:9 [INFO: Flood     ] DROP origin=3 seq=14 (proba)
+145.466 ID:7 [INFO: Flood     ] TX origin=3 seq=14 hops=2 total_tx=54
+145.476 ID:6 [INFO: Flood     ] TX origin=3 seq=14 hops=3 total_tx=44
+145.485 ID:1 [INFO: Flood     ] SINK_RECV origin=3 seq=14 hops=3
+147.805 ID:5 [INFO: Flood     ] SOURCE origin=5 seq=14
+147.811 ID:5 [INFO: Flood     ] TX origin=5 seq=14 hops=0 total_tx=47
+147.835 ID:10 [INFO: Flood     ] TX origin=5 seq=14 hops=1 total_tx=52
+147.835 ID:4 [INFO: Flood     ] TX origin=5 seq=14 hops=1 total_tx=50
+147.842 ID:3 [INFO: Flood     ] DROP origin=5 seq=14 (proba)
+148.145 ID:6 [INFO: Flood     ] SOURCE origin=6 seq=15
+148.151 ID:6 [INFO: Flood     ] TX origin=6 seq=15 hops=0 total_tx=45
+148.196 ID:7 [INFO: Flood     ] DROP origin=6 seq=15 (proba)
+148.196 ID:1 [INFO: Flood     ] SINK_RECV origin=6 seq=15 hops=0
+149.771 ID:2 [INFO: Flood     ] SOURCE origin=2 seq=15
+149.777 ID:2 [INFO: Flood     ] TX origin=2 seq=15 hops=0 total_tx=49
+149.815 ID:7 [INFO: Flood     ] DROP origin=2 seq=15 (proba)
+149.815 ID:1 [INFO: Flood     ] SINK_RECV origin=2 seq=15 hops=0
+149.817 ID:3 [INFO: Flood     ] TX origin=2 seq=15 hops=1 total_tx=58
+149.829 ID:8 [INFO: Flood     ] DROP origin=2 seq=15 (proba)
+149.832 ID:4 [INFO: Flood     ] TX origin=2 seq=15 hops=2 total_tx=51
+149.865 ID:5 [INFO: Flood     ] DROP origin=2 seq=15 (proba)
+149.865 ID:9 [INFO: Flood     ] DROP origin=2 seq=15 (proba)
+150.390 ID:8 [INFO: Flood     ] ENERGEST cpu=236935 lpm=4680332 tx=1441 rx=4914371
+150.553 ID:2 [INFO: Flood     ] ENERGEST cpu=230723 lpm=4686544 tx=1177 rx=4914657
+150.568 ID:6 [INFO: Flood     ] ENERGEST cpu=224225 lpm=4693042 tx=1080 rx=4914760
+150.666 ID:4 [INFO: Flood     ] ENERGEST cpu=234760 lpm=4682507 tx=1226 rx=4914605
+150.698 ID:1 [INFO: Flood     ] ENERGEST cpu=209288 lpm=4707976 tx=0 rx=4915927
+150.719 ID:7 [INFO: Flood     ] ENERGEST cpu=233287 lpm=4683980 tx=1298 rx=4914527
+150.787 ID:10 [INFO: Flood     ] SOURCE origin=10 seq=14
+150.793 ID:10 [INFO: Flood     ] TX origin=10 seq=14 hops=0 total_tx=53
+150.815 ID:5 [INFO: Flood     ] DROP origin=10 seq=14 (proba)
+150.815 ID:9 [INFO: Flood     ] DROP origin=10 seq=14 (proba)
+150.874 ID:10 [INFO: Flood     ] ENERGEST cpu=230751 lpm=4686516 tx=1279 rx=4914550
+150.877 ID:9 [INFO: Flood     ] SOURCE origin=9 seq=15
+150.882 ID:9 [INFO: Flood     ] TX origin=9 seq=15 hops=0 total_tx=56
+150.890 ID:10 [INFO: Flood     ] DROP origin=9 seq=15 (proba)
+150.890 ID:4 [INFO: Flood     ] DROP origin=9 seq=15 (proba)
+150.890 ID:8 [INFO: Flood     ] DROP origin=9 seq=15 (proba)
+151.026 ID:9 [INFO: Flood     ] ENERGEST cpu=235955 lpm=4681312 tx=1345 rx=4914474
+151.032 ID:5 [INFO: Flood     ] ENERGEST cpu=228995 lpm=4688272 tx=1132 rx=4914707
+151.217 ID:3 [INFO: Flood     ] ENERGEST cpu=234902 lpm=4682365 tx=1395 rx=4914422
+151.710 ID:8 [INFO: Flood     ] SOURCE origin=8 seq=14
+151.715 ID:8 [INFO: Flood     ] TX origin=8 seq=14 hops=0 total_tx=61
+151.723 ID:3 [INFO: Flood     ] DROP origin=8 seq=14 (proba)
+151.726 ID:7 [INFO: Flood     ] TX origin=8 seq=14 hops=1 total_tx=55
+151.726 ID:9 [INFO: Flood     ] TX origin=8 seq=14 hops=1 total_tx=57
+151.748 ID:10 [INFO: Flood     ] DROP origin=8 seq=14 (proba)
+151.748 ID:4 [INFO: Flood     ] DROP origin=8 seq=14 (proba)
+151.762 ID:6 [INFO: Flood     ] DROP origin=8 seq=14 (proba)
+151.762 ID:2 [INFO: Flood     ] DROP origin=8 seq=14 (proba)
+152.985 ID:4 [INFO: Flood     ] SOURCE origin=4 seq=15
+152.991 ID:4 [INFO: Flood     ] TX origin=4 seq=15 hops=0 total_tx=52
+152.999 ID:5 [INFO: Flood     ] DROP origin=4 seq=15 (proba)
+152.999 ID:3 [INFO: Flood     ] DROP origin=4 seq=15 (proba)
+152.999 ID:9 [INFO: Flood     ] DROP origin=4 seq=15 (proba)
+154.164 ID:7 [INFO: Flood     ] SOURCE origin=7 seq=15
+154.169 ID:7 [INFO: Flood     ] TX origin=7 seq=15 hops=0 total_tx=56
+154.199 ID:6 [INFO: Flood     ] DROP origin=7 seq=15 (proba)
+154.201 ID:2 [INFO: Flood     ] TX origin=7 seq=15 hops=1 total_tx=50
+154.201 ID:8 [INFO: Flood     ] TX origin=7 seq=15 hops=1 total_tx=62
+154.209 ID:1 [INFO: Flood     ] SINK_RECV origin=7 seq=15 hops=1
+154.212 ID:3 [INFO: Flood     ] TX origin=7 seq=15 hops=2 total_tx=59
+154.220 ID:4 [INFO: Flood     ] DROP origin=7 seq=15 (proba)
+154.230 ID:9 [INFO: Flood     ] DROP origin=7 seq=15 (proba)
+156.169 ID:3 [INFO: Flood     ] SOURCE origin=3 seq=15
+156.174 ID:3 [INFO: Flood     ] TX origin=3 seq=15 hops=0 total_tx=60
+156.197 ID:8 [INFO: Flood     ] DROP origin=3 seq=15 (proba)
+156.197 ID:4 [INFO: Flood     ] DROP origin=3 seq=15 (proba)
+156.199 ID:2 [INFO: Flood     ] TX origin=3 seq=15 hops=1 total_tx=51
+156.244 ID:7 [INFO: Flood     ] DROP origin=3 seq=15 (proba)
+156.244 ID:1 [INFO: Flood     ] SINK_RECV origin=3 seq=15 hops=1
+156.696 ID:5 [INFO: Flood     ] SOURCE origin=5 seq=15
+156.701 ID:5 [INFO: Flood     ] TX origin=5 seq=15 hops=0 total_tx=48
+156.731 ID:10 [INFO: Flood     ] DROP origin=5 seq=15 (proba)
+156.734 ID:4 [INFO: Flood     ] TX origin=5 seq=15 hops=1 total_tx=53
+156.742 ID:3 [INFO: Flood     ] DROP origin=5 seq=15 (proba)
+156.744 ID:9 [INFO: Flood     ] TX origin=5 seq=15 hops=2 total_tx=58
+156.756 ID:8 [INFO: Flood     ] DROP origin=5 seq=15 (proba)
+158.419 ID:6 [INFO: Flood     ] SOURCE origin=6 seq=16
+158.424 ID:6 [INFO: Flood     ] TX origin=6 seq=16 hops=0 total_tx=46
+158.432 ID:7 [INFO: Flood     ] DROP origin=6 seq=16 (proba)
+158.433 ID:1 [INFO: Flood     ] SINK_RECV origin=6 seq=16 hops=0
+160.607 ID:2 [INFO: Flood     ] SOURCE origin=2 seq=16
+160.613 ID:2 [INFO: Flood     ] TX origin=2 seq=16 hops=0 total_tx=52
+160.659 ID:7 [INFO: Flood     ] DROP origin=2 seq=16 (proba)
+160.661 ID:3 [INFO: Flood     ] TX origin=2 seq=16 hops=1 total_tx=61
+160.669 ID:4 [INFO: Flood     ] DROP origin=2 seq=16 (proba)
+160.671 ID:8 [INFO: Flood     ] TX origin=2 seq=16 hops=2 total_tx=63
+160.672 ID:1 [INFO: Flood     ] SINK_RECV origin=2 seq=16 hops=0
+160.714 ID:9 [INFO: Flood     ] DROP origin=2 seq=16 (proba)
+161.217 ID:10 [INFO: Flood     ] SOURCE origin=10 seq=15
+161.222 ID:10 [INFO: Flood     ] TX origin=10 seq=15 hops=0 total_tx=54
+161.237 ID:9 [INFO: Flood     ] DROP origin=10 seq=15 (proba)
+161.239 ID:5 [INFO: Flood     ] TX origin=10 seq=15 hops=1 total_tx=49
+161.249 ID:4 [INFO: Flood     ] TX origin=10 seq=15 hops=2 total_tx=54
+161.281 ID:3 [INFO: Flood     ] TX origin=10 seq=15 hops=3 total_tx=62
+161.308 ID:2 [INFO: Flood     ] TX origin=10 seq=15 hops=4 total_tx=53
+161.309 ID:8 [INFO: Flood     ] TX origin=10 seq=15 hops=4 total_tx=64
+161.316 ID:7 [INFO: Flood     ] DROP origin=10 seq=15 (proba)
+161.323 ID:1 [INFO: Flood     ] SINK_RECV origin=10 seq=15 hops=4
+162.095 ID:9 [INFO: Flood     ] SOURCE origin=9 seq=16
+162.101 ID:9 [INFO: Flood     ] TX origin=9 seq=16 hops=0 total_tx=59
+162.109 ID:8 [INFO: Flood     ] DROP origin=9 seq=16 (proba)
+162.111 ID:10 [INFO: Flood     ] TX origin=9 seq=16 hops=1 total_tx=55
+162.111 ID:4 [INFO: Flood     ] TX origin=9 seq=16 hops=1 total_tx=55
+162.124 ID:5 [INFO: Flood     ] TX origin=9 seq=16 hops=2 total_tx=50
+162.124 ID:3 [INFO: Flood     ] TX origin=9 seq=16 hops=2 total_tx=63
+162.157 ID:2 [INFO: Flood     ] DROP origin=9 seq=16 (proba)
+162.399 ID:4 [INFO: Flood     ] SOURCE origin=4 seq=16
+162.405 ID:4 [INFO: Flood     ] TX origin=4 seq=16 hops=0 total_tx=56
+162.419 ID:3 [INFO: Flood     ] DROP origin=4 seq=16 (proba)
+162.419 ID:9 [INFO: Flood     ] DROP origin=4 seq=16 (proba)
+162.421 ID:5 [INFO: Flood     ] TX origin=4 seq=16 hops=1 total_tx=51
+162.452 ID:10 [INFO: Flood     ] TX origin=4 seq=16 hops=2 total_tx=56
+162.842 ID:8 [INFO: Flood     ] SOURCE origin=8 seq=15
+162.848 ID:8 [INFO: Flood     ] TX origin=8 seq=15 hops=0 total_tx=65
+162.864 ID:7 [INFO: Flood     ] TX origin=8 seq=15 hops=1 total_tx=57
+162.864 ID:3 [INFO: Flood     ] TX origin=8 seq=15 hops=1 total_tx=64
+162.864 ID:9 [INFO: Flood     ] TX origin=8 seq=15 hops=1 total_tx=60
+162.874 ID:2 [INFO: Flood     ] TX origin=8 seq=15 hops=2 total_tx=54
+162.874 ID:4 [INFO: Flood     ] TX origin=8 seq=15 hops=2 total_tx=57
+162.883 ID:10 [INFO: Flood     ] TX origin=8 seq=15 hops=2 total_tx=57
+162.912 ID:6 [INFO: Flood     ] TX origin=8 seq=15 hops=2 total_tx=47
+162.916 ID:1 [INFO: Flood     ] SINK_RECV origin=8 seq=15 hops=2
+162.919 ID:5 [INFO: Flood     ] DROP origin=8 seq=15 (proba)
+163.867 ID:7 [INFO: Flood     ] SOURCE origin=7 seq=16
+163.872 ID:7 [INFO: Flood     ] TX origin=7 seq=16 hops=0 total_tx=58
+163.880 ID:6 [INFO: Flood     ] DROP origin=7 seq=16 (proba)
+163.883 ID:2 [INFO: Flood     ] TX origin=7 seq=16 hops=1 total_tx=55
+163.883 ID:8 [INFO: Flood     ] TX origin=7 seq=16 hops=1 total_tx=66
+163.909 ID:1 [INFO: Flood     ] SINK_RECV origin=7 seq=16 hops=1
+163.911 ID:3 [INFO: Flood     ] TX origin=7 seq=16 hops=2 total_tx=65
+163.919 ID:9 [INFO: Flood     ] TX origin=7 seq=16 hops=2 total_tx=61
+163.947 ID:4 [INFO: Flood     ] DROP origin=7 seq=16 (proba)
+163.969 ID:10 [INFO: Flood     ] TX origin=7 seq=16 hops=3 total_tx=58
+163.994 ID:5 [INFO: Flood     ] DROP origin=7 seq=16 (proba)
+165.387 ID:3 [INFO: Flood     ] SOURCE origin=3 seq=16
+165.393 ID:3 [INFO: Flood     ] TX origin=3 seq=16 hops=0 total_tx=66
+165.416 ID:2 [INFO: Flood     ] DROP origin=3 seq=16 (proba)
+165.416 ID:8 [INFO: Flood     ] DROP origin=3 seq=16 (proba)
+165.416 ID:4 [INFO: Flood     ] DROP origin=3 seq=16 (proba)
+166.922 ID:5 [INFO: Flood     ] SOURCE origin=5 seq=16
+166.928 ID:5 [INFO: Flood     ] TX origin=5 seq=16 hops=0 total_tx=52
+166.936 ID:10 [INFO: Flood     ] DROP origin=5 seq=16 (proba)
+166.936 ID:4 [INFO: Flood     ] DROP origin=5 seq=16 (proba)
+167.997 ID:6 [INFO: Flood     ] SOURCE origin=6 seq=17
+168.003 ID:6 [INFO: Flood     ] TX origin=6 seq=17 hops=0 total_tx=48
+168.017 ID:7 [INFO: Flood     ] DROP origin=6 seq=17 (proba)
+168.017 ID:1 [INFO: Flood     ] SINK_RECV origin=6 seq=17 hops=0
+170.357 ID:10 [INFO: Flood     ] SOURCE origin=10 seq=16
+170.363 ID:10 [INFO: Flood     ] TX origin=10 seq=16 hops=0 total_tx=59
+170.371 ID:9 [INFO: Flood     ] DROP origin=10 seq=16 (proba)
+170.373 ID:5 [INFO: Flood     ] TX origin=10 seq=16 hops=1 total_tx=53
+170.403 ID:4 [INFO: Flood     ] DROP origin=10 seq=16 (proba)
+170.724 ID:2 [INFO: Flood     ] SOURCE origin=2 seq=17
+170.730 ID:2 [INFO: Flood     ] TX origin=2 seq=17 hops=0 total_tx=56
+170.752 ID:3 [INFO: Flood     ] DROP origin=2 seq=17 (proba)
+170.753 ID:1 [INFO: Flood     ] SINK_RECV origin=2 seq=17 hops=0
+170.755 ID:7 [INFO: Flood     ] TX origin=2 seq=17 hops=1 total_tx=59
+170.771 ID:6 [INFO: Flood     ] TX origin=2 seq=17 hops=2 total_tx=49
+170.772 ID:8 [INFO: Flood     ] TX origin=2 seq=17 hops=2 total_tx=67
+170.815 ID:9 [INFO: Flood     ] DROP origin=2 seq=17 (proba)
+171.782 ID:4 [INFO: Flood     ] SOURCE origin=4 seq=17
+171.788 ID:4 [INFO: Flood     ] TX origin=4 seq=17 hops=0 total_tx=58
+171.804 ID:5 [INFO: Flood     ] TX origin=4 seq=17 hops=1 total_tx=54
+171.804 ID:9 [INFO: Flood     ] TX origin=4 seq=17 hops=1 total_tx=62
+171.804 ID:3 [INFO: Flood     ] TX origin=4 seq=17 hops=1 total_tx=67
+171.814 ID:10 [INFO: Flood     ] TX origin=4 seq=17 hops=2 total_tx=60
+171.845 ID:8 [INFO: Flood     ] DROP origin=4 seq=17 (proba)
+171.847 ID:2 [INFO: Flood     ] TX origin=4 seq=17 hops=2 total_tx=57
+171.893 ID:7 [INFO: Flood     ] DROP origin=4 seq=17 (proba)
+171.893 ID:1 [INFO: Flood     ] SINK_RECV origin=4 seq=17 hops=2
+172.576 ID:8 [INFO: Flood     ] SOURCE origin=8 seq=16
+172.580 ID:9 [INFO: Flood     ] SOURCE origin=9 seq=17
+172.582 ID:8 [INFO: Flood     ] TX origin=8 seq=16 hops=0 total_tx=68
+172.585 ID:9 [INFO: Flood     ] TX origin=9 seq=17 hops=0 total_tx=63
+172.607 ID:8 [INFO: Flood     ] DROP origin=9 seq=17 (proba)
+172.609 ID:4 [INFO: Flood     ] TX origin=9 seq=17 hops=1 total_tx=59
+172.609 ID:10 [INFO: Flood     ] TX origin=9 seq=17 hops=1 total_tx=61
+172.619 ID:3 [INFO: Flood     ] TX origin=9 seq=17 hops=2 total_tx=68
+172.619 ID:5 [INFO: Flood     ] TX origin=9 seq=17 hops=2 total_tx=55
+172.629 ID:2 [INFO: Flood     ] TX origin=9 seq=17 hops=3 total_tx=58
+172.666 ID:7 [INFO: Flood     ] DROP origin=9 seq=17 (proba)
+172.666 ID:1 [INFO: Flood     ] SINK_RECV origin=9 seq=17 hops=3
+172.698 ID:7 [INFO: Flood     ] DROP origin=8 seq=16 (proba)
+172.699 ID:3 [INFO: Flood     ] DROP origin=8 seq=16 (proba)
+172.701 ID:9 [INFO: Flood     ] TX origin=8 seq=16 hops=1 total_tx=64
+172.734 ID:10 [INFO: Flood     ] TX origin=8 seq=16 hops=2 total_tx=62
+172.735 ID:4 [INFO: Flood     ] TX origin=8 seq=16 hops=2 total_tx=60
+172.742 ID:5 [INFO: Flood     ] DROP origin=8 seq=16 (proba)
+173.796 ID:7 [INFO: Flood     ] SOURCE origin=7 seq=17
+173.802 ID:7 [INFO: Flood     ] TX origin=7 seq=17 hops=0 total_tx=60
+173.840 ID:6 [INFO: Flood     ] DROP origin=7 seq=17 (proba)
+173.842 ID:2 [INFO: Flood     ] TX origin=7 seq=17 hops=1 total_tx=59
+173.842 ID:8 [INFO: Flood     ] TX origin=7 seq=17 hops=1 total_tx=69
+173.885 ID:3 [INFO: Flood     ] DROP origin=7 seq=17 (proba)
+173.885 ID:1 [INFO: Flood     ] SINK_RECV origin=7 seq=17 hops=1
+173.886 ID:9 [INFO: Flood     ] DROP origin=7 seq=17 (proba)
+174.841 ID:3 [INFO: Flood     ] SOURCE origin=3 seq=17
+174.846 ID:3 [INFO: Flood     ] TX origin=3 seq=17 hops=0 total_tx=69
+174.876 ID:4 [INFO: Flood     ] DROP origin=3 seq=17 (proba)
+174.878 ID:2 [INFO: Flood     ] TX origin=3 seq=17 hops=1 total_tx=60
+174.879 ID:8 [INFO: Flood     ] TX origin=3 seq=17 hops=1 total_tx=70
+174.895 ID:7 [INFO: Flood     ] TX origin=3 seq=17 hops=2 total_tx=61
+174.896 ID:9 [INFO: Flood     ] TX origin=3 seq=17 hops=2 total_tx=65
+174.901 ID:1 [INFO: Flood     ] SINK_RECV origin=3 seq=17 hops=1
+174.903 ID:10 [INFO: Flood     ] DROP origin=3 seq=17 (proba)
+174.905 ID:6 [INFO: Flood     ] TX origin=3 seq=17 hops=3 total_tx=50
+177.446 ID:5 [INFO: Flood     ] SOURCE origin=5 seq=17
+177.451 ID:5 [INFO: Flood     ] TX origin=5 seq=17 hops=0 total_tx=56
+177.466 ID:4 [INFO: Flood     ] DROP origin=5 seq=17 (proba)
+177.468 ID:10 [INFO: Flood     ] TX origin=5 seq=17 hops=1 total_tx=63
+177.479 ID:9 [INFO: Flood     ] DROP origin=5 seq=17 (proba)
+178.294 ID:6 [INFO: Flood     ] SOURCE origin=6 seq=18
+178.299 ID:6 [INFO: Flood     ] TX origin=6 seq=18 hops=0 total_tx=51
+178.313 ID:7 [INFO: Flood     ] DROP origin=6 seq=18 (proba)
+178.314 ID:1 [INFO: Flood     ] SINK_RECV origin=6 seq=18 hops=0
+179.630 ID:2 [INFO: Flood     ] SOURCE origin=2 seq=18
+179.636 ID:2 [INFO: Flood     ] TX origin=2 seq=18 hops=0 total_tx=61
+179.666 ID:3 [INFO: Flood     ] DROP origin=2 seq=18 (proba)
+179.666 ID:7 [INFO: Flood     ] DROP origin=2 seq=18 (proba)
+179.666 ID:1 [INFO: Flood     ] SINK_RECV origin=2 seq=18 hops=0
+180.390 ID:8 [INFO: Flood     ] ENERGEST cpu=283131 lpm=5617176 tx=1682 rx=5897151
+180.545 ID:10 [INFO: Flood     ] SOURCE origin=10 seq=17
+180.551 ID:10 [INFO: Flood     ] TX origin=10 seq=17 hops=0 total_tx=64
+180.553 ID:2 [INFO: Flood     ] ENERGEST cpu=276475 lpm=5623832 tx=1465 rx=5897385
+180.568 ID:6 [INFO: Flood     ] ENERGEST cpu=267717 lpm=5632590 tx=1226 rx=5897644
+180.596 ID:9 [INFO: Flood     ] DROP origin=10 seq=17 (proba)
+180.598 ID:5 [INFO: Flood     ] TX origin=10 seq=17 hops=1 total_tx=57
+180.638 ID:4 [INFO: Flood     ] DROP origin=10 seq=17 (proba)
+180.666 ID:4 [INFO: Flood     ] ENERGEST cpu=281440 lpm=5618867 tx=1443 rx=5897412
+180.698 ID:1 [INFO: Flood     ] ENERGEST cpu=250779 lpm=5649525 tx=0 rx=5898967
+180.719 ID:7 [INFO: Flood     ] ENERGEST cpu=278968 lpm=5621339 tx=1466 rx=5897385
+180.874 ID:10 [INFO: Flood     ] ENERGEST cpu=276600 lpm=5623707 tx=1543 rx=5897304
+181.026 ID:9 [INFO: Flood     ] ENERGEST cpu=282302 lpm=5618005 tx=1561 rx=5897280
+181.032 ID:5 [INFO: Flood     ] ENERGEST cpu=274345 lpm=5625962 tx=1373 rx=5897487
+181.217 ID:3 [INFO: Flood     ] ENERGEST cpu=281717 lpm=5618590 tx=1659 rx=5897176
+181.569 ID:8 [INFO: Flood     ] SOURCE origin=8 seq=17
+181.575 ID:8 [INFO: Flood     ] TX origin=8 seq=17 hops=0 total_tx=71
+181.605 ID:3 [INFO: Flood     ] DROP origin=8 seq=17 (proba)
+181.605 ID:9 [INFO: Flood     ] DROP origin=8 seq=17 (proba)
+181.607 ID:7 [INFO: Flood     ] TX origin=8 seq=17 hops=1 total_tx=62
+181.652 ID:6 [INFO: Flood     ] DROP origin=8 seq=17 (proba)
+181.652 ID:2 [INFO: Flood     ] DROP origin=8 seq=17 (proba)
+181.711 ID:4 [INFO: Flood     ] SOURCE origin=4 seq=18
+181.717 ID:4 [INFO: Flood     ] TX origin=4 seq=18 hops=0 total_tx=61
+181.740 ID:5 [INFO: Flood     ] DROP origin=4 seq=18 (proba)
+181.740 ID:3 [INFO: Flood     ] DROP origin=4 seq=18 (proba)
+181.742 ID:9 [INFO: Flood     ] TX origin=4 seq=18 hops=1 total_tx=66
+181.774 ID:10 [INFO: Flood     ] TX origin=4 seq=18 hops=2 total_tx=65
+181.774 ID:8 [INFO: Flood     ] TX origin=4 seq=18 hops=2 total_tx=72
+181.784 ID:7 [INFO: Flood     ] DROP origin=4 seq=18 (proba)
+183.587 ID:9 [INFO: Flood     ] SOURCE origin=9 seq=18
+183.593 ID:9 [INFO: Flood     ] TX origin=9 seq=18 hops=0 total_tx=67
+183.638 ID:8 [INFO: Flood     ] DROP origin=9 seq=18 (proba)
+183.641 ID:4 [INFO: Flood     ] TX origin=9 seq=18 hops=1 total_tx=62
+183.641 ID:10 [INFO: Flood     ] TX origin=9 seq=18 hops=1 total_tx=66
+183.674 ID:5 [INFO: Flood     ] DROP origin=9 seq=18 (proba)
+183.677 ID:3 [INFO: Flood     ] DROP origin=9 seq=18 (proba)
+184.312 ID:7 [INFO: Flood     ] SOURCE origin=7 seq=18
+184.317 ID:7 [INFO: Flood     ] TX origin=7 seq=18 hops=0 total_tx=63
+184.325 ID:2 [INFO: Flood     ] DROP origin=7 seq=18 (proba)
+184.325 ID:8 [INFO: Flood     ] DROP origin=7 seq=18 (proba)
+184.328 ID:6 [INFO: Flood     ] TX origin=7 seq=18 hops=1 total_tx=52
+184.337 ID:1 [INFO: Flood     ] SINK_RECV origin=7 seq=18 hops=1
+185.544 ID:3 [INFO: Flood     ] SOURCE origin=3 seq=18
+185.549 ID:3 [INFO: Flood     ] TX origin=3 seq=18 hops=0 total_tx=70
+185.597 ID:2 [INFO: Flood     ] TX origin=3 seq=18 hops=1 total_tx=62
+185.597 ID:8 [INFO: Flood     ] TX origin=3 seq=18 hops=1 total_tx=73
+185.597 ID:4 [INFO: Flood     ] TX origin=3 seq=18 hops=1 total_tx=63
+185.620 ID:7 [INFO: Flood     ] DROP origin=3 seq=18 (proba)
+185.623 ID:9 [INFO: Flood     ] TX origin=3 seq=18 hops=2 total_tx=68
+185.635 ID:1 [INFO: Flood     ] SINK_RECV origin=3 seq=18 hops=1
+185.648 ID:5 [INFO: Flood     ] TX origin=3 seq=18 hops=2 total_tx=58
+185.670 ID:10 [INFO: Flood     ] DROP origin=3 seq=18 (proba)
+188.122 ID:6 [INFO: Flood     ] SOURCE origin=6 seq=19
+188.128 ID:6 [INFO: Flood     ] TX origin=6 seq=19 hops=0 total_tx=53
+188.136 ID:7 [INFO: Flood     ] DROP origin=6 seq=19 (proba)
+188.136 ID:1 [INFO: Flood     ] SINK_RECV origin=6 seq=19 hops=0
+188.203 ID:5 [INFO: Flood     ] SOURCE origin=5 seq=18
+188.209 ID:5 [INFO: Flood     ] TX origin=5 seq=18 hops=0 total_tx=59
+188.223 ID:10 [INFO: Flood     ] DROP origin=5 seq=18 (proba)
+188.223 ID:4 [INFO: Flood     ] DROP origin=5 seq=18 (proba)
+189.771 ID:2 [INFO: Flood     ] SOURCE origin=2 seq=19
+189.777 ID:2 [INFO: Flood     ] TX origin=2 seq=19 hops=0 total_tx=63
+189.791 ID:3 [INFO: Flood     ] DROP origin=2 seq=19 (proba)
+189.791 ID:1 [INFO: Flood     ] SINK_RECV origin=2 seq=19 hops=0
+189.793 ID:7 [INFO: Flood     ] TX origin=2 seq=19 hops=1 total_tx=64
+189.816 ID:8 [INFO: Flood     ] DROP origin=2 seq=19 (proba)
+189.818 ID:6 [INFO: Flood     ] TX origin=2 seq=19 hops=2 total_tx=54
+191.123 ID:8 [INFO: Flood     ] SOURCE origin=8 seq=18
+191.129 ID:8 [INFO: Flood     ] TX origin=8 seq=18 hops=0 total_tx=74
+191.167 ID:9 [INFO: Flood     ] DROP origin=8 seq=18 (proba)
+191.170 ID:7 [INFO: Flood     ] TX origin=8 seq=18 hops=1 total_tx=65
+191.170 ID:3 [INFO: Flood     ] TX origin=8 seq=18 hops=1 total_tx=71
+191.199 ID:2 [INFO: Flood     ] TX origin=8 seq=18 hops=2 total_tx=64
+191.199 ID:4 [INFO: Flood     ] TX origin=8 seq=18 hops=2 total_tx=64
+191.201 ID:6 [INFO: Flood     ] TX origin=8 seq=18 hops=2 total_tx=55
+191.210 ID:5 [INFO: Flood     ] TX origin=8 seq=18 hops=3 total_tx=60
+191.236 ID:1 [INFO: Flood     ] SINK_RECV origin=8 seq=18 hops=2
+191.254 ID:10 [INFO: Flood     ] DROP origin=8 seq=18 (proba)
+191.412 ID:10 [INFO: Flood     ] SOURCE origin=10 seq=18
+191.418 ID:10 [INFO: Flood     ] TX origin=10 seq=18 hops=0 total_tx=67
+191.456 ID:9 [INFO: Flood     ] DROP origin=10 seq=18 (proba)
+191.458 ID:5 [INFO: Flood     ] TX origin=10 seq=18 hops=1 total_tx=61
+191.468 ID:4 [INFO: Flood     ] TX origin=10 seq=18 hops=2 total_tx=65
+191.490 ID:3 [INFO: Flood     ] DROP origin=10 seq=18 (proba)
+191.946 ID:4 [INFO: Flood     ] SOURCE origin=4 seq=19
+191.951 ID:4 [INFO: Flood     ] TX origin=4 seq=19 hops=0 total_tx=66
+191.981 ID:3 [INFO: Flood     ] DROP origin=4 seq=19 (proba)
+191.984 ID:5 [INFO: Flood     ] TX origin=4 seq=19 hops=1 total_tx=62
+191.984 ID:9 [INFO: Flood     ] TX origin=4 seq=19 hops=1 total_tx=69
+191.994 ID:10 [INFO: Flood     ] TX origin=4 seq=19 hops=2 total_tx=68
+191.994 ID:8 [INFO: Flood     ] TX origin=4 seq=19 hops=2 total_tx=75
+192.044 ID:7 [INFO: Flood     ] TX origin=4 seq=19 hops=3 total_tx=66
+192.082 ID:2 [INFO: Flood     ] DROP origin=4 seq=19 (proba)
+192.084 ID:6 [INFO: Flood     ] TX origin=4 seq=19 hops=4 total_tx=56
+192.111 ID:1 [INFO: Flood     ] SINK_RECV origin=4 seq=19 hops=4
+193.689 ID:9 [INFO: Flood     ] SOURCE origin=9 seq=19
+193.695 ID:9 [INFO: Flood     ] TX origin=9 seq=19 hops=0 total_tx=70
+193.741 ID:4 [INFO: Flood     ] DROP origin=9 seq=19 (proba)
+193.741 ID:8 [INFO: Flood     ] DROP origin=9 seq=19 (proba)
+193.743 ID:10 [INFO: Flood     ] TX origin=9 seq=19 hops=1 total_tx=69
+193.754 ID:5 [INFO: Flood     ] TX origin=9 seq=19 hops=2 total_tx=63
+193.757 ID:7 [INFO: Flood     ] SOURCE origin=7 seq=19
+193.763 ID:7 [INFO: Flood     ] TX origin=7 seq=19 hops=0 total_tx=67
+193.785 ID:2 [INFO: Flood     ] DROP origin=7 seq=19 (proba)
+193.787 ID:6 [INFO: Flood     ] TX origin=7 seq=19 hops=1 total_tx=57
+193.787 ID:8 [INFO: Flood     ] TX origin=7 seq=19 hops=1 total_tx=76
+193.795 ID:1 [INFO: Flood     ] SINK_RECV origin=7 seq=19 hops=1
+193.800 ID:3 [INFO: Flood     ] DROP origin=7 seq=19 (proba)
+193.800 ID:9 [INFO: Flood     ] DROP origin=7 seq=19 (proba)
+195.919 ID:3 [INFO: Flood     ] SOURCE origin=3 seq=19
+195.924 ID:3 [INFO: Flood     ] TX origin=3 seq=19 hops=0 total_tx=72
+195.963 ID:4 [INFO: Flood     ] DROP origin=3 seq=19 (proba)
+195.965 ID:2 [INFO: Flood     ] TX origin=3 seq=19 hops=1 total_tx=65
+195.965 ID:8 [INFO: Flood     ] TX origin=3 seq=19 hops=1 total_tx=77
+195.981 ID:7 [INFO: Flood     ] TX origin=3 seq=19 hops=2 total_tx=68
+195.982 ID:9 [INFO: Flood     ] TX origin=3 seq=19 hops=2 total_tx=71
+195.994 ID:1 [INFO: Flood     ] SINK_RECV origin=3 seq=19 hops=1
+195.998 ID:6 [INFO: Flood     ] TX origin=3 seq=19 hops=3 total_tx=58
+196.008 ID:10 [INFO: Flood     ] TX origin=3 seq=19 hops=3 total_tx=70
+196.035 ID:5 [INFO: Flood     ] TX origin=3 seq=19 hops=4 total_tx=64
+197.078 ID:5 [INFO: Flood     ] SOURCE origin=5 seq=19
+197.084 ID:5 [INFO: Flood     ] TX origin=5 seq=19 hops=0 total_tx=65
+197.094 ID:4 [INFO: Flood     ] TX origin=5 seq=19 hops=1 total_tx=67
+197.094 ID:10 [INFO: Flood     ] TX origin=5 seq=19 hops=1 total_tx=71
+197.122 ID:3 [INFO: Flood     ] DROP origin=5 seq=19 (proba)
+197.124 ID:9 [INFO: Flood     ] TX origin=5 seq=19 hops=2 total_tx=72
+197.138 ID:8 [INFO: Flood     ] DROP origin=5 seq=19 (proba)
+199.044 ID:6 [INFO: Flood     ] SOURCE origin=6 seq=20
+199.049 ID:6 [INFO: Flood     ] TX origin=6 seq=20 hops=0 total_tx=59
+199.095 ID:1 [INFO: Flood     ] SINK_RECV origin=6 seq=20 hops=0
+199.097 ID:7 [INFO: Flood     ] TX origin=6 seq=20 hops=1 total_tx=69
+199.146 ID:2 [INFO: Flood     ] TX origin=6 seq=20 hops=2 total_tx=66
+199.146 ID:8 [INFO: Flood     ] TX origin=6 seq=20 hops=2 total_tx=78
+199.161 ID:3 [INFO: Flood     ] TX origin=6 seq=20 hops=3 total_tx=73
+199.168 ID:4 [INFO: Flood     ] DROP origin=6 seq=20 (proba)
+199.175 ID:9 [INFO: Flood     ] DROP origin=6 seq=20 (proba)
+199.670 ID:2 [INFO: Flood     ] SOURCE origin=2 seq=20
+199.676 ID:2 [INFO: Flood     ] TX origin=2 seq=20 hops=0 total_tx=67
+199.713 ID:7 [INFO: Flood     ] DROP origin=2 seq=20 (proba)
+199.713 ID:3 [INFO: Flood     ] DROP origin=2 seq=20 (proba)
+199.713 ID:1 [INFO: Flood     ] SINK_RECV origin=2 seq=20 hops=0
+200.263 ID:10 [INFO: Flood     ] SOURCE origin=10 seq=19
+200.269 ID:10 [INFO: Flood     ] TX origin=10 seq=19 hops=0 total_tx=72
+200.310 ID:5 [INFO: Flood     ] TX origin=10 seq=19 hops=1 total_tx=66
+200.310 ID:9 [INFO: Flood     ] TX origin=10 seq=19 hops=1 total_tx=73
+200.352 ID:4 [INFO: Flood     ] TX origin=10 seq=19 hops=2 total_tx=68
+200.363 ID:8 [INFO: Flood     ] DROP origin=10 seq=19 (proba)
+200.372 ID:3 [INFO: Flood     ] DROP origin=10 seq=19 (proba)
+200.991 ID:8 [INFO: Flood     ] SOURCE origin=8 seq=19
+200.997 ID:8 [INFO: Flood     ] TX origin=8 seq=19 hops=0 total_tx=79
+201.018 ID:7 [INFO: Flood     ] DROP origin=8 seq=19 (proba)
+201.019 ID:3 [INFO: Flood     ] DROP origin=8 seq=19 (proba)
+201.021 ID:9 [INFO: Flood     ] TX origin=8 seq=19 hops=1 total_tx=74
+201.045 ID:10 [INFO: Flood     ] DROP origin=8 seq=19 (proba)
+201.047 ID:4 [INFO: Flood     ] TX origin=8 seq=19 hops=2 total_tx=69
+201.070 ID:5 [INFO: Flood     ] TX origin=8 seq=19 hops=3 total_tx=67
+201.602 ID:4 [INFO: Flood     ] SOURCE origin=4 seq=20
+201.608 ID:4 [INFO: Flood     ] TX origin=4 seq=20 hops=0 total_tx=70
+201.653 ID:5 [INFO: Flood     ] DROP origin=4 seq=20 (proba)
+201.653 ID:9 [INFO: Flood     ] DROP origin=4 seq=20 (proba)
+201.653 ID:3 [INFO: Flood     ] DROP origin=4 seq=20 (proba)
+203.390 ID:7 [INFO: Flood     ] SOURCE origin=7 seq=20
+203.396 ID:7 [INFO: Flood     ] TX origin=7 seq=20 hops=0 total_tx=70
+203.404 ID:2 [INFO: Flood     ] DROP origin=7 seq=20 (proba)
+203.404 ID:8 [INFO: Flood     ] DROP origin=7 seq=20 (proba)
+203.406 ID:6 [INFO: Flood     ] TX origin=7 seq=20 hops=1 total_tx=60
+203.447 ID:1 [INFO: Flood     ] SINK_RECV origin=7 seq=20 hops=1
+203.502 ID:9 [INFO: Flood     ] SOURCE origin=9 seq=20
+203.507 ID:9 [INFO: Flood     ] TX origin=9 seq=20 hops=0 total_tx=75
+203.545 ID:10 [INFO: Flood     ] DROP origin=9 seq=20 (proba)
+203.545 ID:8 [INFO: Flood     ] DROP origin=9 seq=20 (proba)
+203.545 ID:4 [INFO: Flood     ] DROP origin=9 seq=20 (proba)
+206.067 ID:3 [INFO: Flood     ] SOURCE origin=3 seq=20
+206.073 ID:3 [INFO: Flood     ] TX origin=3 seq=20 hops=0 total_tx=74
+206.111 ID:2 [INFO: Flood     ] DROP origin=3 seq=20 (proba)
+206.113 ID:8 [INFO: Flood     ] TX origin=3 seq=20 hops=1 total_tx=80
+206.113 ID:4 [INFO: Flood     ] TX origin=3 seq=20 hops=1 total_tx=71
+206.136 ID:9 [INFO: Flood     ] DROP origin=3 seq=20 (proba)
+206.138 ID:7 [INFO: Flood     ] TX origin=3 seq=20 hops=2 total_tx=71
+206.146 ID:6 [INFO: Flood     ] DROP origin=3 seq=20 (proba)
+206.153 ID:5 [INFO: Flood     ] DROP origin=3 seq=20 (proba)
+206.688 ID:5 [INFO: Flood     ] SOURCE origin=5 seq=20
+206.693 ID:5 [INFO: Flood     ] TX origin=5 seq=20 hops=0 total_tx=68
+206.701 ID:10 [INFO: Flood     ] DROP origin=5 seq=20 (proba)
+206.704 ID:4 [INFO: Flood     ] TX origin=5 seq=20 hops=1 total_tx=72
+206.714 ID:3 [INFO: Flood     ] TX origin=5 seq=20 hops=2 total_tx=75
+206.714 ID:9 [INFO: Flood     ] TX origin=5 seq=20 hops=2 total_tx=76
+206.736 ID:8 [INFO: Flood     ] DROP origin=5 seq=20 (proba)
+206.738 ID:2 [INFO: Flood     ] TX origin=5 seq=20 hops=3 total_tx=68
+206.776 ID:7 [INFO: Flood     ] DROP origin=5 seq=20 (proba)
+206.776 ID:1 [INFO: Flood     ] SINK_RECV origin=5 seq=20 hops=3
+209.107 ID:10 [INFO: Flood     ] SOURCE origin=10 seq=20
+209.113 ID:10 [INFO: Flood     ] TX origin=10 seq=20 hops=0 total_tx=73
+209.151 ID:5 [INFO: Flood     ] DROP origin=10 seq=20 (proba)
+209.151 ID:9 [INFO: Flood     ] DROP origin=10 seq=20 (proba)
+209.879 ID:6 [INFO: Flood     ] SOURCE origin=6 seq=21
+209.885 ID:6 [INFO: Flood     ] TX origin=6 seq=21 hops=0 total_tx=61
+209.900 ID:1 [INFO: Flood     ] SINK_RECV origin=6 seq=21 hops=0
+209.902 ID:7 [INFO: Flood     ] TX origin=6 seq=21 hops=1 total_tx=72
+209.910 ID:2 [INFO: Flood     ] DROP origin=6 seq=21 (proba)
+209.910 ID:8 [INFO: Flood     ] DROP origin=6 seq=21 (proba)
+210.390 ID:8 [INFO: Flood     ] ENERGEST cpu=329752 lpm=6553595 tx=1922 rx=6879931
+210.404 ID:2 [INFO: Flood     ] SOURCE origin=2 seq=21
+210.410 ID:2 [INFO: Flood     ] TX origin=2 seq=21 hops=0 total_tx=69
+210.448 ID:1 [INFO: Flood     ] SINK_RECV origin=2 seq=21 hops=0
+210.450 ID:3 [INFO: Flood     ] TX origin=2 seq=21 hops=1 total_tx=76
+210.450 ID:7 [INFO: Flood     ] TX origin=2 seq=21 hops=1 total_tx=73
+210.467 ID:6 [INFO: Flood     ] TX origin=2 seq=21 hops=2 total_tx=62
+210.467 ID:8 [INFO: Flood     ] TX origin=2 seq=21 hops=2 total_tx=81
+210.487 ID:9 [INFO: Flood     ] DROP origin=2 seq=21 (proba)
+210.488 ID:4 [INFO: Flood     ] TX origin=2 seq=21 hops=2 total_tx=73
+210.505 ID:5 [INFO: Flood     ] DROP origin=2 seq=21 (proba)
+210.553 ID:2 [INFO: Flood     ] ENERGEST cpu=321643 lpm=6561704 tx=1657 rx=6880217
+210.568 ID:6 [INFO: Flood     ] ENERGEST cpu=312694 lpm=6570653 tx=1491 rx=6880399
+210.666 ID:4 [INFO: Flood     ] ENERGEST cpu=328394 lpm=6554953 tx=1755 rx=6880114
+210.698 ID:1 [INFO: Flood     ] ENERGEST cpu=292248 lpm=6591096 tx=0 rx=6882007
+210.719 ID:7 [INFO: Flood     ] ENERGEST cpu=325808 lpm=6557539 tx=1755 rx=6880112
+210.874 ID:10 [INFO: Flood     ] ENERGEST cpu=322136 lpm=6561211 tx=1759 rx=6880110
+211.026 ID:9 [INFO: Flood     ] ENERGEST cpu=329421 lpm=6553926 tx=1825 rx=6880034
+211.032 ID:5 [INFO: Flood     ] ENERGEST cpu=320377 lpm=6562970 tx=1637 rx=6880241
+211.217 ID:3 [INFO: Flood     ] ENERGEST cpu=327961 lpm=6555386 tx=1827 rx=6880034
+211.850 ID:8 [INFO: Flood     ] SOURCE origin=8 seq=20
+211.856 ID:8 [INFO: Flood     ] TX origin=8 seq=20 hops=0 total_tx=82
+211.902 ID:3 [INFO: Flood     ] DROP origin=8 seq=20 (proba)
+211.902 ID:9 [INFO: Flood     ] DROP origin=8 seq=20 (proba)
+211.904 ID:7 [INFO: Flood     ] TX origin=8 seq=20 hops=1 total_tx=74
+211.911 ID:6 [INFO: Flood     ] DROP origin=8 seq=20 (proba)
+211.914 ID:2 [INFO: Flood     ] TX origin=8 seq=20 hops=2 total_tx=70
+211.956 ID:1 [INFO: Flood     ] SINK_RECV origin=8 seq=20 hops=2
+212.696 ID:4 [INFO: Flood     ] SOURCE origin=4 seq=21
+212.702 ID:4 [INFO: Flood     ] TX origin=4 seq=21 hops=0 total_tx=74
+212.716 ID:9 [INFO: Flood     ] DROP origin=4 seq=21 (proba)
+212.718 ID:5 [INFO: Flood     ] TX origin=4 seq=21 hops=1 total_tx=69
+212.718 ID:3 [INFO: Flood     ] TX origin=4 seq=21 hops=1 total_tx=77
+212.728 ID:2 [INFO: Flood     ] TX origin=4 seq=21 hops=2 total_tx=71
+212.728 ID:8 [INFO: Flood     ] TX origin=4 seq=21 hops=2 total_tx=83
+212.747 ID:10 [INFO: Flood     ] DROP origin=4 seq=21 (proba)
+212.768 ID:1 [INFO: Flood     ] SINK_RECV origin=4 seq=21 hops=2
+212.770 ID:7 [INFO: Flood     ] TX origin=4 seq=21 hops=3 total_tx=75
+212.803 ID:6 [INFO: Flood     ] TX origin=4 seq=21 hops=4 total_tx=63
+213.267 ID:9 [INFO: Flood     ] SOURCE origin=9 seq=21
+213.273 ID:9 [INFO: Flood     ] TX origin=9 seq=21 hops=0 total_tx=77
+213.287 ID:8 [INFO: Flood     ] DROP origin=9 seq=21 (proba)
+213.289 ID:10 [INFO: Flood     ] TX origin=9 seq=21 hops=1 total_tx=74
+213.289 ID:4 [INFO: Flood     ] TX origin=9 seq=21 hops=1 total_tx=75
+213.323 ID:5 [INFO: Flood     ] DROP origin=9 seq=21 (proba)
+213.334 ID:3 [INFO: Flood     ] DROP origin=9 seq=21 (proba)
+214.577 ID:7 [INFO: Flood     ] SOURCE origin=7 seq=21
+214.583 ID:7 [INFO: Flood     ] TX origin=7 seq=21 hops=0 total_tx=76
+214.606 ID:6 [INFO: Flood     ] DROP origin=7 seq=21 (proba)
+214.606 ID:2 [INFO: Flood     ] DROP origin=7 seq=21 (proba)
+214.608 ID:8 [INFO: Flood     ] TX origin=7 seq=21 hops=1 total_tx=84
+214.643 ID:3 [INFO: Flood     ] DROP origin=7 seq=21 (proba)
+214.644 ID:9 [INFO: Flood     ] DROP origin=7 seq=21 (proba)
+216.114 ID:3 [INFO: Flood     ] SOURCE origin=3 seq=21
+216.120 ID:3 [INFO: Flood     ] TX origin=3 seq=21 hops=0 total_tx=78
+216.157 ID:2 [INFO: Flood     ] DROP origin=3 seq=21 (proba)
+216.158 ID:4 [INFO: Flood     ] DROP origin=3 seq=21 (proba)
+216.160 ID:8 [INFO: Flood     ] TX origin=3 seq=21 hops=1 total_tx=85
+216.185 ID:7 [INFO: Flood     ] TX origin=3 seq=21 hops=2 total_tx=77
+216.185 ID:9 [INFO: Flood     ] TX origin=3 seq=21 hops=2 total_tx=78
+216.217 ID:6 [INFO: Flood     ] TX origin=3 seq=21 hops=3 total_tx=64
+216.232 ID:10 [INFO: Flood     ] DROP origin=3 seq=21 (proba)
+216.259 ID:1 [INFO: Flood     ] SINK_RECV origin=3 seq=21 hops=3
+217.618 ID:5 [INFO: Flood     ] SOURCE origin=5 seq=21
+217.623 ID:5 [INFO: Flood     ] TX origin=5 seq=21 hops=0 total_tx=70
+217.656 ID:10 [INFO: Flood     ] TX origin=5 seq=21 hops=1 total_tx=75
+217.656 ID:4 [INFO: Flood     ] TX origin=5 seq=21 hops=1 total_tx=76
+217.666 ID:9 [INFO: Flood     ] TX origin=5 seq=21 hops=2 total_tx=79
+217.673 ID:8 [INFO: Flood     ] DROP origin=5 seq=21 (proba)
+217.703 ID:3 [INFO: Flood     ] TX origin=5 seq=21 hops=2 total_tx=79
+217.728 ID:2 [INFO: Flood     ] DROP origin=5 seq=21 (proba)
+218.998 ID:10 [INFO: Flood     ] SOURCE origin=10 seq=21
+219.004 ID:10 [INFO: Flood     ] TX origin=10 seq=21 hops=0 total_tx=76
+219.020 ID:5 [INFO: Flood     ] TX origin=10 seq=21 hops=1 total_tx=71
+219.020 ID:9 [INFO: Flood     ] TX origin=10 seq=21 hops=1 total_tx=80
+219.036 ID:4 [INFO: Flood     ] DROP origin=10 seq=21 (proba)
+219.045 ID:8 [INFO: Flood     ] DROP origin=10 seq=21 (proba)
+220.044 ID:6 [INFO: Flood     ] SOURCE origin=6 seq=22
+220.049 ID:6 [INFO: Flood     ] TX origin=6 seq=22 hops=0 total_tx=65
+220.087 ID:1 [INFO: Flood     ] SINK_RECV origin=6 seq=22 hops=0
+220.089 ID:7 [INFO: Flood     ] TX origin=6 seq=22 hops=1 total_tx=78
+220.092 ID:2 [INFO: Flood     ] SOURCE origin=2 seq=22
+220.097 ID:2 [INFO: Flood     ] TX origin=2 seq=22 hops=0 total_tx=72
+220.113 ID:8 [INFO: Flood     ] DROP origin=6 seq=22 (proba)
+220.115 ID:2 [INFO: Flood     ] TX origin=6 seq=22 hops=2 total_tx=73
+220.128 ID:7 [INFO: Flood     ] DROP origin=2 seq=22 (proba)
+220.128 ID:3 [INFO: Flood     ] DROP origin=2 seq=22 (proba)
+220.128 ID:1 [INFO: Flood     ] SINK_RECV origin=2 seq=22 hops=0
+220.135 ID:3 [INFO: Flood     ] TX origin=6 seq=22 hops=3 total_tx=80
+220.181 ID:4 [INFO: Flood     ] DROP origin=6 seq=22 (proba)
+221.538 ID:8 [INFO: Flood     ] SOURCE origin=8 seq=21
+221.543 ID:8 [INFO: Flood     ] TX origin=8 seq=21 hops=0 total_tx=86
+221.589 ID:7 [INFO: Flood     ] DROP origin=8 seq=21 (proba)
+221.589 ID:9 [INFO: Flood     ] DROP origin=8 seq=21 (proba)
+221.591 ID:3 [INFO: Flood     ] TX origin=8 seq=21 hops=1 total_tx=81
+221.611 ID:2 [INFO: Flood     ] DROP origin=8 seq=21 (proba)
+221.611 ID:4 [INFO: Flood     ] DROP origin=8 seq=21 (proba)
+221.930 ID:4 [INFO: Flood     ] SOURCE origin=4 seq=22
+221.936 ID:4 [INFO: Flood     ] TX origin=4 seq=22 hops=0 total_tx=77
+221.982 ID:5 [INFO: Flood     ] DROP origin=4 seq=22 (proba)
+221.984 ID:9 [INFO: Flood     ] TX origin=4 seq=22 hops=1 total_tx=81
+221.984 ID:3 [INFO: Flood     ] TX origin=4 seq=22 hops=1 total_tx=82
+221.992 ID:8 [INFO: Flood     ] DROP origin=4 seq=22 (proba)
+221.994 ID:2 [INFO: Flood     ] TX origin=4 seq=22 hops=2 total_tx=74
+222.002 ID:7 [INFO: Flood     ] DROP origin=4 seq=22 (proba)
+222.002 ID:1 [INFO: Flood     ] SINK_RECV origin=4 seq=22 hops=2
+222.008 ID:10 [INFO: Flood     ] TX origin=4 seq=22 hops=2 total_tx=77
+223.993 ID:9 [INFO: Flood     ] SOURCE origin=9 seq=22
+223.999 ID:9 [INFO: Flood     ] TX origin=9 seq=22 hops=0 total_tx=82
+224.045 ID:4 [INFO: Flood     ] DROP origin=9 seq=22 (proba)
+224.047 ID:10 [INFO: Flood     ] TX origin=9 seq=22 hops=1 total_tx=78
+224.047 ID:8 [INFO: Flood     ] TX origin=9 seq=22 hops=1 total_tx=87
+224.059 ID:5 [INFO: Flood     ] TX origin=9 seq=22 hops=2 total_tx=72
+224.065 ID:7 [INFO: Flood     ] DROP origin=9 seq=22 (proba)
+224.065 ID:3 [INFO: Flood     ] DROP origin=9 seq=22 (proba)
+224.734 ID:7 [INFO: Flood     ] SOURCE origin=7 seq=22
+224.739 ID:7 [INFO: Flood     ] TX origin=7 seq=22 hops=0 total_tx=79
+224.754 ID:6 [INFO: Flood     ] DROP origin=7 seq=22 (proba)
+224.756 ID:2 [INFO: Flood     ] TX origin=7 seq=22 hops=1 total_tx=75
+224.756 ID:8 [INFO: Flood     ] TX origin=7 seq=22 hops=1 total_tx=88
+224.791 ID:3 [INFO: Flood     ] DROP origin=7 seq=22 (proba)
+224.791 ID:1 [INFO: Flood     ] SINK_RECV origin=7 seq=22 hops=1
+224.794 ID:9 [INFO: Flood     ] TX origin=7 seq=22 hops=2 total_tx=83
+224.803 ID:4 [INFO: Flood     ] DROP origin=7 seq=22 (proba)
+224.803 ID:10 [INFO: Flood     ] DROP origin=7 seq=22 (proba)
+224.981 ID:3 [INFO: Flood     ] SOURCE origin=3 seq=22
+224.987 ID:3 [INFO: Flood     ] TX origin=3 seq=22 hops=0 total_tx=83
+225.017 ID:2 [INFO: Flood     ] DROP origin=3 seq=22 (proba)
+225.019 ID:8 [INFO: Flood     ] TX origin=3 seq=22 hops=1 total_tx=89
+225.019 ID:4 [INFO: Flood     ] TX origin=3 seq=22 hops=1 total_tx=78
+225.042 ID:7 [INFO: Flood     ] DROP origin=3 seq=22 (proba)
+225.044 ID:9 [INFO: Flood     ] TX origin=3 seq=22 hops=2 total_tx=84
+225.070 ID:5 [INFO: Flood     ] TX origin=3 seq=22 hops=2 total_tx=73
+225.086 ID:10 [INFO: Flood     ] TX origin=3 seq=22 hops=3 total_tx=79
+228.172 ID:5 [INFO: Flood     ] SOURCE origin=5 seq=22
+228.178 ID:5 [INFO: Flood     ] TX origin=5 seq=22 hops=0 total_tx=74
+228.208 ID:10 [INFO: Flood     ] DROP origin=5 seq=22 (proba)
+228.210 ID:4 [INFO: Flood     ] TX origin=5 seq=22 hops=1 total_tx=79
+228.234 ID:3 [INFO: Flood     ] TX origin=5 seq=22 hops=2 total_tx=84
+228.234 ID:9 [INFO: Flood     ] TX origin=5 seq=22 hops=2 total_tx=85
+228.244 ID:8 [INFO: Flood     ] DROP origin=5 seq=22 (proba)
+228.246 ID:2 [INFO: Flood     ] TX origin=5 seq=22 hops=3 total_tx=76
+228.268 ID:1 [INFO: Flood     ] SINK_RECV origin=5 seq=22 hops=3
+228.270 ID:7 [INFO: Flood     ] TX origin=5 seq=22 hops=4 total_tx=80
+228.280 ID:6 [INFO: Flood     ] TX origin=5 seq=22 hops=5 total_tx=66
+228.748 ID:10 [INFO: Flood     ] SOURCE origin=10 seq=22
+228.754 ID:10 [INFO: Flood     ] TX origin=10 seq=22 hops=0 total_tx=80
+228.792 ID:5 [INFO: Flood     ] DROP origin=10 seq=22 (proba)
+228.794 ID:9 [INFO: Flood     ] TX origin=10 seq=22 hops=1 total_tx=86
+228.805 ID:4 [INFO: Flood     ] TX origin=10 seq=22 hops=2 total_tx=80
+228.805 ID:8 [INFO: Flood     ] TX origin=10 seq=22 hops=2 total_tx=90
+228.849 ID:7 [INFO: Flood     ] TX origin=10 seq=22 hops=3 total_tx=81
+228.849 ID:3 [INFO: Flood     ] TX origin=10 seq=22 hops=3 total_tx=85
+228.857 ID:6 [INFO: Flood     ] DROP origin=10 seq=22 (proba)
+228.857 ID:2 [INFO: Flood     ] DROP origin=10 seq=22 (proba)
+229.427 ID:2 [INFO: Flood     ] SOURCE origin=2 seq=23
+229.433 ID:2 [INFO: Flood     ] TX origin=2 seq=23 hops=0 total_tx=77
+229.441 ID:7 [INFO: Flood     ] DROP origin=2 seq=23 (proba)
+229.441 ID:3 [INFO: Flood     ] DROP origin=2 seq=23 (proba)
+229.441 ID:1 [INFO: Flood     ] SINK_RECV origin=2 seq=23 hops=0
+229.707 ID:6 [INFO: Flood     ] SOURCE origin=6 seq=23
+229.713 ID:6 [INFO: Flood     ] TX origin=6 seq=23 hops=0 total_tx=67
+229.759 ID:7 [INFO: Flood     ] DROP origin=6 seq=23 (proba)
+229.759 ID:1 [INFO: Flood     ] SINK_RECV origin=6 seq=23 hops=0
+232.211 ID:4 [INFO: Flood     ] SOURCE origin=4 seq=23
+232.217 ID:4 [INFO: Flood     ] TX origin=4 seq=23 hops=0 total_tx=81
+232.249 ID:5 [INFO: Flood     ] TX origin=4 seq=23 hops=1 total_tx=75
+232.249 ID:9 [INFO: Flood     ] TX origin=4 seq=23 hops=1 total_tx=87
+232.249 ID:3 [INFO: Flood     ] TX origin=4 seq=23 hops=1 total_tx=86
+232.257 ID:2 [INFO: Flood     ] DROP origin=4 seq=23 (proba)
+232.257 ID:10 [INFO: Flood     ] DROP origin=4 seq=23 (proba)
+232.733 ID:8 [INFO: Flood     ] SOURCE origin=8 seq=22
+232.738 ID:8 [INFO: Flood     ] TX origin=8 seq=22 hops=0 total_tx=91
+232.753 ID:3 [INFO: Flood     ] DROP origin=8 seq=22 (proba)
+232.755 ID:9 [INFO: Flood     ] TX origin=8 seq=22 hops=1 total_tx=88
+232.755 ID:7 [INFO: Flood     ] TX origin=8 seq=22 hops=1 total_tx=82
+232.779 ID:4 [INFO: Flood     ] DROP origin=8 seq=22 (proba)
+232.781 ID:10 [INFO: Flood     ] TX origin=8 seq=22 hops=2 total_tx=81
+232.787 ID:6 [INFO: Flood     ] TX origin=8 seq=22 hops=2 total_tx=68
+232.787 ID:2 [INFO: Flood     ] TX origin=8 seq=22 hops=2 total_tx=78
+232.789 ID:5 [INFO: Flood     ] DROP origin=8 seq=22 (proba)
+232.795 ID:1 [INFO: Flood     ] SINK_RECV origin=8 seq=22 hops=2
+233.556 ID:9 [INFO: Flood     ] SOURCE origin=9 seq=23
+233.562 ID:9 [INFO: Flood     ] TX origin=9 seq=23 hops=0 total_tx=89
+233.570 ID:10 [INFO: Flood     ] DROP origin=9 seq=23 (proba)
+233.570 ID:8 [INFO: Flood     ] DROP origin=9 seq=23 (proba)
+233.572 ID:4 [INFO: Flood     ] TX origin=9 seq=23 hops=1 total_tx=82
+233.580 ID:3 [INFO: Flood     ] DROP origin=9 seq=23 (proba)
+233.582 ID:5 [INFO: Flood     ] TX origin=9 seq=23 hops=2 total_tx=76
+233.880 ID:3 [INFO: Flood     ] SOURCE origin=3 seq=23
+233.886 ID:3 [INFO: Flood     ] TX origin=3 seq=23 hops=0 total_tx=87
+233.894 ID:2 [INFO: Flood     ] DROP origin=3 seq=23 (proba)
+233.894 ID:4 [INFO: Flood     ] DROP origin=3 seq=23 (proba)
+233.896 ID:8 [INFO: Flood     ] TX origin=3 seq=23 hops=1 total_tx=92
+233.940 ID:7 [INFO: Flood     ] DROP origin=3 seq=23 (proba)
+233.940 ID:9 [INFO: Flood     ] DROP origin=3 seq=23 (proba)
+234.765 ID:7 [INFO: Flood     ] SOURCE origin=7 seq=23
+234.771 ID:7 [INFO: Flood     ] TX origin=7 seq=23 hops=0 total_tx=83
+234.778 ID:6 [INFO: Flood     ] DROP origin=7 seq=23 (proba)
+234.779 ID:8 [INFO: Flood     ] DROP origin=7 seq=23 (proba)
+234.781 ID:2 [INFO: Flood     ] TX origin=7 seq=23 hops=1 total_tx=79
+234.815 ID:3 [INFO: Flood     ] DROP origin=7 seq=23 (proba)
+234.815 ID:1 [INFO: Flood     ] SINK_RECV origin=7 seq=23 hops=1
+237.842 ID:10 [INFO: Flood     ] SOURCE origin=10 seq=23
+237.847 ID:10 [INFO: Flood     ] TX origin=10 seq=23 hops=0 total_tx=82
+237.880 ID:5 [INFO: Flood     ] TX origin=10 seq=23 hops=1 total_tx=77
+237.880 ID:9 [INFO: Flood     ] TX origin=10 seq=23 hops=1 total_tx=90
+237.904 ID:4 [INFO: Flood     ] DROP origin=10 seq=23 (proba)
+237.907 ID:8 [INFO: Flood     ] TX origin=10 seq=23 hops=2 total_tx=93
+237.943 ID:3 [INFO: Flood     ] TX origin=10 seq=23 hops=3 total_tx=88
+237.943 ID:7 [INFO: Flood     ] TX origin=10 seq=23 hops=3 total_tx=84
+237.953 ID:2 [INFO: Flood     ] TX origin=10 seq=23 hops=4 total_tx=80
+237.971 ID:1 [INFO: Flood     ] SINK_RECV origin=10 seq=23 hops=4
+237.972 ID:6 [INFO: Flood     ] DROP origin=10 seq=23 (proba)
+238.295 ID:2 [INFO: Flood     ] SOURCE origin=2 seq=24
+238.301 ID:2 [INFO: Flood     ] TX origin=2 seq=24 hops=0 total_tx=81
+238.315 ID:3 [INFO: Flood     ] DROP origin=2 seq=24 (proba)
+238.315 ID:1 [INFO: Flood     ] SINK_RECV origin=2 seq=24 hops=0
+238.317 ID:7 [INFO: Flood     ] TX origin=2 seq=24 hops=1 total_tx=85
+238.332 ID:6 [INFO: Flood     ] DROP origin=2 seq=24 (proba)
+238.332 ID:8 [INFO: Flood     ] DROP origin=2 seq=24 (proba)
+238.664 ID:5 [INFO: Flood     ] SOURCE origin=5 seq=23
+238.670 ID:5 [INFO: Flood     ] TX origin=5 seq=23 hops=0 total_tx=78
+238.710 ID:10 [INFO: Flood     ] TX origin=5 seq=23 hops=1 total_tx=83
+238.710 ID:4 [INFO: Flood     ] TX origin=5 seq=23 hops=1 total_tx=83
+238.718 ID:3 [INFO: Flood     ] DROP origin=5 seq=23 (proba)
+238.718 ID:9 [INFO: Flood     ] DROP origin=5 seq=23 (proba)
+239.098 ID:6 [INFO: Flood     ] SOURCE origin=6 seq=24
+239.104 ID:6 [INFO: Flood     ] TX origin=6 seq=24 hops=0 total_tx=69
+239.118 ID:1 [INFO: Flood     ] SINK_RECV origin=6 seq=24 hops=0
+239.121 ID:7 [INFO: Flood     ] TX origin=6 seq=24 hops=1 total_tx=86
+239.160 ID:2 [INFO: Flood     ] DROP origin=6 seq=24 (proba)
+239.162 ID:8 [INFO: Flood     ] TX origin=6 seq=24 hops=2 total_tx=94
+239.183 ID:9 [INFO: Flood     ] DROP origin=6 seq=24 (proba)
+239.185 ID:3 [INFO: Flood     ] TX origin=6 seq=24 hops=3 total_tx=89
+239.199 ID:4 [INFO: Flood     ] TX origin=6 seq=24 hops=4 total_tx=84
+239.224 ID:5 [INFO: Flood     ] DROP origin=6 seq=24 (proba)
+240.390 ID:8 [INFO: Flood     ] ENERGEST cpu=378188 lpm=7488199 tx=2259 rx=7862608
+240.553 ID:2 [INFO: Flood     ] ENERGEST cpu=368546 lpm=7497841 tx=1946 rx=7862945
+240.568 ID:6 [INFO: Flood     ] ENERGEST cpu=357225 lpm=7509162 tx=1659 rx=7863257
+240.666 ID:4 [INFO: Flood     ] ENERGEST cpu=375692 lpm=7490695 tx=2019 rx=7862868
+240.698 ID:1 [INFO: Flood     ] ENERGEST cpu=333817 lpm=7532567 tx=0 rx=7865047
+240.719 ID:7 [INFO: Flood     ] ENERGEST cpu=373291 lpm=7493096 tx=2068 rx=7862815
+240.874 ID:10 [INFO: Flood     ] ENERGEST cpu=368053 lpm=7498334 tx=1999 rx=7862890
+241.026 ID:9 [INFO: Flood     ] ENERGEST cpu=377264 lpm=7489123 tx=2162 rx=7862710
+241.032 ID:5 [INFO: Flood     ] ENERGEST cpu=366012 lpm=7500375 tx=1877 rx=7863021
+241.217 ID:3 [INFO: Flood     ] ENERGEST cpu=376159 lpm=7490228 tx=2140 rx=7862735
+241.795 ID:8 [INFO: Flood     ] SOURCE origin=8 seq=23
+241.801 ID:8 [INFO: Flood     ] TX origin=8 seq=23 hops=0 total_tx=95
+241.847 ID:7 [INFO: Flood     ] DROP origin=8 seq=23 (proba)
+241.847 ID:3 [INFO: Flood     ] DROP origin=8 seq=23 (proba)
+241.849 ID:9 [INFO: Flood     ] TX origin=8 seq=23 hops=1 total_tx=91
+241.866 ID:4 [INFO: Flood     ] DROP origin=8 seq=23 (proba)
+241.868 ID:10 [INFO: Flood     ] TX origin=8 seq=23 hops=2 total_tx=84
+241.911 ID:5 [INFO: Flood     ] TX origin=8 seq=23 hops=3 total_tx=79
+242.079 ID:4 [INFO: Flood     ] SOURCE origin=4 seq=24
+242.085 ID:4 [INFO: Flood     ] TX origin=4 seq=24 hops=0 total_tx=85
+242.093 ID:5 [INFO: Flood     ] DROP origin=4 seq=24 (proba)
+242.093 ID:9 [INFO: Flood     ] DROP origin=4 seq=24 (proba)
+242.095 ID:3 [INFO: Flood     ] TX origin=4 seq=24 hops=1 total_tx=90
+242.121 ID:2 [INFO: Flood     ] TX origin=4 seq=24 hops=2 total_tx=82
+242.121 ID:8 [INFO: Flood     ] TX origin=4 seq=24 hops=2 total_tx=96
+242.129 ID:1 [INFO: Flood     ] SINK_RECV origin=4 seq=24 hops=2
+243.765 ID:7 [INFO: Flood     ] SOURCE origin=7 seq=24
+243.771 ID:7 [INFO: Flood     ] TX origin=7 seq=24 hops=0 total_tx=87
+243.793 ID:6 [INFO: Flood     ] DROP origin=7 seq=24 (proba)
+243.793 ID:2 [INFO: Flood     ] DROP origin=7 seq=24 (proba)
+243.796 ID:8 [INFO: Flood     ] TX origin=7 seq=24 hops=1 total_tx=97
+243.808 ID:9 [INFO: Flood     ] DROP origin=7 seq=24 (proba)
+243.808 ID:3 [INFO: Flood     ] DROP origin=7 seq=24 (proba)
+243.825 ID:3 [INFO: Flood     ] SOURCE origin=3 seq=24
+243.831 ID:3 [INFO: Flood     ] TX origin=3 seq=24 hops=0 total_tx=91
+243.839 ID:4 [INFO: Flood     ] DROP origin=3 seq=24 (proba)
+243.839 ID:8 [INFO: Flood     ] DROP origin=3 seq=24 (proba)
+243.841 ID:2 [INFO: Flood     ] TX origin=3 seq=24 hops=1 total_tx=83
+243.878 ID:7 [INFO: Flood     ] DROP origin=3 seq=24 (proba)
+243.878 ID:1 [INFO: Flood     ] SINK_RECV origin=3 seq=24 hops=1
+244.462 ID:9 [INFO: Flood     ] SOURCE origin=9 seq=24
+244.468 ID:9 [INFO: Flood     ] TX origin=9 seq=24 hops=0 total_tx=92
+244.476 ID:10 [INFO: Flood     ] DROP origin=9 seq=24 (proba)
+244.476 ID:4 [INFO: Flood     ] DROP origin=9 seq=24 (proba)
+244.478 ID:8 [INFO: Flood     ] TX origin=9 seq=24 hops=1 total_tx=98
+244.489 ID:3 [INFO: Flood     ] TX origin=9 seq=24 hops=2 total_tx=92
+244.489 ID:7 [INFO: Flood     ] TX origin=9 seq=24 hops=2 total_tx=88
+244.525 ID:2 [INFO: Flood     ] DROP origin=9 seq=24 (proba)
+244.535 ID:6 [INFO: Flood     ] DROP origin=9 seq=24 (proba)
+247.600 ID:10 [INFO: Flood     ] SOURCE origin=10 seq=24
+247.606 ID:10 [INFO: Flood     ] TX origin=10 seq=24 hops=0 total_tx=85
+247.614 ID:9 [INFO: Flood     ] DROP origin=10 seq=24 (proba)
+247.616 ID:5 [INFO: Flood     ] TX origin=10 seq=24 hops=1 total_tx=80
+247.624 ID:4 [INFO: Flood     ] DROP origin=10 seq=24 (proba)
+248.115 ID:2 [INFO: Flood     ] SOURCE origin=2 seq=25
+248.121 ID:2 [INFO: Flood     ] TX origin=2 seq=25 hops=0 total_tx=84
+248.138 ID:6 [INFO: Flood     ] SOURCE origin=6 seq=25
+248.143 ID:6 [INFO: Flood     ] TX origin=6 seq=25 hops=0 total_tx=70
+248.159 ID:3 [INFO: Flood     ] DROP origin=2 seq=25 (proba)
+248.159 ID:1 [INFO: Flood     ] SINK_RECV origin=2 seq=25 hops=0
+248.161 ID:7 [INFO: Flood     ] TX origin=2 seq=25 hops=1 total_tx=89
+248.169 ID:6 [INFO: Flood     ] DROP origin=2 seq=25 (proba)
+248.171 ID:8 [INFO: Flood     ] TX origin=2 seq=25 hops=2 total_tx=99
+248.181 ID:1 [INFO: Flood     ] SINK_RECV origin=6 seq=25 hops=0
+248.181 ID:9 [INFO: Flood     ] TX origin=2 seq=25 hops=3 total_tx=93
+248.183 ID:7 [INFO: Flood     ] TX origin=6 seq=25 hops=1 total_tx=90
+248.193 ID:2 [INFO: Flood     ] TX origin=6 seq=25 hops=2 total_tx=85
+248.194 ID:8 [INFO: Flood     ] TX origin=6 seq=25 hops=2 total_tx=100
+248.201 ID:10 [INFO: Flood     ] DROP origin=2 seq=25 (proba)
+248.201 ID:4 [INFO: Flood     ] DROP origin=2 seq=25 (proba)
+248.203 ID:3 [INFO: Flood     ] TX origin=6 seq=25 hops=3 total_tx=93
+248.214 ID:9 [INFO: Flood     ] DROP origin=6 seq=25 (proba)
+248.220 ID:4 [INFO: Flood     ] DROP origin=6 seq=25 (proba)
+248.969 ID:5 [INFO: Flood     ] SOURCE origin=5 seq=24
+248.974 ID:5 [INFO: Flood     ] TX origin=5 seq=24 hops=0 total_tx=81
+248.985 ID:10 [INFO: Flood     ] TX origin=5 seq=24 hops=1 total_tx=86
+248.985 ID:4 [INFO: Flood     ] TX origin=5 seq=24 hops=1 total_tx=86
+248.993 ID:9 [INFO: Flood     ] DROP origin=5 seq=24 (proba)
+248.995 ID:3 [INFO: Flood     ] TX origin=5 seq=24 hops=2 total_tx=94
+249.032 ID:2 [INFO: Flood     ] DROP origin=5 seq=24 (proba)
+249.035 ID:8 [INFO: Flood     ] TX origin=5 seq=24 hops=3 total_tx=101
+249.083 ID:7 [INFO: Flood     ] TX origin=5 seq=24 hops=4 total_tx=91
+249.100 ID:6 [INFO: Flood     ] TX origin=5 seq=24 hops=5 total_tx=71
+249.118 ID:1 [INFO: Flood     ] SINK_RECV origin=5 seq=24 hops=5
+250.905 ID:8 [INFO: Flood     ] SOURCE origin=8 seq=24
+250.911 ID:8 [INFO: Flood     ] TX origin=8 seq=24 hops=0 total_tx=102
+250.925 ID:7 [INFO: Flood     ] DROP origin=8 seq=24 (proba)
+250.925 ID:9 [INFO: Flood     ] DROP origin=8 seq=24 (proba)
+250.927 ID:3 [INFO: Flood     ] TX origin=8 seq=24 hops=1 total_tx=95
+250.941 ID:4 [INFO: Flood     ] TX origin=8 seq=24 hops=2 total_tx=87
+250.941 ID:2 [INFO: Flood     ] TX origin=8 seq=24 hops=2 total_tx=86
+250.959 ID:5 [INFO: Flood     ] DROP origin=8 seq=24 (proba)
+250.987 ID:1 [INFO: Flood     ] SINK_RECV origin=8 seq=24 hops=2
+252.258 ID:4 [INFO: Flood     ] SOURCE origin=4 seq=25
+252.264 ID:4 [INFO: Flood     ] TX origin=4 seq=25 hops=0 total_tx=88
+252.302 ID:9 [INFO: Flood     ] DROP origin=4 seq=25 (proba)
+252.304 ID:5 [INFO: Flood     ] TX origin=4 seq=25 hops=1 total_tx=82
+252.305 ID:3 [INFO: Flood     ] TX origin=4 seq=25 hops=1 total_tx=96
+252.335 ID:10 [INFO: Flood     ] TX origin=4 seq=25 hops=2 total_tx=87
+252.338 ID:2 [INFO: Flood     ] DROP origin=4 seq=25 (proba)
+252.340 ID:8 [INFO: Flood     ] TX origin=4 seq=25 hops=2 total_tx=103
+252.362 ID:7 [INFO: Flood     ] DROP origin=4 seq=25 (proba)
+252.773 ID:7 [INFO: Flood     ] SOURCE origin=7 seq=25
+252.779 ID:7 [INFO: Flood     ] TX origin=7 seq=25 hops=0 total_tx=92
+252.787 ID:2 [INFO: Flood     ] DROP origin=7 seq=25 (proba)
+252.789 ID:6 [INFO: Flood     ] TX origin=7 seq=25 hops=1 total_tx=72
+252.789 ID:8 [INFO: Flood     ] TX origin=7 seq=25 hops=1 total_tx=104
+252.815 ID:3 [INFO: Flood     ] DROP origin=7 seq=25 (proba)
+252.818 ID:9 [INFO: Flood     ] TX origin=7 seq=25 hops=2 total_tx=94
+252.837 ID:1 [INFO: Flood     ] SINK_RECV origin=7 seq=25 hops=1
+252.856 ID:3 [INFO: Flood     ] SOURCE origin=3 seq=25
+252.862 ID:3 [INFO: Flood     ] TX origin=3 seq=25 hops=0 total_tx=97
+252.866 ID:4 [INFO: Flood     ] DROP origin=7 seq=25 (proba)
+252.868 ID:10 [INFO: Flood     ] TX origin=7 seq=25 hops=3 total_tx=88
+252.876 ID:2 [INFO: Flood     ] DROP origin=3 seq=25 (proba)
+252.878 ID:5 [INFO: Flood     ] TX origin=7 seq=25 hops=4 total_tx=83
+252.879 ID:4 [INFO: Flood     ] TX origin=3 seq=25 hops=1 total_tx=89
+252.879 ID:8 [INFO: Flood     ] TX origin=3 seq=25 hops=1 total_tx=105
+252.887 ID:7 [INFO: Flood     ] DROP origin=3 seq=25 (proba)
+252.888 ID:5 [INFO: Flood     ] TX origin=3 seq=25 hops=2 total_tx=84
+252.899 ID:10 [INFO: Flood     ] DROP origin=3 seq=25 (proba)
+253.759 ID:9 [INFO: Flood     ] SOURCE origin=9 seq=25
+253.765 ID:9 [INFO: Flood     ] TX origin=9 seq=25 hops=0 total_tx=95
+253.803 ID:4 [INFO: Flood     ] DROP origin=9 seq=25 (proba)
+253.805 ID:10 [INFO: Flood     ] TX origin=9 seq=25 hops=1 total_tx=89
+253.806 ID:8 [INFO: Flood     ] TX origin=9 seq=25 hops=1 total_tx=106
+253.830 ID:5 [INFO: Flood     ] DROP origin=9 seq=25 (proba)
+253.857 ID:7 [INFO: Flood     ] TX origin=9 seq=25 hops=2 total_tx=93
+253.857 ID:3 [INFO: Flood     ] TX origin=9 seq=25 hops=2 total_tx=98
+253.871 ID:2 [INFO: Flood     ] DROP origin=9 seq=25 (proba)
+253.873 ID:6 [INFO: Flood     ] TX origin=9 seq=25 hops=3 total_tx=73
+253.881 ID:1 [INFO: Flood     ] SINK_RECV origin=9 seq=25 hops=3
+256.950 ID:6 [INFO: Flood     ] SOURCE origin=6 seq=26
+256.956 ID:6 [INFO: Flood     ] TX origin=6 seq=26 hops=0 total_tx=74
+256.964 ID:7 [INFO: Flood     ] DROP origin=6 seq=26 (proba)
+256.964 ID:1 [INFO: Flood     ] SINK_RECV origin=6 seq=26 hops=0
+257.537 ID:10 [INFO: Flood     ] SOURCE origin=10 seq=25
+257.543 ID:10 [INFO: Flood     ] TX origin=10 seq=25 hops=0 total_tx=90
+257.565 ID:5 [INFO: Flood     ] DROP origin=10 seq=25 (proba)
+257.565 ID:9 [INFO: Flood     ] DROP origin=10 seq=25 (proba)
+257.743 ID:5 [INFO: Flood     ] SOURCE origin=5 seq=25
+257.748 ID:5 [INFO: Flood     ] TX origin=5 seq=25 hops=0 total_tx=85
+257.759 ID:10 [INFO: Flood     ] TX origin=5 seq=25 hops=1 total_tx=91
+257.759 ID:4 [INFO: Flood     ] TX origin=5 seq=25 hops=1 total_tx=90
+257.789 ID:3 [INFO: Flood     ] TX origin=5 seq=25 hops=2 total_tx=99
+257.789 ID:9 [INFO: Flood     ] TX origin=5 seq=25 hops=2 total_tx=96
+257.806 ID:8 [INFO: Flood     ] TX origin=5 seq=25 hops=3 total_tx=107
+257.808 ID:2 [INFO: Flood     ] TX origin=5 seq=25 hops=3 total_tx=87
+257.824 ID:7 [INFO: Flood     ] DROP origin=5 seq=25 (proba)
+257.826 ID:2 [INFO: Flood     ] SOURCE origin=2 seq=26
+257.832 ID:2 [INFO: Flood     ] TX origin=2 seq=26 hops=0 total_tx=88
+257.846 ID:1 [INFO: Flood     ] SINK_RECV origin=5 seq=25 hops=3
+257.869 ID:7 [INFO: Flood     ] DROP origin=2 seq=26 (proba)
+257.869 ID:3 [INFO: Flood     ] DROP origin=2 seq=26 (proba)
+257.869 ID:1 [INFO: Flood     ] SINK_RECV origin=2 seq=26 hops=0
+261.086 ID:4 [INFO: Flood     ] SOURCE origin=4 seq=26
+261.092 ID:4 [INFO: Flood     ] TX origin=4 seq=26 hops=0 total_tx=91
+261.115 ID:3 [INFO: Flood     ] DROP origin=4 seq=26 (proba)
+261.117 ID:5 [INFO: Flood     ] TX origin=4 seq=26 hops=1 total_tx=86
+261.117 ID:9 [INFO: Flood     ] TX origin=4 seq=26 hops=1 total_tx=97
+261.140 ID:10 [INFO: Flood     ] TX origin=4 seq=26 hops=2 total_tx=92
+261.154 ID:8 [INFO: Flood     ] DROP origin=4 seq=26 (proba)
+261.576 ID:8 [INFO: Flood     ] SOURCE origin=8 seq=25
+261.582 ID:8 [INFO: Flood     ] TX origin=8 seq=25 hops=0 total_tx=108
+261.591 ID:3 [INFO: Flood     ] DROP origin=8 seq=25 (proba)
+261.593 ID:7 [INFO: Flood     ] TX origin=8 seq=25 hops=1 total_tx=94
+261.593 ID:9 [INFO: Flood     ] TX origin=8 seq=25 hops=1 total_tx=98
+261.600 ID:6 [INFO: Flood     ] DROP origin=8 seq=25 (proba)
+261.601 ID:2 [INFO: Flood     ] DROP origin=8 seq=25 (proba)
+261.601 ID:4 [INFO: Flood     ] DROP origin=8 seq=25 (proba)
+261.601 ID:10 [INFO: Flood     ] DROP origin=8 seq=25 (proba)
+262.067 ID:3 [INFO: Flood     ] SOURCE origin=3 seq=26
+262.073 ID:3 [INFO: Flood     ] TX origin=3 seq=26 hops=0 total_tx=100
+262.119 ID:2 [INFO: Flood     ] DROP origin=3 seq=26 (proba)
+262.121 ID:4 [INFO: Flood     ] TX origin=3 seq=26 hops=1 total_tx=92
+262.122 ID:8 [INFO: Flood     ] TX origin=3 seq=26 hops=1 total_tx=109
+262.164 ID:5 [INFO: Flood     ] TX origin=3 seq=26 hops=2 total_tx=87
+262.164 ID:9 [INFO: Flood     ] TX origin=3 seq=26 hops=2 total_tx=99
+262.167 ID:7 [INFO: Flood     ] DROP origin=3 seq=26 (proba)
+262.564 ID:9 [INFO: Flood     ] SOURCE origin=9 seq=26
+262.570 ID:9 [INFO: Flood     ] TX origin=9 seq=26 hops=0 total_tx=100
+262.578 ID:8 [INFO: Flood     ] DROP origin=9 seq=26 (proba)
+262.580 ID:10 [INFO: Flood     ] TX origin=9 seq=26 hops=1 total_tx=93
+262.580 ID:4 [INFO: Flood     ] TX origin=9 seq=26 hops=1 total_tx=93
+262.598 ID:5 [INFO: Flood     ] TX origin=9 seq=26 hops=2 total_tx=88
+262.633 ID:3 [INFO: Flood     ] TX origin=9 seq=26 hops=2 total_tx=101
+262.683 ID:2 [INFO: Flood     ] TX origin=9 seq=26 hops=3 total_tx=89
+262.729 ID:7 [INFO: Flood     ] DROP origin=9 seq=26 (proba)
+262.729 ID:1 [INFO: Flood     ] SINK_RECV origin=9 seq=26 hops=3
+263.046 ID:7 [INFO: Flood     ] SOURCE origin=7 seq=26
+263.052 ID:7 [INFO: Flood     ] TX origin=7 seq=26 hops=0 total_tx=95
+263.060 ID:6 [INFO: Flood     ] DROP origin=7 seq=26 (proba)
+263.062 ID:2 [INFO: Flood     ] TX origin=7 seq=26 hops=1 total_tx=90
+263.063 ID:8 [INFO: Flood     ] TX origin=7 seq=26 hops=1 total_tx=110
+263.071 ID:9 [INFO: Flood     ] DROP origin=7 seq=26 (proba)
+263.073 ID:3 [INFO: Flood     ] TX origin=7 seq=26 hops=2 total_tx=102
+263.089 ID:4 [INFO: Flood     ] TX origin=7 seq=26 hops=3 total_tx=94
+263.099 ID:5 [INFO: Flood     ] DROP origin=7 seq=26 (proba)
+263.128 ID:1 [INFO: Flood     ] SINK_RECV origin=7 seq=26 hops=1
+266.114 ID:6 [INFO: Flood     ] SOURCE origin=6 seq=27
+266.119 ID:6 [INFO: Flood     ] TX origin=6 seq=27 hops=0 total_tx=75
+266.150 ID:1 [INFO: Flood     ] SINK_RECV origin=6 seq=27 hops=0
+266.152 ID:7 [INFO: Flood     ] TX origin=6 seq=27 hops=1 total_tx=96
+266.193 ID:2 [INFO: Flood     ] TX origin=6 seq=27 hops=2 total_tx=91
+266.194 ID:8 [INFO: Flood     ] TX origin=6 seq=27 hops=2 total_tx=111
+266.204 ID:9 [INFO: Flood     ] TX origin=6 seq=27 hops=3 total_tx=101
+266.205 ID:3 [INFO: Flood     ] TX origin=6 seq=27 hops=3 total_tx=103
+266.212 ID:10 [INFO: Flood     ] DROP origin=6 seq=27 (proba)
+266.212 ID:4 [INFO: Flood     ] DROP origin=6 seq=27 (proba)
+267.123 ID:10 [INFO: Flood     ] SOURCE origin=10 seq=26
+267.129 ID:10 [INFO: Flood     ] TX origin=10 seq=26 hops=0 total_tx=94
+267.167 ID:5 [INFO: Flood     ] DROP origin=10 seq=26 (proba)
+267.167 ID:9 [INFO: Flood     ] DROP origin=10 seq=26 (proba)
+267.727 ID:5 [INFO: Flood     ] SOURCE origin=5 seq=26
+267.733 ID:5 [INFO: Flood     ] TX origin=5 seq=26 hops=0 total_tx=89
+267.778 ID:10 [INFO: Flood     ] DROP origin=5 seq=26 (proba)
+267.779 ID:4 [INFO: Flood     ] DROP origin=5 seq=26 (proba)
+268.873 ID:2 [INFO: Flood     ] SOURCE origin=2 seq=27
+268.879 ID:2 [INFO: Flood     ] TX origin=2 seq=27 hops=0 total_tx=92
+268.893 ID:7 [INFO: Flood     ] DROP origin=2 seq=27 (proba)
+268.893 ID:1 [INFO: Flood     ] SINK_RECV origin=2 seq=27 hops=0
+268.895 ID:3 [INFO: Flood     ] TX origin=2 seq=27 hops=1 total_tx=104
+268.903 ID:8 [INFO: Flood     ] DROP origin=2 seq=27 (proba)
+268.903 ID:4 [INFO: Flood     ] DROP origin=2 seq=27 (proba)
+270.390 ID:8 [INFO: Flood     ] ENERGEST cpu=426725 lpm=8422702 tx=2669 rx=8845205
+270.553 ID:2 [INFO: Flood     ] ENERGEST cpu=415308 lpm=8434119 tx=2212 rx=8845699
+270.568 ID:6 [INFO: Flood     ] ENERGEST cpu=401067 lpm=8448360 tx=1803 rx=8846141
+270.666 ID:4 [INFO: Flood     ] ENERGEST cpu=423085 lpm=8426342 tx=2260 rx=8845647
+270.698 ID:1 [INFO: Flood     ] ENERGEST cpu=375314 lpm=8474110 tx=0 rx=8848087
+270.719 ID:7 [INFO: Flood     ] ENERGEST cpu=420314 lpm=8429113 tx=2308 rx=8845595
+270.874 ID:10 [INFO: Flood     ] ENERGEST cpu=414107 lpm=8435320 tx=2263 rx=8845644
+271.026 ID:9 [INFO: Flood     ] ENERGEST cpu=424786 lpm=8424641 tx=2426 rx=8845464
+271.032 ID:5 [INFO: Flood     ] ENERGEST cpu=412022 lpm=8437405 tx=2141 rx=8845775
+271.217 ID:3 [INFO: Flood     ] ENERGEST cpu=424333 lpm=8425094 tx=2500 rx=8845385
+271.397 ID:8 [INFO: Flood     ] SOURCE origin=8 seq=26
+271.403 ID:8 [INFO: Flood     ] TX origin=8 seq=26 hops=0 total_tx=112
+271.411 ID:9 [INFO: Flood     ] DROP origin=8 seq=26 (proba)
+271.411 ID:7 [INFO: Flood     ] DROP origin=8 seq=26 (proba)
+271.411 ID:3 [INFO: Flood     ] DROP origin=8 seq=26 (proba)
+271.458 ID:3 [INFO: Flood     ] SOURCE origin=3 seq=27
+271.464 ID:3 [INFO: Flood     ] TX origin=3 seq=27 hops=0 total_tx=105
+271.472 ID:4 [INFO: Flood     ] DROP origin=3 seq=27 (proba)
+271.474 ID:2 [INFO: Flood     ] TX origin=3 seq=27 hops=1 total_tx=93
+271.475 ID:8 [INFO: Flood     ] TX origin=3 seq=27 hops=1 total_tx=113
+271.482 ID:1 [INFO: Flood     ] SINK_RECV origin=3 seq=27 hops=1
+271.485 ID:9 [INFO: Flood     ] TX origin=3 seq=27 hops=2 total_tx=102
+271.531 ID:10 [INFO: Flood     ] TX origin=3 seq=27 hops=3 total_tx=95
+271.549 ID:5 [INFO: Flood     ] DROP origin=3 seq=27 (proba)
+271.688 ID:4 [INFO: Flood     ] SOURCE origin=4 seq=27
+271.694 ID:4 [INFO: Flood     ] TX origin=4 seq=27 hops=0 total_tx=95
+271.702 ID:5 [INFO: Flood     ] DROP origin=4 seq=27 (proba)
+271.702 ID:3 [INFO: Flood     ] DROP origin=4 seq=27 (proba)
+271.702 ID:9 [INFO: Flood     ] DROP origin=4 seq=27 (proba)
+272.742 ID:7 [INFO: Flood     ] SOURCE origin=7 seq=27
+272.747 ID:7 [INFO: Flood     ] TX origin=7 seq=27 hops=0 total_tx=97
+272.756 ID:8 [INFO: Flood     ] DROP origin=7 seq=27 (proba)
+272.758 ID:6 [INFO: Flood     ] TX origin=7 seq=27 hops=1 total_tx=76
+272.758 ID:2 [INFO: Flood     ] TX origin=7 seq=27 hops=1 total_tx=94
+272.776 ID:1 [INFO: Flood     ] SINK_RECV origin=7 seq=27 hops=1
+272.778 ID:3 [INFO: Flood     ] TX origin=7 seq=27 hops=2 total_tx=106
+272.791 ID:4 [INFO: Flood     ] DROP origin=7 seq=27 (proba)
+273.712 ID:9 [INFO: Flood     ] SOURCE origin=9 seq=27
+273.718 ID:9 [INFO: Flood     ] TX origin=9 seq=27 hops=0 total_tx=103
+273.726 ID:4 [INFO: Flood     ] DROP origin=9 seq=27 (proba)
+273.727 ID:8 [INFO: Flood     ] DROP origin=9 seq=27 (proba)
+273.729 ID:10 [INFO: Flood     ] TX origin=9 seq=27 hops=1 total_tx=96
+273.745 ID:5 [INFO: Flood     ] DROP origin=9 seq=27 (proba)
+275.629 ID:6 [INFO: Flood     ] SOURCE origin=6 seq=28
+275.635 ID:6 [INFO: Flood     ] TX origin=6 seq=28 hops=0 total_tx=77
+275.650 ID:7 [INFO: Flood     ] DROP origin=6 seq=28 (proba)
+275.650 ID:1 [INFO: Flood     ] SINK_RECV origin=6 seq=28 hops=0
+276.467 ID:10 [INFO: Flood     ] SOURCE origin=10 seq=27
+276.472 ID:10 [INFO: Flood     ] TX origin=10 seq=27 hops=0 total_tx=97
+276.489 ID:5 [INFO: Flood     ] TX origin=10 seq=27 hops=1 total_tx=90
+276.489 ID:9 [INFO: Flood     ] TX origin=10 seq=27 hops=1 total_tx=104
+276.513 ID:4 [INFO: Flood     ] DROP origin=10 seq=27 (proba)
+276.525 ID:8 [INFO: Flood     ] TX origin=10 seq=27 hops=2 total_tx=114
+276.543 ID:7 [INFO: Flood     ] DROP origin=10 seq=27 (proba)
+276.545 ID:3 [INFO: Flood     ] TX origin=10 seq=27 hops=3 total_tx=107
+276.572 ID:2 [INFO: Flood     ] DROP origin=10 seq=27 (proba)
+278.868 ID:5 [INFO: Flood     ] SOURCE origin=5 seq=27
+278.873 ID:5 [INFO: Flood     ] TX origin=5 seq=27 hops=0 total_tx=91
+278.903 ID:10 [INFO: Flood     ] DROP origin=5 seq=27 (proba)
+278.906 ID:4 [INFO: Flood     ] TX origin=5 seq=27 hops=1 total_tx=96
+278.943 ID:9 [INFO: Flood     ] DROP origin=5 seq=27 (proba)
+278.943 ID:3 [INFO: Flood     ] DROP origin=5 seq=27 (proba)
+279.670 ID:2 [INFO: Flood     ] SOURCE origin=2 seq=28
+279.676 ID:2 [INFO: Flood     ] TX origin=2 seq=28 hops=0 total_tx=95
+279.690 ID:3 [INFO: Flood     ] DROP origin=2 seq=28 (proba)
+279.690 ID:1 [INFO: Flood     ] SINK_RECV origin=2 seq=28 hops=0
+279.692 ID:7 [INFO: Flood     ] TX origin=2 seq=28 hops=1 total_tx=98
+279.700 ID:6 [INFO: Flood     ] DROP origin=2 seq=28 (proba)
+279.700 ID:8 [INFO: Flood     ] DROP origin=2 seq=28 (proba)
+282.398 ID:7 [INFO: Flood     ] SOURCE origin=7 seq=28
+282.404 ID:7 [INFO: Flood     ] TX origin=7 seq=28 hops=0 total_tx=99
+282.436 ID:6 [INFO: Flood     ] TX origin=7 seq=28 hops=1 total_tx=78
+282.436 ID:2 [INFO: Flood     ] TX origin=7 seq=28 hops=1 total_tx=96
+282.436 ID:8 [INFO: Flood     ] TX origin=7 seq=28 hops=1 total_tx=115
+282.448 ID:1 [INFO: Flood     ] SINK_RECV origin=7 seq=28 hops=1
+282.450 ID:3 [INFO: Flood     ] TX origin=7 seq=28 hops=2 total_tx=108
+282.458 ID:4 [INFO: Flood     ] DROP origin=7 seq=28 (proba)
+282.459 ID:9 [INFO: Flood     ] TX origin=7 seq=28 hops=2 total_tx=105
+282.508 ID:10 [INFO: Flood     ] TX origin=7 seq=28 hops=3 total_tx=98
+282.520 ID:5 [INFO: Flood     ] TX origin=7 seq=28 hops=4 total_tx=92
+282.528 ID:3 [INFO: Flood     ] SOURCE origin=3 seq=28
+282.534 ID:3 [INFO: Flood     ] TX origin=3 seq=28 hops=0 total_tx=109
+282.556 ID:2 [INFO: Flood     ] DROP origin=3 seq=28 (proba)
+282.557 ID:4 [INFO: Flood     ] DROP origin=3 seq=28 (proba)
+282.559 ID:8 [INFO: Flood     ] TX origin=3 seq=28 hops=1 total_tx=116
+282.587 ID:8 [INFO: Flood     ] SOURCE origin=8 seq=27
+282.589 ID:9 [INFO: Flood     ] DROP origin=3 seq=28 (proba)
+282.592 ID:7 [INFO: Flood     ] TX origin=3 seq=28 hops=2 total_tx=100
+282.593 ID:8 [INFO: Flood     ] TX origin=8 seq=27 hops=0 total_tx=117
+282.605 ID:3 [INFO: Flood     ] DROP origin=8 seq=27 (proba)
+282.605 ID:7 [INFO: Flood     ] DROP origin=8 seq=27 (proba)
+282.607 ID:9 [INFO: Flood     ] TX origin=8 seq=27 hops=1 total_tx=106
+282.615 ID:10 [INFO: Flood     ] DROP origin=8 seq=27 (proba)
+282.615 ID:6 [INFO: Flood     ] TX origin=3 seq=28 hops=3 total_tx=79
+282.615 ID:4 [INFO: Flood     ] DROP origin=8 seq=27 (proba)
+282.642 ID:1 [INFO: Flood     ] SINK_RECV origin=3 seq=28 hops=3
+282.751 ID:4 [INFO: Flood     ] SOURCE origin=4 seq=28
+282.757 ID:4 [INFO: Flood     ] TX origin=4 seq=28 hops=0 total_tx=97
+282.765 ID:5 [INFO: Flood     ] DROP origin=4 seq=28 (proba)
+282.765 ID:3 [INFO: Flood     ] DROP origin=4 seq=28 (proba)
+282.767 ID:9 [INFO: Flood     ] TX origin=4 seq=28 hops=1 total_tx=107
+282.810 ID:8 [INFO: Flood     ] DROP origin=4 seq=28 (proba)
+282.813 ID:10 [INFO: Flood     ] TX origin=4 seq=28 hops=2 total_tx=99
+282.986 ID:9 [INFO: Flood     ] SOURCE origin=9 seq=28
+282.992 ID:9 [INFO: Flood     ] TX origin=9 seq=28 hops=0 total_tx=108
+283.000 ID:8 [INFO: Flood     ] DROP origin=9 seq=28 (proba)
+283.002 ID:4 [INFO: Flood     ] TX origin=9 seq=28 hops=1 total_tx=98
+283.003 ID:10 [INFO: Flood     ] TX origin=9 seq=28 hops=1 total_tx=100
+283.049 ID:5 [INFO: Flood     ] DROP origin=9 seq=28 (proba)
+283.052 ID:3 [INFO: Flood     ] DROP origin=9 seq=28 (proba)
+285.342 ID:10 [INFO: Flood     ] SOURCE origin=10 seq=28
+285.348 ID:10 [INFO: Flood     ] TX origin=10 seq=28 hops=0 total_tx=101
+285.364 ID:6 [INFO: Flood     ] SOURCE origin=6 seq=29
+285.369 ID:6 [INFO: Flood     ] TX origin=6 seq=29 hops=0 total_tx=80
+285.372 ID:5 [INFO: Flood     ] TX origin=10 seq=28 hops=1 total_tx=93
+285.373 ID:9 [INFO: Flood     ] TX origin=10 seq=28 hops=1 total_tx=109
+285.381 ID:8 [INFO: Flood     ] DROP origin=10 seq=28 (proba)
+285.383 ID:4 [INFO: Flood     ] TX origin=10 seq=28 hops=2 total_tx=99
+285.398 ID:3 [INFO: Flood     ] TX origin=10 seq=28 hops=3 total_tx=110
+285.415 ID:7 [INFO: Flood     ] DROP origin=6 seq=29 (proba)
+285.415 ID:1 [INFO: Flood     ] SINK_RECV origin=6 seq=29 hops=0
+285.434 ID:2 [INFO: Flood     ] TX origin=10 seq=28 hops=4 total_tx=97
+285.442 ID:1 [INFO: Flood     ] SINK_RECV origin=10 seq=28 hops=4
+285.445 ID:7 [INFO: Flood     ] TX origin=10 seq=28 hops=5 total_tx=101
+285.483 ID:6 [INFO: Flood     ] TX origin=10 seq=28 hops=6 total_tx=81
+287.993 ID:5 [INFO: Flood     ] SOURCE origin=5 seq=28
+287.998 ID:5 [INFO: Flood     ] TX origin=5 seq=28 hops=0 total_tx=94
+288.044 ID:10 [INFO: Flood     ] DROP origin=5 seq=28 (proba)
+288.047 ID:4 [INFO: Flood     ] TX origin=5 seq=28 hops=1 total_tx=100
+288.055 ID:9 [INFO: Flood     ] DROP origin=5 seq=28 (proba)
+288.055 ID:3 [INFO: Flood     ] DROP origin=5 seq=28 (proba)
+290.255 ID:2 [INFO: Flood     ] SOURCE origin=2 seq=29
+290.261 ID:2 [INFO: Flood     ] TX origin=2 seq=29 hops=0 total_tx=98
+290.276 ID:7 [INFO: Flood     ] DROP origin=2 seq=29 (proba)
+290.276 ID:1 [INFO: Flood     ] SINK_RECV origin=2 seq=29 hops=0
+290.278 ID:3 [INFO: Flood     ] TX origin=2 seq=29 hops=1 total_tx=111
+290.286 ID:4 [INFO: Flood     ] DROP origin=2 seq=29 (proba)
+290.289 ID:8 [INFO: Flood     ] TX origin=2 seq=29 hops=2 total_tx=118
+290.300 ID:9 [INFO: Flood     ] DROP origin=2 seq=29 (proba)
+291.881 ID:8 [INFO: Flood     ] SOURCE origin=8 seq=28
+291.888 ID:8 [INFO: Flood     ] TX origin=8 seq=28 hops=0 total_tx=119
+291.896 ID:7 [INFO: Flood     ] DROP origin=8 seq=28 (proba)
+291.896 ID:3 [INFO: Flood     ] DROP origin=8 seq=28 (proba)
+291.898 ID:9 [INFO: Flood     ] TX origin=8 seq=28 hops=1 total_tx=110
+291.912 ID:10 [INFO: Flood     ] DROP origin=8 seq=28 (proba)
+291.912 ID:4 [INFO: Flood     ] DROP origin=8 seq=28 (proba)
+292.101 ID:7 [INFO: Flood     ] SOURCE origin=7 seq=29
+292.107 ID:7 [INFO: Flood     ] TX origin=7 seq=29 hops=0 total_tx=102
+292.152 ID:6 [INFO: Flood     ] DROP origin=7 seq=29 (proba)
+292.153 ID:2 [INFO: Flood     ] DROP origin=7 seq=29 (proba)
+292.155 ID:8 [INFO: Flood     ] TX origin=7 seq=29 hops=1 total_tx=120
+292.186 ID:3 [INFO: Flood     ] TX origin=7 seq=29 hops=2 total_tx=112
+292.186 ID:9 [INFO: Flood     ] TX origin=7 seq=29 hops=2 total_tx=111
+292.220 ID:4 [INFO: Flood     ] DROP origin=7 seq=29 (proba)
+292.227 ID:10 [INFO: Flood     ] TX origin=7 seq=29 hops=3 total_tx=102
+292.247 ID:5 [INFO: Flood     ] TX origin=7 seq=29 hops=4 total_tx=95
+292.337 ID:9 [INFO: Flood     ] SOURCE origin=9 seq=29
+292.343 ID:9 [INFO: Flood     ] TX origin=9 seq=29 hops=0 total_tx=112
+292.357 ID:8 [INFO: Flood     ] DROP origin=9 seq=29 (proba)
+292.357 ID:10 [INFO: Flood     ] DROP origin=9 seq=29 (proba)
+292.357 ID:4 [INFO: Flood     ] DROP origin=9 seq=29 (proba)
+292.970 ID:4 [INFO: Flood     ] SOURCE origin=4 seq=29
+292.976 ID:4 [INFO: Flood     ] TX origin=4 seq=29 hops=0 total_tx=101
+293.006 ID:9 [INFO: Flood     ] DROP origin=4 seq=29 (proba)
+293.008 ID:5 [INFO: Flood     ] TX origin=4 seq=29 hops=1 total_tx=96
+293.008 ID:3 [INFO: Flood     ] TX origin=4 seq=29 hops=1 total_tx=113
+293.016 ID:10 [INFO: Flood     ] DROP origin=4 seq=29 (proba)
+293.059 ID:2 [INFO: Flood     ] TX origin=4 seq=29 hops=2 total_tx=99
+293.059 ID:8 [INFO: Flood     ] TX origin=4 seq=29 hops=2 total_tx=121
+293.073 ID:7 [INFO: Flood     ] DROP origin=4 seq=29 (proba)
+293.096 ID:1 [INFO: Flood     ] SINK_RECV origin=4 seq=29 hops=2
+293.575 ID:3 [INFO: Flood     ] SOURCE origin=3 seq=29
+293.581 ID:3 [INFO: Flood     ] TX origin=3 seq=29 hops=0 total_tx=114
+293.595 ID:4 [INFO: Flood     ] DROP origin=3 seq=29 (proba)
+293.598 ID:2 [INFO: Flood     ] TX origin=3 seq=29 hops=1 total_tx=100
+293.598 ID:8 [INFO: Flood     ] TX origin=3 seq=29 hops=1 total_tx=122
+293.623 ID:9 [INFO: Flood     ] TX origin=3 seq=29 hops=2 total_tx=113
+293.623 ID:7 [INFO: Flood     ] TX origin=3 seq=29 hops=2 total_tx=103
+293.628 ID:1 [INFO: Flood     ] SINK_RECV origin=3 seq=29 hops=1
+293.662 ID:10 [INFO: Flood     ] DROP origin=3 seq=29 (proba)
+293.668 ID:6 [INFO: Flood     ] DROP origin=3 seq=29 (proba)
+294.192 ID:6 [INFO: Flood     ] SOURCE origin=6 seq=30
+294.198 ID:6 [INFO: Flood     ] TX origin=6 seq=30 hops=0 total_tx=82
+294.206 ID:1 [INFO: Flood     ] SINK_RECV origin=6 seq=30 hops=0
+294.208 ID:7 [INFO: Flood     ] TX origin=6 seq=30 hops=1 total_tx=104
+294.216 ID:2 [INFO: Flood     ] DROP origin=6 seq=30 (proba)
+294.219 ID:8 [INFO: Flood     ] TX origin=6 seq=30 hops=2 total_tx=123
+294.229 ID:9 [INFO: Flood     ] TX origin=6 seq=30 hops=3 total_tx=114
+294.229 ID:3 [INFO: Flood     ] TX origin=6 seq=30 hops=3 total_tx=115
+294.237 ID:10 [INFO: Flood     ] DROP origin=6 seq=30 (proba)
+294.240 ID:4 [INFO: Flood     ] TX origin=6 seq=30 hops=4 total_tx=102
+294.248 ID:5 [INFO: Flood     ] DROP origin=6 seq=30 (proba)
+294.435 ID:10 [INFO: Flood     ] SOURCE origin=10 seq=29
+294.442 ID:10 [INFO: Flood     ] TX origin=10 seq=29 hops=0 total_tx=103
+294.450 ID:5 [INFO: Flood     ] DROP origin=10 seq=29 (proba)
+294.453 ID:9 [INFO: Flood     ] TX origin=10 seq=29 hops=1 total_tx=115
+294.463 ID:4 [INFO: Flood     ] TX origin=10 seq=29 hops=2 total_tx=103
+294.463 ID:8 [INFO: Flood     ] TX origin=10 seq=29 hops=2 total_tx=124
+294.490 ID:3 [INFO: Flood     ] DROP origin=10 seq=29 (proba)
+294.503 ID:7 [INFO: Flood     ] DROP origin=10 seq=29 (proba)
+297.641 ID:5 [INFO: Flood     ] SOURCE origin=5 seq=29
+297.646 ID:5 [INFO: Flood     ] TX origin=5 seq=29 hops=0 total_tx=97
+297.677 ID:10 [INFO: Flood     ] DROP origin=5 seq=29 (proba)
+297.677 ID:4 [INFO: Flood     ] DROP origin=5 seq=29 (proba)
+299.295 ID:2 [INFO: Flood     ] SOURCE origin=2 seq=30
+299.301 ID:2 [INFO: Flood     ] TX origin=2 seq=30 hops=0 total_tx=101
+299.309 ID:1 [INFO: Flood     ] SINK_RECV origin=2 seq=30 hops=0
+299.312 ID:7 [INFO: Flood     ] TX origin=2 seq=30 hops=1 total_tx=105
+299.312 ID:3 [INFO: Flood     ] TX origin=2 seq=30 hops=1 total_tx=116
+299.324 ID:6 [INFO: Flood     ] DROP origin=2 seq=30 (proba)
+299.327 ID:8 [INFO: Flood     ] TX origin=2 seq=30 hops=2 total_tx=125
+299.335 ID:9 [INFO: Flood     ] DROP origin=2 seq=30 (proba)
+299.353 ID:4 [INFO: Flood     ] DROP origin=2 seq=30 (proba)
+300.390 ID:8 [INFO: Flood     ] ENERGEST cpu=474866 lpm=9357601 tx=3008 rx=9827879
+TEST OK
+Test ended at simulation time: 300390144
